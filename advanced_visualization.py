@@ -140,133 +140,112 @@ def run_advanced_visualization(trace_path='simulation_data.csv', scenario_name='
         histories[key] = solve_with_history('Iterative DP', services, full_trace, horizon, la)
         tqdm.write(f"    {key}: ${histories[key][-1]:,.0f}")
     
-    print("\n[4/4] Generating advanced visualization...")
+    print("\n[4/4] Generating separate visualizations...")
     
-    # Create a figure with multiple subplots
-    fig = plt.figure(figsize=(18, 12))
-    gs = GridSpec(2, 3, figure=fig, hspace=0.3, wspace=0.3)
-    
-    # === Panel 1: Cumulative TCO over time for DA-MA ===
-    ax1 = fig.add_subplot(gs[0, 0])
+    os.makedirs('output', exist_ok=True)
     months = np.arange(1, horizon + 1)
-    
     colors = plt.cm.viridis(np.linspace(0.2, 0.8, len(lookaheads)))
-    for i, la in enumerate(lookaheads):
-        ax1.plot(months, histories[f'DA-MA (L={la})'], color=colors[i], 
-                 linewidth=2, label=f'L={la}')
     
-    ax1.plot(months, histories['Reactive'], 'm--', linewidth=1.5, alpha=0.7, label='Reactive')
-    ax1.plot(months, histories['Decoupled DP'], 'k:', linewidth=1.5, alpha=0.7, label='Lower Bound')
-    
-    ax1.set_xlabel('Month', fontsize=11)
-    ax1.set_ylabel('Cumulative TCO ($)', fontsize=11)
-    ax1.set_title('DA-MA: Cumulative TCO by Lookahead', fontsize=12, fontweight='bold')
-    ax1.legend(loc='upper left', fontsize=9)
-    ax1.grid(True, alpha=0.3)
-    
-    # === Panel 2: Cumulative TCO over time for Iterative DP ===
-    ax2 = fig.add_subplot(gs[0, 1])
-    
-    for i, la in enumerate(lookaheads):
-        ax2.plot(months, histories[f'Iter-DP (L={la})'], color=colors[i], 
-                 linewidth=2, label=f'L={la}')
-    
-    ax2.plot(months, histories['Reactive'], 'm--', linewidth=1.5, alpha=0.7, label='Reactive')
-    ax2.plot(months, histories['Decoupled DP'], 'k:', linewidth=1.5, alpha=0.7, label='Lower Bound')
-    
-    ax2.set_xlabel('Month', fontsize=11)
-    ax2.set_ylabel('Cumulative TCO ($)', fontsize=11)
-    ax2.set_title('Iterative DP: Cumulative TCO by Lookahead', fontsize=12, fontweight='bold')
-    ax2.legend(loc='upper left', fontsize=9)
-    ax2.grid(True, alpha=0.3)
-    
-    # === Panel 3: Final TCO comparison (bar chart) ===
-    ax3 = fig.add_subplot(gs[0, 2])
-    
-    x = np.arange(len(lookaheads))
-    width = 0.35
-    
+    # Pre-calculate common data
+    lb = histories['Decoupled DP'][-1]
     dma_finals = [histories[f'DA-MA (L={la})'][-1] for la in lookaheads]
     iter_finals = [histories[f'Iter-DP (L={la})'][-1] for la in lookaheads]
+    best_dma_idx = np.argmin(dma_finals)
+    best_iter_idx = np.argmin(iter_finals)
     
-    bars1 = ax3.bar(x - width/2, dma_finals, width, label='DA-MA', color='#2ca02c', alpha=0.8)
-    bars2 = ax3.bar(x + width/2, iter_finals, width, label='Iterative DP', color='#17becf', alpha=0.8)
+    # === Graph 1: DA-MA Cumulative TCO ===
+    fig1, ax1 = plt.subplots(figsize=(8, 6))
+    for i, la in enumerate(lookaheads):
+        ax1.plot(months, histories[f'DA-MA (L={la})'], color=colors[i], linewidth=2, label=f'L={la}')
+    ax1.plot(months, histories['Reactive'], 'm--', linewidth=1.5, alpha=0.7, label='Reactive')
+    ax1.plot(months, histories['Decoupled DP'], 'k:', linewidth=1.5, alpha=0.7, label='Lower Bound')
+    ax1.set_xlabel('Month', fontsize=11)
+    ax1.set_ylabel('Cumulative TCO ($)', fontsize=11)
+    ax1.legend(loc='upper left', fontsize=9)
+    ax1.grid(True, alpha=0.3)
+    plt.tight_layout()
+    plt.savefig(f'output/{scenario_name}_1_dama_tco.png', dpi=150, bbox_inches='tight')
+    plt.close(fig1)
+    print(f"      Saved: output/{scenario_name}_1_dama_tco.png")
     
+    # === Graph 2: Iterative DP Cumulative TCO ===
+    fig2, ax2 = plt.subplots(figsize=(8, 6))
+    for i, la in enumerate(lookaheads):
+        ax2.plot(months, histories[f'Iter-DP (L={la})'], color=colors[i], linewidth=2, label=f'L={la}')
+    ax2.plot(months, histories['Reactive'], 'm--', linewidth=1.5, alpha=0.7, label='Reactive')
+    ax2.plot(months, histories['Decoupled DP'], 'k:', linewidth=1.5, alpha=0.7, label='Lower Bound')
+    ax2.set_xlabel('Month', fontsize=11)
+    ax2.set_ylabel('Cumulative TCO ($)', fontsize=11)
+    ax2.legend(loc='upper left', fontsize=9)
+    ax2.grid(True, alpha=0.3)
+    plt.tight_layout()
+    plt.savefig(f'output/{scenario_name}_2_iterdp_tco.png', dpi=150, bbox_inches='tight')
+    plt.close(fig2)
+    print(f"      Saved: output/{scenario_name}_2_iterdp_tco.png")
+    
+    # === Graph 3: Final TCO Bar Chart ===
+    fig3, ax3 = plt.subplots(figsize=(8, 6))
+    x = np.arange(len(lookaheads))
+    width = 0.35
+    ax3.bar(x - width/2, dma_finals, width, label='DA-MA', color='#2ca02c', alpha=0.8)
+    ax3.bar(x + width/2, iter_finals, width, label='Iterative DP', color='#17becf', alpha=0.8)
     ax3.axhline(y=histories['Reactive'][-1], color='m', linestyle='--', linewidth=1.5, label='Reactive')
     ax3.axhline(y=histories['Decoupled DP'][-1], color='k', linestyle=':', linewidth=1.5, label='Lower Bound')
-    
     ax3.set_xlabel('Lookahead Window (Months)', fontsize=11)
     ax3.set_ylabel('Final TCO ($)', fontsize=11)
-    ax3.set_title('Final TCO by Algorithm & Lookahead', fontsize=12, fontweight='bold')
     ax3.set_xticks(x)
     ax3.set_xticklabels([str(la) for la in lookaheads])
     ax3.legend(loc='upper right', fontsize=9)
     ax3.grid(True, alpha=0.3, axis='y')
+    plt.tight_layout()
+    plt.savefig(f'output/{scenario_name}_3_bar_comparison.png', dpi=150, bbox_inches='tight')
+    plt.close(fig3)
+    print(f"      Saved: output/{scenario_name}_3_bar_comparison.png")
     
-    # === Panel 4: Heatmap of % Gap from Lower Bound ===
-    ax4 = fig.add_subplot(gs[1, 0])
-    
-    lb = histories['Decoupled DP'][-1]
+    # === Graph 4: Heatmap ===
+    fig4, ax4 = plt.subplots(figsize=(8, 5))
     algorithms = ['Reactive', 'DA-MA', 'Iter-DP']
     gap_data = []
-    
-    # Reactive (no lookahead variation)
     reactive_gap = ((histories['Reactive'][-1] - lb) / lb) * 100
     gap_data.append([reactive_gap] * len(lookaheads))
-    
-    # DA-MA
     dma_gaps = [((histories[f'DA-MA (L={la})'][-1] - lb) / lb) * 100 for la in lookaheads]
     gap_data.append(dma_gaps)
-    
-    # Iter-DP
     iter_gaps = [((histories[f'Iter-DP (L={la})'][-1] - lb) / lb) * 100 for la in lookaheads]
     gap_data.append(iter_gaps)
-    
     gap_array = np.array(gap_data)
-    # Dynamic vmax based on actual data range
-    vmax_val = max(np.max(gap_array), 10)  # At least 10% for visibility
+    vmax_val = max(np.max(gap_array), 10)
     im = ax4.imshow(gap_array, cmap='RdYlGn_r', aspect='auto', vmin=0, vmax=vmax_val)
-    
     ax4.set_xticks(np.arange(len(lookaheads)))
     ax4.set_yticks(np.arange(len(algorithms)))
     ax4.set_xticklabels([str(la) for la in lookaheads])
     ax4.set_yticklabels(algorithms)
     ax4.set_xlabel('Lookahead Window (Months)', fontsize=11)
-    ax4.set_title('% Gap from Lower Bound', fontsize=12, fontweight='bold')
-    
-    # Add text annotations
     for i in range(len(algorithms)):
         for j in range(len(lookaheads)):
-            text = ax4.text(j, i, f'{gap_array[i, j]:.0f}%',
-                           ha='center', va='center', color='white', fontsize=10, fontweight='bold')
-    
+            ax4.text(j, i, f'{gap_array[i, j]:.0f}%', ha='center', va='center', color='white', fontsize=10, fontweight='bold')
     cbar = plt.colorbar(im, ax=ax4, shrink=0.8)
     cbar.set_label('Gap (%)', fontsize=10)
+    plt.tight_layout()
+    plt.savefig(f'output/{scenario_name}_4_heatmap.png', dpi=150, bbox_inches='tight')
+    plt.close(fig4)
+    print(f"      Saved: output/{scenario_name}_4_heatmap.png")
     
-    # === Panel 5: Line chart showing improvement with lookahead ===
-    ax5 = fig.add_subplot(gs[1, 1:])
-    
+    # === Graph 5: Impact Line Chart ===
+    fig5, ax5 = plt.subplots(figsize=(10, 6))
     ax5.plot(lookaheads, dma_finals, 'g-o', linewidth=2.5, markersize=12, label='DA-MA')
     ax5.plot(lookaheads, iter_finals, 'c-s', linewidth=2.5, markersize=12, label='Iterative DP')
-    
     ax5.axhline(y=histories['Reactive'][-1], color='m', linestyle='--', linewidth=2, label='Reactive')
     ax5.axhline(y=histories['Decoupled DP'][-1], color='k', linestyle=':', linewidth=2, label='Lower Bound')
     
-    # Add annotations for best values with dynamic positioning
-    best_dma_idx = np.argmin(dma_finals)
-    best_iter_idx = np.argmin(iter_finals)
-    
-    # Calculate y-range for relative offsets
     all_values = dma_finals + iter_finals + [histories['Reactive'][-1], histories['Decoupled DP'][-1]]
     y_range = max(all_values) - min(all_values)
-    offset = max(y_range * 0.08, 1000)  # 8% of range, minimum 1000
+    offset = max(y_range * 0.08, 1000)
     
     ax5.annotate(f'Best: ${dma_finals[best_dma_idx]/1000:.0f}K', 
                 xy=(lookaheads[best_dma_idx], dma_finals[best_dma_idx]),
                 xytext=(lookaheads[best_dma_idx] + 1, dma_finals[best_dma_idx] + offset),
                 fontsize=10, color='green', fontweight='bold',
                 arrowprops=dict(arrowstyle='->', color='green', lw=1.5))
-    
     ax5.annotate(f'Best: ${iter_finals[best_iter_idx]/1000:.0f}K', 
                 xy=(lookaheads[best_iter_idx], iter_finals[best_iter_idx]),
                 xytext=(lookaheads[best_iter_idx] + 1, iter_finals[best_iter_idx] - offset),
@@ -275,30 +254,14 @@ def run_advanced_visualization(trace_path='simulation_data.csv', scenario_name='
     
     ax5.set_xlabel('Lookahead Window (Months)', fontsize=12)
     ax5.set_ylabel('Final TCO ($)', fontsize=12)
-    ax5.set_title('Impact of Lookahead on Final TCO', fontsize=14, fontweight='bold')
     ax5.set_xticks(lookaheads)
     ax5.legend(loc='upper right', fontsize=11)
     ax5.grid(True, alpha=0.3)
-    
-    # Fill between to show gap from lower bound
-    ax5.fill_between(lookaheads, histories['Decoupled DP'][-1], iter_finals, 
-                     alpha=0.2, color='cyan', label='_nolegend_')
-    
-    plt.suptitle(f'Graph 5: Lookahead Sensitivity Analysis - {scenario_name}\n(Combined View)', 
-                 fontsize=16, fontweight='bold', y=1.02)
-    
+    ax5.fill_between(lookaheads, histories['Decoupled DP'][-1], iter_finals, alpha=0.2, color='cyan')
     plt.tight_layout()
-    os.makedirs('output', exist_ok=True)
-    output_file = f'output/graph5_advanced_{scenario_name}.png'
-    plt.savefig(output_file, dpi=150, bbox_inches='tight')
-    print(f"      Saved: {output_file}")
-    
-    try:
-        plt.show()
-    except:
-        pass
-    
-    plt.close(fig)  # Clean up between scenarios
+    plt.savefig(f'output/{scenario_name}_5_impact.png', dpi=150, bbox_inches='tight')
+    plt.close(fig5)
+    print(f"      Saved: output/{scenario_name}_5_impact.png")
     
     # Summary
     print("\n" + "=" * 60)
