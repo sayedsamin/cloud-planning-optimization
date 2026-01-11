@@ -18,6 +18,9 @@ PAAS_CATALOG = {
 
 # 1.3 TRANSITION MATRIX
 TRANSITION_MATRIX = {
+    ('Greenfield', 'SaaS'): 0.5,
+    ('Greenfield', 'PaaS'): 1.5,
+    ('Greenfield', 'IaaS'): 3.0,
     ('SaaS', 'PaaS'): 1.0, 
     ('PaaS', 'IaaS'): 2.0, 
     ('SaaS', 'IaaS'): 3.0, 
@@ -54,10 +57,19 @@ SERVICE_TOPOLOGY = {
 }
 
 # 3. DECISION SPACE
-DECISION_CATALOG = [
+DECISION_CATALOG = []
+
+# 1. Non-RI States (Age = 0)
+_base_decisions = [
     ('SaaS', 'Standard', 'us-east-1'),
     ('PaaS', 'Standard', 'us-east-1'),
     ('IaaS', 'OD', 'us-east-1'),
-    ('IaaS', 'RI', 'us-east-1'),
     ('IaaS', 'Spot', 'us-east-1')
 ]
+for d in _base_decisions:
+    DECISION_CATALOG.append((*d, 0)) # (Mode, Strat, Reg, Age=0)
+
+# 2. RI States (Age = 1 to 12)
+# RI_1 means "1st month of contract". RI_12 means "Last month of contract".
+for month in range(1, 13):
+    DECISION_CATALOG.append(('IaaS', 'RI', 'us-east-1', month))

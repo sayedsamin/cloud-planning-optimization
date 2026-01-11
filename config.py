@@ -16,11 +16,9 @@ class SimConfig:
     TAX_EGRESS_GB = 0.09
     
     # LABOR (Hourly Rates)
-    LABOR_SAAS = 0.5
-    LABOR_PAAS = 5.0
-    LABOR_IAAS = 20.0
-    LABOR_TRANSITION = 40.0
-    LABOR_RATE_HOURLY = 80.0
+    # LABOR (Fixed Costs)
+    COST_MAINTENANCE_MONTHLY = 0.0
+    COST_TRANSITION_FIXED = 3000.0 # Average cost per transition
     
     # COST PENALTIES
     PENALTY_PHYSICS_VIOLATION = 10000.0
@@ -39,3 +37,14 @@ class SimConfig:
     GBM_SIGMA = 0.40
     GBM_START = 50000
     GBM_SEED = 101
+
+    # PHYSICS CONSTANTS (User Requested)
+    AVG_PAYLOAD_KB = 50.0  # Average size of request/response
+    REVENUE_PER_REQ = 0.50 # Business value per transaction
+    AVAILABILITY_OD = 0.9999 # 99.99% SLA
+    AVAILABILITY_SPOT = 0.9500 # 95% Reliability
+    
+    # NETWORK PRICING (AWS-like)
+    COST_NAT_GATEWAY_GB = 0.045
+    COST_INTERNET_EGRESS = 0.090
+    COST_INTRA_REGION = 0.010

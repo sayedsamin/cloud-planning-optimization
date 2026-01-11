@@ -1,0 +1,2161 @@
+Algorithm,Month,Service,Mode,Type,Region,Age,Cost
+Static SaaS,1,frontend,SaaS,Standard,us-east-1,0,4603.346559651682
+Static SaaS,1,checkout,SaaS,Standard,us-east-1,0,6010.982093034651
+Static SaaS,1,recommendation,SaaS,Standard,us-east-1,0,7581.092911347589
+Static SaaS,1,productcatalog,SaaS,Standard,us-east-1,0,3818.7551547668295
+Static SaaS,1,cart,SaaS,Standard,us-east-1,0,3096.7021997030724
+Static SaaS,1,payment,SaaS,Standard,us-east-1,0,7510.506147806967
+Static SaaS,1,shipping,SaaS,Standard,us-east-1,0,3049.8136611851087
+Static SaaS,1,email,SaaS,Standard,us-east-1,0,1511.316929276817
+Static SaaS,1,currency,SaaS,Standard,us-east-1,0,1614.9284272791976
+Static SaaS,1,ad,SaaS,Standard,us-east-1,0,1614.4813579761083
+Static SaaS,2,frontend,SaaS,Standard,us-east-1,0,142.71226102281784
+Static SaaS,2,checkout,SaaS,Standard,us-east-1,0,13.523166009612707
+Static SaaS,2,recommendation,SaaS,Standard,us-east-1,0,111.83321816535138
+Static SaaS,2,productcatalog,SaaS,Standard,us-east-1,0,1186.5371839984887
+Static SaaS,2,cart,SaaS,Standard,us-east-1,0,122.80526480071967
+Static SaaS,2,payment,SaaS,Standard,us-east-1,0,13.084503785338702
+Static SaaS,2,shipping,SaaS,Standard,us-east-1,0,73.29185251887253
+Static SaaS,2,email,SaaS,Standard,us-east-1,0,13.157318972119256
+Static SaaS,2,currency,SaaS,Standard,us-east-1,0,160.41113603399444
+Static SaaS,2,ad,SaaS,Standard,us-east-1,0,138.35768996663475
+Static SaaS,3,frontend,SaaS,Standard,us-east-1,0,220.41399705207482
+Static SaaS,3,checkout,SaaS,Standard,us-east-1,0,20.629295068187275
+Static SaaS,3,recommendation,SaaS,Standard,us-east-1,0,179.3600314517945
+Static SaaS,3,productcatalog,SaaS,Standard,us-east-1,0,1997.0919171657342
+Static SaaS,3,cart,SaaS,Standard,us-east-1,0,197.54774403203268
+Static SaaS,3,payment,SaaS,Standard,us-east-1,0,19.279814719641692
+Static SaaS,3,shipping,SaaS,Standard,us-east-1,0,116.1216149124333
+Static SaaS,3,email,SaaS,Standard,us-east-1,0,19.91462845905735
+Static SaaS,3,currency,SaaS,Standard,us-east-1,0,219.0219657755878
+Static SaaS,3,ad,SaaS,Standard,us-east-1,0,212.08978318875262
+Static SaaS,4,frontend,SaaS,Standard,us-east-1,0,289.607699256648
+Static SaaS,4,checkout,SaaS,Standard,us-east-1,0,30.80952621491038
+Static SaaS,4,recommendation,SaaS,Standard,us-east-1,0,233.9598731139751
+Static SaaS,4,productcatalog,SaaS,Standard,us-east-1,0,2358.0731134116922
+Static SaaS,4,cart,SaaS,Standard,us-east-1,0,269.3508940519832
+Static SaaS,4,payment,SaaS,Standard,us-east-1,0,29.747844271518943
+Static SaaS,4,shipping,SaaS,Standard,us-east-1,0,150.09492323763627
+Static SaaS,4,email,SaaS,Standard,us-east-1,0,30.76214605986368
+Static SaaS,4,currency,SaaS,Standard,us-east-1,0,317.3984113346055
+Static SaaS,4,ad,SaaS,Standard,us-east-1,0,284.5914259674512
+Static SaaS,5,frontend,SaaS,Standard,us-east-1,0,403.61594186468255
+Static SaaS,5,checkout,SaaS,Standard,us-east-1,0,41.66352275359117
+Static SaaS,5,recommendation,SaaS,Standard,us-east-1,0,307.0261911059971
+Static SaaS,5,productcatalog,SaaS,Standard,us-east-1,0,3531.2281433461585
+Static SaaS,5,cart,SaaS,Standard,us-east-1,0,366.7419836792442
+Static SaaS,5,payment,SaaS,Standard,us-east-1,0,44.97873996644389
+Static SaaS,5,shipping,SaaS,Standard,us-east-1,0,195.7987762735816
+Static SaaS,5,email,SaaS,Standard,us-east-1,0,44.06188497281968
+Static SaaS,5,currency,SaaS,Standard,us-east-1,0,440.08580605251973
+Static SaaS,5,ad,SaaS,Standard,us-east-1,0,406.58305930404805
+Static SaaS,6,frontend,SaaS,Standard,us-east-1,0,381.5439055496986
+Static SaaS,6,checkout,SaaS,Standard,us-east-1,0,37.586582470396706
+Static SaaS,6,recommendation,SaaS,Standard,us-east-1,0,339.2925765611337
+Static SaaS,6,productcatalog,SaaS,Standard,us-east-1,0,3320.9743824376
+Static SaaS,6,cart,SaaS,Standard,us-east-1,0,338.8780534887477
+Static SaaS,6,payment,SaaS,Standard,us-east-1,0,34.50828275267115
+Static SaaS,6,shipping,SaaS,Standard,us-east-1,0,195.28142001640973
+Static SaaS,6,email,SaaS,Standard,us-east-1,0,36.959842104588056
+Static SaaS,6,currency,SaaS,Standard,us-east-1,0,430.384671706505
+Static SaaS,6,ad,SaaS,Standard,us-east-1,0,372.39738168350436
+Static SaaS,7,frontend,SaaS,Standard,us-east-1,0,291.9213740548995
+Static SaaS,7,checkout,SaaS,Standard,us-east-1,0,30.295223906575078
+Static SaaS,7,recommendation,SaaS,Standard,us-east-1,0,222.1942891399648
+Static SaaS,7,productcatalog,SaaS,Standard,us-east-1,0,2349.03970383739
+Static SaaS,7,cart,SaaS,Standard,us-east-1,0,262.6492360267814
+Static SaaS,7,payment,SaaS,Standard,us-east-1,0,32.95169327078694
+Static SaaS,7,shipping,SaaS,Standard,us-east-1,0,141.84382591237087
+Static SaaS,7,email,SaaS,Standard,us-east-1,0,33.50859338955271
+Static SaaS,7,currency,SaaS,Standard,us-east-1,0,361.6798249834084
+Static SaaS,7,ad,SaaS,Standard,us-east-1,0,300.0772107003346
+Static SaaS,8,frontend,SaaS,Standard,us-east-1,0,399.5584253013057
+Static SaaS,8,checkout,SaaS,Standard,us-east-1,0,43.46820430870383
+Static SaaS,8,recommendation,SaaS,Standard,us-east-1,0,295.3163032063201
+Static SaaS,8,productcatalog,SaaS,Standard,us-east-1,0,3177.8830515948093
+Static SaaS,8,cart,SaaS,Standard,us-east-1,0,328.994847021811
+Static SaaS,8,payment,SaaS,Standard,us-east-1,0,40.06433089965147
+Static SaaS,8,shipping,SaaS,Standard,us-east-1,0,194.71314527761837
+Static SaaS,8,email,SaaS,Standard,us-east-1,0,44.06020868054519
+Static SaaS,8,currency,SaaS,Standard,us-east-1,0,470.4625718969678
+Static SaaS,8,ad,SaaS,Standard,us-east-1,0,420.0320043535562
+Static SaaS,9,frontend,SaaS,Standard,us-east-1,0,191.44145898153664
+Static SaaS,9,checkout,SaaS,Standard,us-east-1,0,19.438052454892976
+Static SaaS,9,recommendation,SaaS,Standard,us-east-1,0,161.83467736946955
+Static SaaS,9,productcatalog,SaaS,Standard,us-east-1,0,1742.6747345355539
+Static SaaS,9,cart,SaaS,Standard,us-east-1,0,170.46396545943247
+Static SaaS,9,payment,SaaS,Standard,us-east-1,0,20.476556089441345
+Static SaaS,9,shipping,SaaS,Standard,us-east-1,0,104.12228166760679
+Static SaaS,9,email,SaaS,Standard,us-east-1,0,18.95406847306389
+Static SaaS,9,currency,SaaS,Standard,us-east-1,0,225.09594279398135
+Static SaaS,9,ad,SaaS,Standard,us-east-1,0,182.5789230345358
+Static SaaS,10,frontend,SaaS,Standard,us-east-1,0,276.4749580378924
+Static SaaS,10,checkout,SaaS,Standard,us-east-1,0,28.380053433804928
+Static SaaS,10,recommendation,SaaS,Standard,us-east-1,0,227.02118264006768
+Static SaaS,10,productcatalog,SaaS,Standard,us-east-1,0,2414.423119466539
+Static SaaS,10,cart,SaaS,Standard,us-east-1,0,258.2524708322169
+Static SaaS,10,payment,SaaS,Standard,us-east-1,0,24.467523330449485
+Static SaaS,10,shipping,SaaS,Standard,us-east-1,0,133.80047455134567
+Static SaaS,10,email,SaaS,Standard,us-east-1,0,27.77334174025802
+Static SaaS,10,currency,SaaS,Standard,us-east-1,0,286.884198033397
+Static SaaS,10,ad,SaaS,Standard,us-east-1,0,302.226722263913
+Static SaaS,11,frontend,SaaS,Standard,us-east-1,0,366.91675933372665
+Static SaaS,11,checkout,SaaS,Standard,us-east-1,0,38.41640534965161
+Static SaaS,11,recommendation,SaaS,Standard,us-east-1,0,299.30810134862844
+Static SaaS,11,productcatalog,SaaS,Standard,us-east-1,0,3122.6888001610187
+Static SaaS,11,cart,SaaS,Standard,us-east-1,0,356.71290347970483
+Static SaaS,11,payment,SaaS,Standard,us-east-1,0,41.7750038563436
+Static SaaS,11,shipping,SaaS,Standard,us-east-1,0,182.24326900108832
+Static SaaS,11,email,SaaS,Standard,us-east-1,0,37.13532637415761
+Static SaaS,11,currency,SaaS,Standard,us-east-1,0,408.6813640491649
+Static SaaS,11,ad,SaaS,Standard,us-east-1,0,346.11593340346224
+Static SaaS,12,frontend,SaaS,Standard,us-east-1,0,311.38315294080854
+Static SaaS,12,checkout,SaaS,Standard,us-east-1,0,32.30011887353892
+Static SaaS,12,recommendation,SaaS,Standard,us-east-1,0,241.25335661927795
+Static SaaS,12,productcatalog,SaaS,Standard,us-east-1,0,2582.2339410098466
+Static SaaS,12,cart,SaaS,Standard,us-east-1,0,290.18581144073516
+Static SaaS,12,payment,SaaS,Standard,us-east-1,0,31.166358758560477
+Static SaaS,12,shipping,SaaS,Standard,us-east-1,0,152.21511547170599
+Static SaaS,12,email,SaaS,Standard,us-east-1,0,33.37965705516784
+Static SaaS,12,currency,SaaS,Standard,us-east-1,0,338.50006526295
+Static SaaS,12,ad,SaaS,Standard,us-east-1,0,320.88777972331025
+Static SaaS,13,frontend,SaaS,Standard,us-east-1,0,360.68018169673485
+Static SaaS,13,checkout,SaaS,Standard,us-east-1,0,35.813258530762695
+Static SaaS,13,recommendation,SaaS,Standard,us-east-1,0,268.370730348441
+Static SaaS,13,productcatalog,SaaS,Standard,us-east-1,0,2956.6504244345647
+Static SaaS,13,cart,SaaS,Standard,us-east-1,0,324.2615534433542
+Static SaaS,13,payment,SaaS,Standard,us-east-1,0,36.155143379065976
+Static SaaS,13,shipping,SaaS,Standard,us-east-1,0,176.88982974916223
+Static SaaS,13,email,SaaS,Standard,us-east-1,0,35.29518684234283
+Static SaaS,13,currency,SaaS,Standard,us-east-1,0,367.65781869447125
+Static SaaS,13,ad,SaaS,Standard,us-east-1,0,367.64185585241296
+Static SaaS,14,frontend,SaaS,Standard,us-east-1,0,285.9829465547501
+Static SaaS,14,checkout,SaaS,Standard,us-east-1,0,28.720593557507847
+Static SaaS,14,recommendation,SaaS,Standard,us-east-1,0,226.2775922517926
+Static SaaS,14,productcatalog,SaaS,Standard,us-east-1,0,2454.0114765732155
+Static SaaS,14,cart,SaaS,Standard,us-east-1,0,260.86208682926235
+Static SaaS,14,payment,SaaS,Standard,us-east-1,0,28.595880009776117
+Static SaaS,14,shipping,SaaS,Standard,us-east-1,0,150.00325231461508
+Static SaaS,14,email,SaaS,Standard,us-east-1,0,28.486996032975497
+Static SaaS,14,currency,SaaS,Standard,us-east-1,0,321.39160248395564
+Static SaaS,14,ad,SaaS,Standard,us-east-1,0,315.78263455380187
+Static SaaS,15,frontend,SaaS,Standard,us-east-1,0,211.47920175451952
+Static SaaS,15,checkout,SaaS,Standard,us-east-1,0,19.155988353157017
+Static SaaS,15,recommendation,SaaS,Standard,us-east-1,0,168.7969763846299
+Static SaaS,15,productcatalog,SaaS,Standard,us-east-1,0,1794.8581606246996
+Static SaaS,15,cart,SaaS,Standard,us-east-1,0,183.45879618536034
+Static SaaS,15,payment,SaaS,Standard,us-east-1,0,18.820122421772375
+Static SaaS,15,shipping,SaaS,Standard,us-east-1,0,107.5282274211958
+Static SaaS,15,email,SaaS,Standard,us-east-1,0,18.548263344199654
+Static SaaS,15,currency,SaaS,Standard,us-east-1,0,241.88812308207554
+Static SaaS,15,ad,SaaS,Standard,us-east-1,0,207.49790831015062
+Static SaaS,16,frontend,SaaS,Standard,us-east-1,0,332.8322542936575
+Static SaaS,16,checkout,SaaS,Standard,us-east-1,0,31.09628091763055
+Static SaaS,16,recommendation,SaaS,Standard,us-east-1,0,266.43116768241515
+Static SaaS,16,productcatalog,SaaS,Standard,us-east-1,0,2825.857702517612
+Static SaaS,16,cart,SaaS,Standard,us-east-1,0,312.474806877378
+Static SaaS,16,payment,SaaS,Standard,us-east-1,0,33.50273218256577
+Static SaaS,16,shipping,SaaS,Standard,us-east-1,0,174.18343848078854
+Static SaaS,16,email,SaaS,Standard,us-east-1,0,33.93170824745479
+Static SaaS,16,currency,SaaS,Standard,us-east-1,0,370.42148901332547
+Static SaaS,16,ad,SaaS,Standard,us-east-1,0,336.66542251783846
+Static SaaS,17,frontend,SaaS,Standard,us-east-1,0,385.848850148536
+Static SaaS,17,checkout,SaaS,Standard,us-east-1,0,43.60331250955795
+Static SaaS,17,recommendation,SaaS,Standard,us-east-1,0,310.12413012883235
+Static SaaS,17,productcatalog,SaaS,Standard,us-east-1,0,3247.241828585652
+Static SaaS,17,cart,SaaS,Standard,us-east-1,0,370.7624634250682
+Static SaaS,17,payment,SaaS,Standard,us-east-1,0,45.93810062862203
+Static SaaS,17,shipping,SaaS,Standard,us-east-1,0,203.30992817093266
+Static SaaS,17,email,SaaS,Standard,us-east-1,0,39.43582029497703
+Static SaaS,17,currency,SaaS,Standard,us-east-1,0,446.3838280215408
+Static SaaS,17,ad,SaaS,Standard,us-east-1,0,398.99104126129083
+Static SaaS,18,frontend,SaaS,Standard,us-east-1,0,914.5553621839183
+Static SaaS,18,checkout,SaaS,Standard,us-east-1,0,88.65447281257626
+Static SaaS,18,recommendation,SaaS,Standard,us-east-1,0,777.0359629005616
+Static SaaS,18,productcatalog,SaaS,Standard,us-east-1,0,7837.346473895005
+Static SaaS,18,cart,SaaS,Standard,us-east-1,0,799.3272896311895
+Static SaaS,18,payment,SaaS,Standard,us-east-1,0,88.38445430277241
+Static SaaS,18,shipping,SaaS,Standard,us-east-1,0,450.3897116864162
+Static SaaS,18,email,SaaS,Standard,us-east-1,0,87.15599645562723
+Static SaaS,18,currency,SaaS,Standard,us-east-1,0,1070.2875890184657
+Static SaaS,18,ad,SaaS,Standard,us-east-1,0,961.8893215671942
+Static SaaS,19,frontend,SaaS,Standard,us-east-1,0,2785.8666192011515
+Static SaaS,19,checkout,SaaS,Standard,us-east-1,0,254.69837652969446
+Static SaaS,19,recommendation,SaaS,Standard,us-east-1,0,2106.37224131746
+Static SaaS,19,productcatalog,SaaS,Standard,us-east-1,0,22897.621956324638
+Static SaaS,19,cart,SaaS,Standard,us-east-1,0,2325.8757614968936
+Static SaaS,19,payment,SaaS,Standard,us-east-1,0,260.703522289267
+Static SaaS,19,shipping,SaaS,Standard,us-east-1,0,1315.6095021793199
+Static SaaS,19,email,SaaS,Standard,us-east-1,0,259.661436655669
+Static SaaS,19,currency,SaaS,Standard,us-east-1,0,2988.2450392959854
+Static SaaS,19,ad,SaaS,Standard,us-east-1,0,2781.5261719396585
+Static SaaS,20,frontend,SaaS,Standard,us-east-1,0,3933.1943787882847
+Static SaaS,20,checkout,SaaS,Standard,us-east-1,0,419.86940048640963
+Static SaaS,20,recommendation,SaaS,Standard,us-east-1,0,2846.372720216581
+Static SaaS,20,productcatalog,SaaS,Standard,us-east-1,0,32391.80304578918
+Static SaaS,20,cart,SaaS,Standard,us-east-1,0,3642.053369459819
+Static SaaS,20,payment,SaaS,Standard,us-east-1,0,439.82355684754776
+Static SaaS,20,shipping,SaaS,Standard,us-east-1,0,1990.0985337224265
+Static SaaS,20,email,SaaS,Standard,us-east-1,0,426.62502367027247
+Static SaaS,20,currency,SaaS,Standard,us-east-1,0,4712.364109456037
+Static SaaS,20,ad,SaaS,Standard,us-east-1,0,4314.7009218295825
+Static SaaS,21,frontend,SaaS,Standard,us-east-1,0,4768.383964027778
+Static SaaS,21,checkout,SaaS,Standard,us-east-1,0,519.7297687967566
+Static SaaS,21,recommendation,SaaS,Standard,us-east-1,0,3742.207993468123
+Static SaaS,21,productcatalog,SaaS,Standard,us-east-1,0,40739.87409232572
+Static SaaS,21,cart,SaaS,Standard,us-east-1,0,4542.676300687633
+Static SaaS,21,payment,SaaS,Standard,us-east-1,0,511.7665966255183
+Static SaaS,21,shipping,SaaS,Standard,us-east-1,0,2366.8229342245677
+Static SaaS,21,email,SaaS,Standard,us-east-1,0,520.8058576246128
+Static SaaS,21,currency,SaaS,Standard,us-east-1,0,5059.631344962574
+Static SaaS,21,ad,SaaS,Standard,us-east-1,0,4528.728105173013
+Static SaaS,22,frontend,SaaS,Standard,us-east-1,0,10084.362812178237
+Static SaaS,22,checkout,SaaS,Standard,us-east-1,0,942.2398178906262
+Static SaaS,22,recommendation,SaaS,Standard,us-east-1,0,7395.444440811949
+Static SaaS,22,productcatalog,SaaS,Standard,us-east-1,0,82682.40819688347
+Static SaaS,22,cart,SaaS,Standard,us-east-1,0,8784.51381929759
+Static SaaS,22,payment,SaaS,Standard,us-east-1,0,982.8387721971005
+Static SaaS,22,shipping,SaaS,Standard,us-east-1,0,4831.732386967185
+Static SaaS,22,email,SaaS,Standard,us-east-1,0,977.9600463533806
+Static SaaS,22,currency,SaaS,Standard,us-east-1,0,10926.976237066589
+Static SaaS,22,ad,SaaS,Standard,us-east-1,0,9710.338986567236
+Static SaaS,23,frontend,SaaS,Standard,us-east-1,0,5474.1717027076065
+Static SaaS,23,checkout,SaaS,Standard,us-east-1,0,548.3365678480725
+Static SaaS,23,recommendation,SaaS,Standard,us-east-1,0,3780.026227527966
+Static SaaS,23,productcatalog,SaaS,Standard,us-east-1,0,44039.21645967169
+Static SaaS,23,cart,SaaS,Standard,us-east-1,0,4974.969786438187
+Static SaaS,23,payment,SaaS,Standard,us-east-1,0,577.4920792621122
+Static SaaS,23,shipping,SaaS,Standard,us-east-1,0,2697.668183601444
+Static SaaS,23,email,SaaS,Standard,us-east-1,0,555.2991602547829
+Static SaaS,23,currency,SaaS,Standard,us-east-1,0,5970.607642916548
+Static SaaS,23,ad,SaaS,Standard,us-east-1,0,5525.38929080382
+Static SaaS,24,frontend,SaaS,Standard,us-east-1,0,3698.3344607597733
+Static SaaS,24,checkout,SaaS,Standard,us-east-1,0,365.7614331069133
+Static SaaS,24,recommendation,SaaS,Standard,us-east-1,0,3183.9053255090494
+Static SaaS,24,productcatalog,SaaS,Standard,us-east-1,0,32110.698905660072
+Static SaaS,24,cart,SaaS,Standard,us-east-1,0,3352.9202963760195
+Static SaaS,24,payment,SaaS,Standard,us-east-1,0,354.7878508055159
+Static SaaS,24,shipping,SaaS,Standard,us-east-1,0,2020.2016908150874
+Static SaaS,24,email,SaaS,Standard,us-east-1,0,362.1056720972938
+Static SaaS,24,currency,SaaS,Standard,us-east-1,0,3992.560695084382
+Static SaaS,24,ad,SaaS,Standard,us-east-1,0,3562.8191375818533
+Static SaaS,25,frontend,SaaS,Standard,us-east-1,0,3763.8246931483473
+Static SaaS,25,checkout,SaaS,Standard,us-east-1,0,370.57730204833473
+Static SaaS,25,recommendation,SaaS,Standard,us-east-1,0,3037.859555065083
+Static SaaS,25,productcatalog,SaaS,Standard,us-east-1,0,32414.85366889255
+Static SaaS,25,cart,SaaS,Standard,us-east-1,0,3530.079312045419
+Static SaaS,25,payment,SaaS,Standard,us-east-1,0,349.06430663207203
+Static SaaS,25,shipping,SaaS,Standard,us-east-1,0,1975.2215800289014
+Static SaaS,25,email,SaaS,Standard,us-east-1,0,351.3110576933979
+Static SaaS,25,currency,SaaS,Standard,us-east-1,0,3834.1554832382362
+Static SaaS,25,ad,SaaS,Standard,us-east-1,0,3503.5712524513656
+Static SaaS,26,frontend,SaaS,Standard,us-east-1,0,4726.269229240537
+Static SaaS,26,checkout,SaaS,Standard,us-east-1,0,452.72775806378417
+Static SaaS,26,recommendation,SaaS,Standard,us-east-1,0,3662.5173394342128
+Static SaaS,26,productcatalog,SaaS,Standard,us-east-1,0,37558.00715500896
+Static SaaS,26,cart,SaaS,Standard,us-east-1,0,4331.596077298205
+Static SaaS,26,payment,SaaS,Standard,us-east-1,0,460.40773942225974
+Static SaaS,26,shipping,SaaS,Standard,us-east-1,0,2409.6806619469057
+Static SaaS,26,email,SaaS,Standard,us-east-1,0,460.4022853812618
+Static SaaS,26,currency,SaaS,Standard,us-east-1,0,5418.135730577497
+Static SaaS,26,ad,SaaS,Standard,us-east-1,0,5076.602871521882
+Static SaaS,27,frontend,SaaS,Standard,us-east-1,0,5427.0046991159725
+Static SaaS,27,checkout,SaaS,Standard,us-east-1,0,520.1468761179549
+Static SaaS,27,recommendation,SaaS,Standard,us-east-1,0,4256.706092834141
+Static SaaS,27,productcatalog,SaaS,Standard,us-east-1,0,45993.27249747625
+Static SaaS,27,cart,SaaS,Standard,us-east-1,0,4735.371407973195
+Static SaaS,27,payment,SaaS,Standard,us-east-1,0,496.81671461428357
+Static SaaS,27,shipping,SaaS,Standard,us-east-1,0,2506.3423206918474
+Static SaaS,27,email,SaaS,Standard,us-east-1,0,491.66926144875305
+Static SaaS,27,currency,SaaS,Standard,us-east-1,0,6436.347302946458
+Static SaaS,27,ad,SaaS,Standard,us-east-1,0,5687.896595671661
+Static SaaS,28,frontend,SaaS,Standard,us-east-1,0,6275.652516928999
+Static SaaS,28,checkout,SaaS,Standard,us-east-1,0,612.0662314095673
+Static SaaS,28,recommendation,SaaS,Standard,us-east-1,0,5458.180233199931
+Static SaaS,28,productcatalog,SaaS,Standard,us-east-1,0,59167.79309358915
+Static SaaS,28,cart,SaaS,Standard,us-east-1,0,5854.5159337038285
+Static SaaS,28,payment,SaaS,Standard,us-east-1,0,625.3105706130721
+Static SaaS,28,shipping,SaaS,Standard,us-east-1,0,3102.0173584963136
+Static SaaS,28,email,SaaS,Standard,us-east-1,0,549.9856289241578
+Static SaaS,28,currency,SaaS,Standard,us-east-1,0,7035.04970549754
+Static SaaS,28,ad,SaaS,Standard,us-east-1,0,5603.777301738932
+Static SaaS,29,frontend,SaaS,Standard,us-east-1,0,9311.49067350368
+Static SaaS,29,checkout,SaaS,Standard,us-east-1,0,956.8857629849517
+Static SaaS,29,recommendation,SaaS,Standard,us-east-1,0,7870.078641165612
+Static SaaS,29,productcatalog,SaaS,Standard,us-east-1,0,78521.05324892384
+Static SaaS,29,cart,SaaS,Standard,us-east-1,0,8361.263894484337
+Static SaaS,29,payment,SaaS,Standard,us-east-1,0,943.4686552785502
+Static SaaS,29,shipping,SaaS,Standard,us-east-1,0,4656.996879360996
+Static SaaS,29,email,SaaS,Standard,us-east-1,0,1003.1795714898648
+Static SaaS,29,currency,SaaS,Standard,us-east-1,0,10346.680021499247
+Static SaaS,29,ad,SaaS,Standard,us-east-1,0,9773.607596047057
+Static SaaS,30,frontend,SaaS,Standard,us-east-1,0,10297.719115411763
+Static SaaS,30,checkout,SaaS,Standard,us-east-1,0,1019.9627600929339
+Static SaaS,30,recommendation,SaaS,Standard,us-east-1,0,8607.985461719629
+Static SaaS,30,productcatalog,SaaS,Standard,us-east-1,0,88271.0890554048
+Static SaaS,30,cart,SaaS,Standard,us-east-1,0,9298.648496640551
+Static SaaS,30,payment,SaaS,Standard,us-east-1,0,1071.7020573062919
+Static SaaS,30,shipping,SaaS,Standard,us-east-1,0,5213.559644997557
+Static SaaS,30,email,SaaS,Standard,us-east-1,0,1006.4222865991651
+Static SaaS,30,currency,SaaS,Standard,us-east-1,0,11059.511102825796
+Static SaaS,30,ad,SaaS,Standard,us-east-1,0,10911.587075443887
+Static SaaS,31,frontend,SaaS,Standard,us-east-1,0,14280.951590896806
+Static SaaS,31,checkout,SaaS,Standard,us-east-1,0,1444.6331555001707
+Static SaaS,31,recommendation,SaaS,Standard,us-east-1,0,11613.76430906611
+Static SaaS,31,productcatalog,SaaS,Standard,us-east-1,0,116065.17965709227
+Static SaaS,31,cart,SaaS,Standard,us-east-1,0,13327.65811540858
+Static SaaS,31,payment,SaaS,Standard,us-east-1,0,1510.8635033109624
+Static SaaS,31,shipping,SaaS,Standard,us-east-1,0,7421.23601041671
+Static SaaS,31,email,SaaS,Standard,us-east-1,0,1409.272623552324
+Static SaaS,31,currency,SaaS,Standard,us-east-1,0,16004.321274521417
+Static SaaS,31,ad,SaaS,Standard,us-east-1,0,13533.501195686129
+Static SaaS,32,frontend,SaaS,Standard,us-east-1,0,17501.287924954897
+Static SaaS,32,checkout,SaaS,Standard,us-east-1,0,1763.728333824371
+Static SaaS,32,recommendation,SaaS,Standard,us-east-1,0,13256.841349343153
+Static SaaS,32,productcatalog,SaaS,Standard,us-east-1,0,147495.96414023865
+Static SaaS,32,cart,SaaS,Standard,us-east-1,0,14391.68812698712
+Static SaaS,32,payment,SaaS,Standard,us-east-1,0,1950.5735817803911
+Static SaaS,32,shipping,SaaS,Standard,us-east-1,0,8815.125466741381
+Static SaaS,32,email,SaaS,Standard,us-east-1,0,1746.3615822578672
+Static SaaS,32,currency,SaaS,Standard,us-east-1,0,19653.544454606945
+Static SaaS,32,ad,SaaS,Standard,us-east-1,0,18632.54017895605
+Static SaaS,33,frontend,SaaS,Standard,us-east-1,0,15408.545012536333
+Static SaaS,33,checkout,SaaS,Standard,us-east-1,0,1525.77703292326
+Static SaaS,33,recommendation,SaaS,Standard,us-east-1,0,12249.558581152582
+Static SaaS,33,productcatalog,SaaS,Standard,us-east-1,0,128093.9023844921
+Static SaaS,33,cart,SaaS,Standard,us-east-1,0,14341.162503968628
+Static SaaS,33,payment,SaaS,Standard,us-east-1,0,1622.1523877937666
+Static SaaS,33,shipping,SaaS,Standard,us-east-1,0,7804.156762362889
+Static SaaS,33,email,SaaS,Standard,us-east-1,0,1515.1990182726008
+Static SaaS,33,currency,SaaS,Standard,us-east-1,0,16753.76062570153
+Static SaaS,33,ad,SaaS,Standard,us-east-1,0,14277.932220592485
+Static SaaS,34,frontend,SaaS,Standard,us-east-1,0,12240.91106544629
+Static SaaS,34,checkout,SaaS,Standard,us-east-1,0,1184.178424792969
+Static SaaS,34,recommendation,SaaS,Standard,us-east-1,0,9329.73444678051
+Static SaaS,34,productcatalog,SaaS,Standard,us-east-1,0,106082.81182564492
+Static SaaS,34,cart,SaaS,Standard,us-east-1,0,10429.937321057852
+Static SaaS,34,payment,SaaS,Standard,us-east-1,0,1215.9715324172678
+Static SaaS,34,shipping,SaaS,Standard,us-east-1,0,6217.329447749761
+Static SaaS,34,email,SaaS,Standard,us-east-1,0,1165.1531585399168
+Static SaaS,34,currency,SaaS,Standard,us-east-1,0,12995.20776409912
+Static SaaS,34,ad,SaaS,Standard,us-east-1,0,11938.50219848234
+Static SaaS,35,frontend,SaaS,Standard,us-east-1,0,9015.18617530052
+Static SaaS,35,checkout,SaaS,Standard,us-east-1,0,862.8571590421154
+Static SaaS,35,recommendation,SaaS,Standard,us-east-1,0,7944.017687362479
+Static SaaS,35,productcatalog,SaaS,Standard,us-east-1,0,80599.91567393046
+Static SaaS,35,cart,SaaS,Standard,us-east-1,0,7916.033387131793
+Static SaaS,35,payment,SaaS,Standard,us-east-1,0,836.4309274183306
+Static SaaS,35,shipping,SaaS,Standard,us-east-1,0,4482.315900573958
+Static SaaS,35,email,SaaS,Standard,us-east-1,0,854.862378730618
+Static SaaS,35,currency,SaaS,Standard,us-east-1,0,8733.01531040236
+Static SaaS,35,ad,SaaS,Standard,us-east-1,0,8941.922130604109
+Static SaaS,36,frontend,SaaS,Standard,us-east-1,0,11755.256811348492
+Static SaaS,36,checkout,SaaS,Standard,us-east-1,0,1153.5730223549365
+Static SaaS,36,recommendation,SaaS,Standard,us-east-1,0,8912.196987349836
+Static SaaS,36,productcatalog,SaaS,Standard,us-east-1,0,97300.99551838893
+Static SaaS,36,cart,SaaS,Standard,us-east-1,0,11198.42881751606
+Static SaaS,36,payment,SaaS,Standard,us-east-1,0,1094.7552127547738
+Static SaaS,36,shipping,SaaS,Standard,us-east-1,0,6001.307231023946
+Static SaaS,36,email,SaaS,Standard,us-east-1,0,1167.5925331273352
+Static SaaS,36,currency,SaaS,Standard,us-east-1,0,12915.62417204798
+Static SaaS,36,ad,SaaS,Standard,us-east-1,0,12040.797134847435
+Static IaaS,1,frontend,IaaS,OD,us-east-1,0,27142.599897117976
+Static IaaS,1,checkout,IaaS,OD,us-east-1,0,36136.00243521676
+Static IaaS,1,recommendation,IaaS,OD,us-east-1,0,45141.01035081054
+Static IaaS,1,productcatalog,IaaS,OD,us-east-1,0,18347.29251105477
+Static IaaS,1,cart,IaaS,OD,us-east-1,0,18295.71729997879
+Static IaaS,1,payment,IaaS,OD,us-east-1,0,45289.56043912907
+Static IaaS,1,shipping,IaaS,OD,us-east-1,0,18138.77611865608
+Static IaaS,1,email,IaaS,OD,us-east-1,0,9136.026352091201
+Static IaaS,1,currency,IaaS,OD,us-east-1,0,9143.427173377086
+Static IaaS,1,ad,IaaS,OD,us-east-1,0,9143.395239855436
+Static IaaS,2,frontend,IaaS,OD,us-east-1,0,145.41173293020015
+Static IaaS,2,checkout,IaaS,OD,us-east-1,0,136.18394042925794
+Static IaaS,2,recommendation,IaaS,OD,us-east-1,0,143.20608701180993
+Static IaaS,2,productcatalog,IaaS,OD,us-east-1,0,373.5626559998827
+Static IaaS,2,cart,IaaS,OD,us-east-1,0,297.58180462862185
+Static IaaS,2,payment,IaaS,OD,us-east-1,0,289.7446074132384
+Static IaaS,2,shipping,IaaS,OD,us-east-1,0,140.453132322776
+Static IaaS,2,email,IaaS,OD,us-east-1,0,136.1578084980084
+Static IaaS,2,currency,IaaS,OD,us-east-1,0,146.67593828814117
+Static IaaS,2,ad,IaaS,OD,us-east-1,0,145.1006921404728
+Static IaaS,3,frontend,IaaS,OD,us-east-1,0,150.9618569322893
+Static IaaS,3,checkout,IaaS,OD,us-east-1,0,136.69152107629893
+Static IaaS,3,recommendation,IaaS,OD,us-east-1,0,148.0294308179839
+Static IaaS,3,productcatalog,IaaS,OD,us-east-1,0,431.4594226546795
+Static IaaS,3,cart,IaaS,OD,us-east-1,0,302.92055314514363
+Static IaaS,3,payment,IaaS,OD,us-east-1,0,290.1871296228314
+Static IaaS,3,shipping,IaaS,OD,us-east-1,0,143.51240106517287
+Static IaaS,3,email,IaaS,OD,us-east-1,0,136.64047346136107
+Static IaaS,3,currency,IaaS,OD,us-east-1,0,150.86242612682597
+Static IaaS,3,ad,IaaS,OD,us-east-1,0,150.36727022776637
+Static IaaS,4,frontend,IaaS,OD,us-east-1,0,155.90426423261542
+Static IaaS,4,checkout,IaaS,OD,us-east-1,0,137.41868044392191
+Static IaaS,4,recommendation,IaaS,OD,us-east-1,0,151.9294195081392
+Static IaaS,4,productcatalog,IaaS,OD,us-east-1,0,457.2437938151022
+Static IaaS,4,cart,IaaS,OD,us-east-1,0,308.0493495751395
+Static IaaS,4,payment,IaaS,OD,us-east-1,0,290.934846019394
+Static IaaS,4,shipping,IaaS,OD,us-east-1,0,145.93906594554426
+Static IaaS,4,email,IaaS,OD,us-east-1,0,137.41529614713286
+Static IaaS,4,currency,IaaS,OD,us-east-1,0,157.88931509532645
+Static IaaS,4,ad,IaaS,OD,us-east-1,0,155.5459589976728
+Static IaaS,5,frontend,IaaS,OD,us-east-1,0,164.04771013318842
+Static IaaS,5,checkout,IaaS,OD,us-east-1,0,138.19396591097046
+Static IaaS,5,recommendation,IaaS,OD,us-east-1,0,157.1484422218545
+Static IaaS,5,productcatalog,IaaS,OD,us-east-1,0,541.0405816675548
+Static IaaS,5,cart,IaaS,OD,us-east-1,0,315.00585597708596
+Static IaaS,5,payment,IaaS,OD,us-east-1,0,292.0227671404599
+Static IaaS,5,shipping,IaaS,OD,us-east-1,0,149.20362687668285
+Static IaaS,5,email,IaaS,OD,us-east-1,0,138.3652774980582
+Static IaaS,5,currency,IaaS,OD,us-east-1,0,166.65270043231934
+Static IaaS,5,ad,IaaS,OD,us-east-1,0,164.25964709314306
+Static IaaS,6,frontend,IaaS,OD,us-east-1,0,162.4711361106897
+Static IaaS,6,checkout,IaaS,OD,us-east-1,0,137.90275589074233
+Static IaaS,6,recommendation,IaaS,OD,us-east-1,0,159.45318404007827
+Static IaaS,6,productcatalog,IaaS,OD,us-east-1,0,526.0224558883738
+Static IaaS,6,cart,IaaS,OD,us-east-1,0,313.0155752491936
+Static IaaS,6,payment,IaaS,OD,us-east-1,0,291.27487733947623
+Static IaaS,6,shipping,IaaS,OD,us-east-1,0,149.16667285831343
+Static IaaS,6,email,IaaS,OD,us-east-1,0,137.857988721756
+Static IaaS,6,currency,IaaS,OD,us-east-1,0,165.95976226474693
+Static IaaS,6,ad,IaaS,OD,us-east-1,0,161.81781297739022
+Static IaaS,7,frontend,IaaS,OD,us-east-1,0,156.0695267182048
+Static IaaS,7,checkout,IaaS,OD,us-east-1,0,137.38194456475512
+Static IaaS,7,recommendation,IaaS,OD,us-east-1,0,151.08902065285287
+Static IaaS,7,productcatalog,IaaS,OD,us-east-1,0,456.5985502740807
+Static IaaS,7,cart,IaaS,OD,us-east-1,0,307.5706597161966
+Static IaaS,7,payment,IaaS,OD,us-east-1,0,291.1636923764845
+Static IaaS,7,shipping,IaaS,OD,us-east-1,0,145.3497018508825
+Static IaaS,7,email,IaaS,OD,us-east-1,0,137.61147095639635
+Static IaaS,7,currency,IaaS,OD,us-east-1,0,161.05227321309772
+Static IaaS,7,ad,IaaS,OD,us-east-1,0,156.65208647859293
+Static IaaS,8,frontend,IaaS,OD,us-east-1,0,163.75788752151865
+Static IaaS,8,checkout,IaaS,OD,us-east-1,0,138.32287173633563
+Static IaaS,8,recommendation,IaaS,OD,us-east-1,0,156.31202165759194
+Static IaaS,8,productcatalog,IaaS,OD,us-east-1,0,515.8016465424612
+Static IaaS,8,cart,IaaS,OD,us-east-1,0,312.3096319301268
+Static IaaS,8,payment,IaaS,OD,us-east-1,0,291.67173792140335
+Static IaaS,8,shipping,IaaS,OD,us-east-1,0,149.1260818055426
+Static IaaS,8,email,IaaS,OD,us-east-1,0,138.36515776289573
+Static IaaS,8,currency,IaaS,OD,us-east-1,0,168.82246942120827
+Static IaaS,8,ad,IaaS,OD,us-east-1,0,165.2202860252507
+Static IaaS,9,frontend,IaaS,OD,us-east-1,0,148.8923899272511
+Static IaaS,9,checkout,IaaS,OD,us-east-1,0,136.6064323182065
+Static IaaS,9,recommendation,IaaS,OD,us-east-1,0,146.77761981210367
+Static IaaS,9,productcatalog,IaaS,OD,us-east-1,0,413.28676675252575
+Static IaaS,9,cart,IaaS,OD,us-east-1,0,300.98599753281525
+Static IaaS,9,payment,IaaS,OD,us-east-1,0,290.2726111492457
+Static IaaS,9,shipping,IaaS,OD,us-east-1,0,142.65530583339964
+Static IaaS,9,email,IaaS,OD,us-east-1,0,136.57186203379013
+Static IaaS,9,currency,IaaS,OD,us-east-1,0,151.29628162813972
+Static IaaS,9,ad,IaaS,OD,us-east-1,0,148.25935164532254
+Static IaaS,10,frontend,IaaS,OD,us-east-1,0,154.9662112884187
+Static IaaS,10,checkout,IaaS,OD,us-east-1,0,137.24514667384298
+Static IaaS,10,recommendation,IaaS,OD,us-east-1,0,151.43379876000301
+Static IaaS,10,productcatalog,IaaS,OD,us-east-1,0,461.26879424759085
+Static IaaS,10,cart,IaaS,OD,us-east-1,0,307.25660505944205
+Static IaaS,10,payment,IaaS,OD,us-east-1,0,290.55768023788903
+Static IaaS,10,shipping,IaaS,OD,us-east-1,0,144.77517675366647
+Static IaaS,10,email,IaaS,OD,us-east-1,0,137.2018101243039
+Static IaaS,10,currency,IaaS,OD,us-east-1,0,155.70972843095464
+Static IaaS,10,ad,IaaS,OD,us-east-1,0,156.80562301884854
+Static IaaS,11,frontend,IaaS,OD,us-east-1,0,161.42633995240612
+Static IaaS,11,checkout,IaaS,OD,us-east-1,0,137.96202895354622
+Static IaaS,11,recommendation,IaaS,OD,us-east-1,0,156.59715009632822
+Static IaaS,11,productcatalog,IaaS,OD,us-east-1,0,511.8592000114766
+Static IaaS,11,cart,IaaS,OD,us-east-1,0,314.2894931056904
+Static IaaS,11,payment,IaaS,OD,us-east-1,0,291.7939288468814
+Static IaaS,11,shipping,IaaS,OD,us-east-1,0,148.23537635721914
+Static IaaS,11,email,IaaS,OD,us-east-1,0,137.87052331243953
+Static IaaS,11,currency,IaaS,OD,us-east-1,0,164.40952600350855
+Static IaaS,11,ad,IaaS,OD,us-east-1,0,159.94056667167314
+Static IaaS,12,frontend,IaaS,OD,us-east-1,0,157.45965378148384
+Static IaaS,12,checkout,IaaS,OD,us-east-1,0,137.52515134810966
+Static IaaS,12,recommendation,IaaS,OD,us-east-1,0,152.4503826156608
+Static IaaS,12,productcatalog,IaaS,OD,us-east-1,0,473.25528150068294
+Static IaaS,12,cart,IaaS,OD,us-east-1,0,309.5375579600502
+Static IaaS,12,payment,IaaS,OD,us-east-1,0,291.0361684827541
+Static IaaS,12,shipping,IaaS,OD,us-east-1,0,146.0905082479778
+Static IaaS,12,email,IaaS,OD,us-east-1,0,137.602261218226
+Static IaaS,12,currency,IaaS,OD,us-east-1,0,159.39657609020801
+Static IaaS,12,ad,IaaS,OD,us-east-1,0,158.1385556945196
+Static IaaS,13,frontend,IaaS,OD,us-east-1,0,160.98087012119248
+Static IaaS,13,checkout,IaaS,OD,us-east-1,0,137.77608989505418
+Static IaaS,13,recommendation,IaaS,OD,us-east-1,0,154.38733788202936
+Static IaaS,13,productcatalog,IaaS,OD,us-east-1,0,499.999316031017
+Static IaaS,13,cart,IaaS,OD,us-east-1,0,311.9715395316656
+Static IaaS,13,payment,IaaS,OD,us-east-1,0,291.39251024136155
+Static IaaS,13,shipping,IaaS,OD,us-east-1,0,147.85298783922445
+Static IaaS,13,email,IaaS,OD,us-east-1,0,137.73908477445278
+Static IaaS,13,currency,IaaS,OD,us-east-1,0,161.47927276388788
+Static IaaS,13,ad,IaaS,OD,us-east-1,0,161.47813256088372
+Static IaaS,14,frontend,IaaS,OD,us-east-1,0,155.64535332533703
+Static IaaS,14,checkout,IaaS,OD,us-east-1,0,137.2694709683932
+Static IaaS,14,recommendation,IaaS,OD,us-east-1,0,151.38068516084053
+Static IaaS,14,productcatalog,IaaS,OD,us-east-1,0,464.09653404092455
+Static IaaS,14,cart,IaaS,OD,us-east-1,0,307.4430062020881
+Static IaaS,14,payment,IaaS,OD,us-east-1,0,290.85256285784095
+Static IaaS,14,shipping,IaaS,OD,us-east-1,0,145.9325180224713
+Static IaaS,14,email,IaaS,OD,us-east-1,0,137.2527854309266
+Static IaaS,14,currency,IaaS,OD,us-east-1,0,158.17454303456572
+Static IaaS,14,ad,IaaS,OD,us-east-1,0,157.7739024681262
+Static IaaS,15,frontend,IaaS,OD,us-east-1,0,150.3236572681783
+Static IaaS,15,checkout,IaaS,OD,us-east-1,0,136.5862848823682
+Static IaaS,15,recommendation,IaaS,OD,us-east-1,0,147.27492688461507
+Static IaaS,15,productcatalog,IaaS,OD,us-east-1,0,417.0141543303215
+Static IaaS,15,cart,IaaS,OD,us-east-1,0,301.9141997275243
+Static IaaS,15,payment,IaaS,OD,us-east-1,0,290.1542944586979
+Static IaaS,15,shipping,IaaS,OD,us-east-1,0,142.8985876729417
+Static IaaS,15,email,IaaS,OD,us-east-1,0,136.54287595315697
+Static IaaS,15,currency,IaaS,OD,us-east-1,0,152.4957230772892
+Static IaaS,15,ad,IaaS,OD,us-east-1,0,150.0392791650091
+Static IaaS,16,frontend,IaaS,OD,us-east-1,0,158.99173244954432
+Static IaaS,16,checkout,IaaS,OD,us-east-1,0,137.43916292268764
+Static IaaS,16,recommendation,IaaS,OD,us-east-1,0,154.24879769159895
+Static IaaS,16,productcatalog,IaaS,OD,us-east-1,0,490.65697875123567
+Static IaaS,16,cart,IaaS,OD,us-east-1,0,311.1296290626674
+Static IaaS,16,payment,IaaS,OD,us-east-1,0,291.2030522987544
+Static IaaS,16,shipping,IaaS,OD,us-east-1,0,147.6596741771978
+Static IaaS,16,email,IaaS,OD,us-east-1,0,137.64169344624648
+Static IaaS,16,currency,IaaS,OD,us-east-1,0,161.67667778666316
+Static IaaS,16,ad,IaaS,OD,us-east-1,0,159.26553017984293
+Static IaaS,17,frontend,IaaS,OD,us-east-1,0,162.7786321534638
+Static IaaS,17,checkout,IaaS,OD,us-east-1,0,138.33252232211092
+Static IaaS,17,recommendation,IaaS,OD,us-east-1,0,157.36972358062843
+Static IaaS,17,productcatalog,IaaS,OD,us-east-1,0,520.7558448989495
+Static IaaS,17,cart,IaaS,OD,us-east-1,0,315.29303310178767
+Static IaaS,17,payment,IaaS,OD,us-east-1,0,292.0912929020441
+Static IaaS,17,shipping,IaaS,OD,us-east-1,0,149.74013772649357
+Static IaaS,17,email,IaaS,OD,us-east-1,0,138.03484430678375
+Static IaaS,17,currency,IaaS,OD,us-east-1,0,167.10255914439222
+Static IaaS,17,ad,IaaS,OD,us-east-1,0,163.71736009008904
+Static IaaS,18,frontend,IaaS,OD,us-east-1,0,200.54338301312976
+Static IaaS,18,checkout,IaaS,OD,us-east-1,0,141.55046234375473
+Static IaaS,18,recommendation,IaaS,OD,us-east-1,0,190.72056877860538
+Static IaaS,18,productcatalog,IaaS,OD,us-east-1,0,848.6204624210097
+Static IaaS,18,cart,IaaS,OD,us-east-1,0,345.9048064022215
+Static IaaS,18,payment,IaaS,OD,us-east-1,0,295.1231753073402
+Static IaaS,18,shipping,IaaS,OD,us-east-1,0,167.3886936918833
+Static IaaS,18,email,IaaS,OD,us-east-1,0,141.44342831825838
+Static IaaS,18,currency,IaaS,OD,us-east-1,0,211.6671135013105
+Static IaaS,18,ad,IaaS,OD,us-east-1,0,203.92438011193482
+Static IaaS,19,frontend,IaaS,OD,us-east-1,0,334.2084728000602
+Static IaaS,19,checkout,IaaS,OD,us-east-1,0,153.41074118069042
+Static IaaS,19,recommendation,IaaS,OD,us-east-1,0,285.6731600940876
+Static IaaS,19,productcatalog,IaaS,OD,us-east-1,0,1924.3544254515787
+Static IaaS,19,cart,IaaS,OD,us-east-1,0,454.9439829640454
+Static IaaS,19,payment,IaaS,OD,us-east-1,0,307.431680163517
+Static IaaS,19,shipping,IaaS,OD,us-east-1,0,229.19010729851243
+Static IaaS,19,email,IaaS,OD,us-east-1,0,153.76524547540288
+Static IaaS,19,currency,IaaS,OD,us-east-1,0,348.66407423540386
+Static IaaS,19,ad,IaaS,OD,us-east-1,0,333.8984408528107
+Static IaaS,20,frontend,IaaS,OD,us-east-1,0,416.1604556277035
+Static IaaS,20,checkout,IaaS,OD,us-east-1,0,165.20867146331165
+Static IaaS,20,recommendation,IaaS,OD,us-east-1,0,338.5303371583047
+Static IaaS,20,productcatalog,IaaS,OD,us-east-1,0,2602.5102175561137
+Static IaaS,20,cart,IaaS,OD,us-east-1,0,548.9566692471011
+Static IaaS,20,payment,IaaS,OD,us-east-1,0,320.22596834624994
+Static IaaS,20,shipping,IaaS,OD,us-east-1,0,277.3678952658719
+Static IaaS,20,email,IaaS,OD,us-east-1,0,165.69121597644465
+Static IaaS,20,currency,IaaS,OD,us-east-1,0,471.8154363896797
+Static IaaS,20,ad,IaaS,OD,us-east-1,0,443.4109229877931
+Static IaaS,21,frontend,IaaS,OD,us-east-1,0,475.81685457337494
+Static IaaS,21,checkout,IaaS,OD,us-east-1,0,172.34155491404994
+Static IaaS,21,recommendation,IaaS,OD,us-east-1,0,402.5185709619792
+Static IaaS,21,productcatalog,IaaS,OD,us-east-1,0,3215.2260065943724
+Static IaaS,21,cart,IaaS,OD,us-east-1,0,613.2868786205092
+Static IaaS,21,payment,IaaS,OD,us-east-1,0,325.3647569018187
+Static IaaS,21,shipping,IaaS,OD,us-east-1,0,304.2767810160218
+Static IaaS,21,email,IaaS,OD,us-east-1,0,172.4184184017539
+Static IaaS,21,currency,IaaS,OD,us-east-1,0,496.6202389258581
+Static IaaS,21,ad,IaaS,OD,us-east-1,0,458.69857894089364
+Static IaaS,22,frontend,IaaS,OD,us-east-1,0,855.5296294412228
+Static IaaS,22,checkout,IaaS,OD,us-east-1,0,202.52084413503727
+Static IaaS,22,recommendation,IaaS,OD,us-east-1,0,663.4640314865092
+Static IaaS,22,productcatalog,IaaS,OD,us-east-1,0,6211.121299776735
+Static IaaS,22,cart,IaaS,OD,us-east-1,0,916.2752728069013
+Static IaaS,22,payment,IaaS,OD,us-east-1,0,359.01276944264225
+Static IaaS,22,shipping,IaaS,OD,us-east-1,0,480.34174192618923
+Static IaaS,22,email,IaaS,OD,us-east-1,0,205.07228902523372
+Static IaaS,22,currency,IaaS,OD,us-east-1,0,915.716302647527
+Static IaaS,22,ad,IaaS,OD,us-east-1,0,828.8136418975829
+Static IaaS,23,frontend,IaaS,OD,us-east-1,0,526.2302644790714
+Static IaaS,23,checkout,IaaS,OD,us-east-1,0,174.3848977034294
+Static IaaS,23,recommendation,IaaS,OD,us-east-1,0,405.21987339482484
+Static IaaS,23,productcatalog,IaaS,OD,us-east-1,0,3450.8933185476294
+Static IaaS,23,cart,IaaS,OD,us-east-1,0,644.1649847455453
+Static IaaS,23,payment,IaaS,OD,us-east-1,0,330.05943423300346
+Static IaaS,23,shipping,IaaS,OD,us-east-1,0,327.9085845429389
+Static IaaS,23,email,IaaS,OD,us-east-1,0,174.8822257324801
+Static IaaS,23,currency,IaaS,OD,us-east-1,0,561.6899744939918
+Static IaaS,23,ad,IaaS,OD,us-east-1,0,529.8886636288005
+Static IaaS,24,frontend,IaaS,OD,us-east-1,0,399.38474719709745
+Static IaaS,24,checkout,IaaS,OD,us-east-1,0,161.3438166504909
+Static IaaS,24,recommendation,IaaS,OD,us-east-1,0,362.6398089649068
+Static IaaS,24,productcatalog,IaaS,OD,us-east-1,0,2582.4313504040365
+Static IaaS,24,cart,IaaS,OD,us-east-1,0,528.3043068839748
+Static IaaS,24,payment,IaaS,OD,us-east-1,0,314.1519893432483
+Static IaaS,24,shipping,IaaS,OD,us-east-1,0,279.51812077249025
+Static IaaS,24,email,IaaS,OD,us-east-1,0,161.08269086408953
+Static IaaS,24,currency,IaaS,OD,us-east-1,0,420.40090679171
+Static IaaS,24,ad,IaaS,OD,us-east-1,0,389.7050812558184
+Static IaaS,25,frontend,IaaS,OD,us-east-1,0,404.0626209391379
+Static IaaS,25,checkout,IaaS,OD,us-east-1,0,161.68780728916383
+Static IaaS,25,recommendation,IaaS,OD,us-east-1,0,352.2079682189104
+Static IaaS,25,productcatalog,IaaS,OD,us-east-1,0,2604.1566906349253
+Static IaaS,25,cart,IaaS,OD,us-east-1,0,540.9585222889306
+Static IaaS,25,payment,IaaS,OD,us-east-1,0,313.74316475943095
+Static IaaS,25,shipping,IaaS,OD,us-east-1,0,276.3052557163345
+Static IaaS,25,email,IaaS,OD,us-east-1,0,160.31164697809706
+Static IaaS,25,currency,IaaS,OD,us-east-1,0,409.0862488027009
+Static IaaS,25,ad,IaaS,OD,us-east-1,0,385.4730894607841
+Static IaaS,26,frontend,IaaS,OD,us-east-1,0,472.8086592314295
+Static IaaS,26,checkout,IaaS,OD,us-east-1,0,167.55569700455243
+Static IaaS,26,recommendation,IaaS,OD,us-east-1,0,396.8263813881291
+Static IaaS,26,productcatalog,IaaS,OD,us-east-1,0,2987.9497967860575
+Static IaaS,26,cart,IaaS,OD,us-east-1,0,598.2097198069804
+Static IaaS,26,payment,IaaS,OD,us-east-1,0,321.69626710158633
+Static IaaS,26,shipping,IaaS,OD,us-east-1,0,307.33804728190273
+Static IaaS,26,email,IaaS,OD,us-east-1,0,168.10387752722932
+Static IaaS,26,currency,IaaS,OD,us-east-1,0,522.227695041207
+Static IaaS,26,ad,IaaS,OD,us-east-1,0,497.8324908229514
+Static IaaS,27,frontend,IaaS,OD,us-east-1,0,522.8611927939551
+Static IaaS,27,checkout,IaaS,OD,us-east-1,0,172.37134829413552
+Static IaaS,27,recommendation,IaaS,OD,us-east-1,0,439.26843520240493
+Static IaaS,27,productcatalog,IaaS,OD,us-east-1,0,3590.4687498193684
+Static IaaS,27,cart,IaaS,OD,us-east-1,0,627.0508148551908
+Static IaaS,27,payment,IaaS,OD,us-east-1,0,324.2969081867306
+Static IaaS,27,shipping,IaaS,OD,us-east-1,0,314.24245147796927
+Static IaaS,27,email,IaaS,OD,us-east-1,0,170.33723296062132
+Static IaaS,27,currency,IaaS,OD,us-east-1,0,594.9570930675532
+Static IaaS,27,ad,IaaS,OD,us-east-1,0,541.4963282622165
+Static IaaS,28,frontend,IaaS,OD,us-east-1,0,583.4788940663074
+Static IaaS,28,checkout,IaaS,OD,us-east-1,0,178.93701652924995
+Static IaaS,28,recommendation,IaaS,OD,us-east-1,0,525.0880166570947
+Static IaaS,28,productcatalog,IaaS,OD,us-east-1,0,4531.505935255899
+Static IaaS,28,cart,IaaS,OD,us-east-1,0,706.9897095502272
+Static IaaS,28,payment,IaaS,OD,us-east-1,0,333.4750407580716
+Static IaaS,28,shipping,IaaS,OD,us-east-1,0,356.79066846399786
+Static IaaS,28,email,IaaS,OD,us-east-1,0,174.50268778029263
+Static IaaS,28,currency,IaaS,OD,us-east-1,0,637.7215503926258
+Static IaaS,28,ad,IaaS,OD,us-east-1,0,535.4878072670223
+Static IaaS,29,frontend,IaaS,OD,us-east-1,0,800.3244766787607
+Static IaaS,29,checkout,IaaS,OD,us-east-1,0,203.5669830703461
+Static IaaS,29,recommendation,IaaS,OD,us-east-1,0,697.36647436891
+Static IaaS,29,productcatalog,IaaS,OD,us-east-1,0,5913.8816606367955
+Static IaaS,29,cart,IaaS,OD,us-east-1,0,886.0431353202437
+Static IaaS,29,payment,IaaS,OD,us-east-1,0,356.2006182341747
+Static IaaS,29,shipping,IaaS,OD,us-east-1,0,467.8606342400343
+Static IaaS,29,email,IaaS,OD,us-east-1,0,206.87368367783955
+Static IaaS,29,currency,IaaS,OD,us-east-1,0,874.2665729641501
+Static IaaS,29,ad,IaaS,OD,us-east-1,0,833.332828288998
+Static IaaS,30,frontend,IaaS,OD,us-east-1,0,870.7693653864729
+Static IaaS,30,checkout,IaaS,OD,us-east-1,0,208.0724828637729
+Static IaaS,30,recommendation,IaaS,OD,us-east-1,0,750.0741044084768
+Static IaaS,30,productcatalog,IaaS,OD,us-east-1,0,6610.312789671072
+Static IaaS,30,cart,IaaS,OD,us-east-1,0,952.9991783313944
+Static IaaS,30,payment,IaaS,OD,us-east-1,0,365.36014695044094
+Static IaaS,30,shipping,IaaS,OD,us-east-1,0,507.6151174997842
+Static IaaS,30,email,IaaS,OD,us-east-1,0,207.10530618564667
+Static IaaS,30,currency,IaaS,OD,us-east-1,0,925.1830787731836
+Static IaaS,30,ad,IaaS,OD,us-east-1,0,914.6170768173341
+Static IaaS,31,frontend,IaaS,OD,us-east-1,0,1155.2859707782304
+Static IaaS,31,checkout,IaaS,OD,us-east-1,0,238.40608253571503
+Static IaaS,31,recommendation,IaaS,OD,us-east-1,0,964.7725935046302
+Static IaaS,31,productcatalog,IaaS,OD,us-east-1,0,8639.704975505672
+Static IaaS,31,cart,IaaS,OD,us-east-1,0,1240.785579671936
+Static IaaS,31,payment,IaaS,OD,us-east-1,0,396.7288216650568
+Static IaaS,31,shipping,IaaS,OD,us-east-1,0,665.3062864582777
+Static IaaS,31,email,IaaS,OD,us-east-1,0,235.88033025372627
+Static IaaS,31,currency,IaaS,OD,us-east-1,0,1278.3838053228317
+Static IaaS,31,ad,IaaS,OD,us-east-1,0,1101.8966568346164
+Static IaaS,32,frontend,IaaS,OD,us-east-1,0,1385.309994639497
+Static IaaS,32,checkout,IaaS,OD,us-east-1,0,261.1985952731554
+Static IaaS,32,recommendation,IaaS,OD,us-east-1,0,1082.1352392386918
+Static IaaS,32,productcatalog,IaaS,OD,us-east-1,0,10930.12101001588
+Static IaaS,32,cart,IaaS,OD,us-east-1,0,1316.787723356109
+Static IaaS,32,payment,IaaS,OD,us-east-1,0,428.1366844128696
+Static IaaS,32,shipping,IaaS,OD,us-east-1,0,764.8698190528861
+Static IaaS,32,email,IaaS,OD,us-east-1,0,259.95811301840524
+Static IaaS,32,currency,IaaS,OD,us-east-1,0,1570.4436039003406
+Static IaaS,32,ad,IaaS,OD,us-east-1,0,1497.5147270681418
+Static IaaS,33,frontend,IaaS,OD,us-east-1,0,1235.8283580381876
+Static IaaS,33,checkout,IaaS,OD,us-east-1,0,244.20207378022081
+Static IaaS,33,recommendation,IaaS,OD,us-east-1,0,1010.1864700822302
+Static IaaS,33,productcatalog,IaaS,OD,us-east-1,0,9498.899456034136
+Static IaaS,33,cart,IaaS,OD,us-east-1,0,1313.17875028336
+Static IaaS,33,payment,IaaS,OD,us-east-1,0,404.67802769954193
+Static IaaS,33,shipping,IaaS,OD,us-east-1,0,692.6577687401445
+Static IaaS,33,email,IaaS,OD,us-east-1,0,243.44650130517377
+Static IaaS,33,currency,IaaS,OD,us-east-1,0,1331.9151875499767
+Static IaaS,33,ad,IaaS,OD,us-east-1,0,1155.070301470779
+Static IaaS,34,frontend,IaaS,OD,us-east-1,0,1009.5687903889238
+Static IaaS,34,checkout,IaaS,OD,us-east-1,0,219.80217319948844
+Static IaaS,34,recommendation,IaaS,OD,us-east-1,0,801.6276033413911
+Static IaaS,34,productcatalog,IaaS,OD,us-east-1,0,7882.578701830941
+Static IaaS,34,cart,IaaS,OD,us-east-1,0,1033.8055229326212
+Static IaaS,34,payment,IaaS,OD,us-east-1,0,375.66510945836666
+Static IaaS,34,shipping,IaaS,OD,us-east-1,0,579.3129605535051
+Static IaaS,34,email,IaaS,OD,us-east-1,0,218.44322560998484
+Static IaaS,34,currency,IaaS,OD,us-east-1,0,1063.4471260069772
+Static IaaS,34,ad,IaaS,OD,us-east-1,0,987.9681570343583
+Static IaaS,35,frontend,IaaS,OD,us-east-1,0,779.1598696642515
+Static IaaS,35,checkout,IaaS,OD,us-east-1,0,196.85065421728711
+Static IaaS,35,recommendation,IaaS,OD,us-east-1,0,702.6478348115427
+Static IaaS,35,productcatalog,IaaS,OD,us-east-1,0,6062.371833851537
+Static IaaS,35,cart,IaaS,OD,us-east-1,0,854.2409562236369
+Static IaaS,35,payment,IaaS,OD,us-east-1,0,348.5550662441599
+Static IaaS,35,shipping,IaaS,OD,us-east-1,0,455.383421469533
+Static IaaS,35,email,IaaS,OD,us-east-1,0,196.27959848075164
+Static IaaS,35,currency,IaaS,OD,us-east-1,0,759.0048078858138
+Static IaaS,35,ad,IaaS,OD,us-east-1,0,773.9267236145084
+Static IaaS,36,frontend,IaaS,OD,us-east-1,0,974.8792008105136
+Static IaaS,36,checkout,IaaS,OD,us-east-1,0,217.61607302534347
+Static IaaS,36,recommendation,IaaS,OD,us-east-1,0,771.8034990963464
+Static IaaS,36,productcatalog,IaaS,OD,us-east-1,0,7255.30610845558
+Static IaaS,36,cart,IaaS,OD,us-east-1,0,1088.69777267963
+Static IaaS,36,payment,IaaS,OD,us-east-1,0,367.00680091104664
+Static IaaS,36,shipping,IaaS,OD,us-east-1,0,563.8828022159486
+Static IaaS,36,email,IaaS,OD,us-east-1,0,218.6174666519433
+Static IaaS,36,currency,IaaS,OD,us-east-1,0,1057.7625837176106
+Static IaaS,36,ad,IaaS,OD,us-east-1,0,995.2749382032929
+Proposed,1,frontend,SaaS,Standard,us-east-1,0,4603.346559651682
+Proposed,1,checkout,SaaS,Standard,us-east-1,0,6010.982093034651
+Proposed,1,recommendation,SaaS,Standard,us-east-1,0,7581.092911347589
+Proposed,1,productcatalog,SaaS,Standard,us-east-1,0,3818.7551547668295
+Proposed,1,cart,SaaS,Standard,us-east-1,0,3096.7021997030724
+Proposed,1,payment,SaaS,Standard,us-east-1,0,7510.506147806967
+Proposed,1,shipping,SaaS,Standard,us-east-1,0,3049.8136611851087
+Proposed,1,email,SaaS,Standard,us-east-1,0,1511.316929276817
+Proposed,1,currency,SaaS,Standard,us-east-1,0,1614.9284272791976
+Proposed,1,ad,SaaS,Standard,us-east-1,0,1614.4813579761083
+Proposed,2,frontend,SaaS,Standard,us-east-1,0,142.71226102281784
+Proposed,2,checkout,SaaS,Standard,us-east-1,0,13.523166009612707
+Proposed,2,recommendation,SaaS,Standard,us-east-1,0,111.83321816535138
+Proposed,2,productcatalog,SaaS,Standard,us-east-1,0,1186.5371839984887
+Proposed,2,cart,SaaS,Standard,us-east-1,0,122.80526480071967
+Proposed,2,payment,SaaS,Standard,us-east-1,0,13.084503785338702
+Proposed,2,shipping,SaaS,Standard,us-east-1,0,73.29185251887253
+Proposed,2,email,SaaS,Standard,us-east-1,0,13.157318972119256
+Proposed,2,currency,SaaS,Standard,us-east-1,0,160.41113603399444
+Proposed,2,ad,SaaS,Standard,us-east-1,0,138.35768996663475
+Proposed,3,frontend,SaaS,Standard,us-east-1,0,220.41399705207482
+Proposed,3,checkout,SaaS,Standard,us-east-1,0,20.629295068187275
+Proposed,3,recommendation,SaaS,Standard,us-east-1,0,179.3600314517945
+Proposed,3,productcatalog,SaaS,Standard,us-east-1,0,1997.0919171657342
+Proposed,3,cart,SaaS,Standard,us-east-1,0,197.54774403203268
+Proposed,3,payment,SaaS,Standard,us-east-1,0,19.279814719641692
+Proposed,3,shipping,SaaS,Standard,us-east-1,0,116.1216149124333
+Proposed,3,email,SaaS,Standard,us-east-1,0,19.91462845905735
+Proposed,3,currency,SaaS,Standard,us-east-1,0,219.0219657755878
+Proposed,3,ad,SaaS,Standard,us-east-1,0,212.08978318875262
+Proposed,4,frontend,SaaS,Standard,us-east-1,0,289.607699256648
+Proposed,4,checkout,SaaS,Standard,us-east-1,0,30.80952621491038
+Proposed,4,recommendation,SaaS,Standard,us-east-1,0,233.9598731139751
+Proposed,4,productcatalog,SaaS,Standard,us-east-1,0,2358.0731134116922
+Proposed,4,cart,SaaS,Standard,us-east-1,0,269.3508940519832
+Proposed,4,payment,SaaS,Standard,us-east-1,0,29.747844271518943
+Proposed,4,shipping,SaaS,Standard,us-east-1,0,150.09492323763627
+Proposed,4,email,SaaS,Standard,us-east-1,0,30.76214605986368
+Proposed,4,currency,SaaS,Standard,us-east-1,0,317.3984113346055
+Proposed,4,ad,SaaS,Standard,us-east-1,0,284.5914259674512
+Proposed,5,frontend,SaaS,Standard,us-east-1,0,403.61594186468255
+Proposed,5,checkout,SaaS,Standard,us-east-1,0,41.66352275359117
+Proposed,5,recommendation,SaaS,Standard,us-east-1,0,307.0261911059971
+Proposed,5,productcatalog,SaaS,Standard,us-east-1,0,3531.2281433461585
+Proposed,5,cart,SaaS,Standard,us-east-1,0,366.7419836792442
+Proposed,5,payment,SaaS,Standard,us-east-1,0,44.97873996644389
+Proposed,5,shipping,SaaS,Standard,us-east-1,0,195.7987762735816
+Proposed,5,email,SaaS,Standard,us-east-1,0,44.06188497281968
+Proposed,5,currency,SaaS,Standard,us-east-1,0,440.08580605251973
+Proposed,5,ad,SaaS,Standard,us-east-1,0,406.58305930404805
+Proposed,6,frontend,SaaS,Standard,us-east-1,0,381.5439055496986
+Proposed,6,checkout,SaaS,Standard,us-east-1,0,37.586582470396706
+Proposed,6,recommendation,SaaS,Standard,us-east-1,0,339.2925765611337
+Proposed,6,productcatalog,SaaS,Standard,us-east-1,0,3320.9743824376
+Proposed,6,cart,SaaS,Standard,us-east-1,0,338.8780534887477
+Proposed,6,payment,SaaS,Standard,us-east-1,0,34.50828275267115
+Proposed,6,shipping,SaaS,Standard,us-east-1,0,195.28142001640973
+Proposed,6,email,SaaS,Standard,us-east-1,0,36.959842104588056
+Proposed,6,currency,SaaS,Standard,us-east-1,0,430.384671706505
+Proposed,6,ad,SaaS,Standard,us-east-1,0,372.39738168350436
+Proposed,7,frontend,SaaS,Standard,us-east-1,0,291.9213740548995
+Proposed,7,checkout,SaaS,Standard,us-east-1,0,30.295223906575078
+Proposed,7,recommendation,SaaS,Standard,us-east-1,0,222.1942891399648
+Proposed,7,productcatalog,SaaS,Standard,us-east-1,0,2349.03970383739
+Proposed,7,cart,SaaS,Standard,us-east-1,0,262.6492360267814
+Proposed,7,payment,SaaS,Standard,us-east-1,0,32.95169327078694
+Proposed,7,shipping,SaaS,Standard,us-east-1,0,141.84382591237087
+Proposed,7,email,SaaS,Standard,us-east-1,0,33.50859338955271
+Proposed,7,currency,SaaS,Standard,us-east-1,0,361.6798249834084
+Proposed,7,ad,SaaS,Standard,us-east-1,0,300.0772107003346
+Proposed,8,frontend,SaaS,Standard,us-east-1,0,399.5584253013057
+Proposed,8,checkout,SaaS,Standard,us-east-1,0,43.46820430870383
+Proposed,8,recommendation,SaaS,Standard,us-east-1,0,295.3163032063201
+Proposed,8,productcatalog,SaaS,Standard,us-east-1,0,3177.8830515948093
+Proposed,8,cart,SaaS,Standard,us-east-1,0,328.994847021811
+Proposed,8,payment,SaaS,Standard,us-east-1,0,40.06433089965147
+Proposed,8,shipping,SaaS,Standard,us-east-1,0,194.71314527761837
+Proposed,8,email,SaaS,Standard,us-east-1,0,44.06020868054519
+Proposed,8,currency,SaaS,Standard,us-east-1,0,470.4625718969678
+Proposed,8,ad,SaaS,Standard,us-east-1,0,420.0320043535562
+Proposed,9,frontend,SaaS,Standard,us-east-1,0,191.44145898153664
+Proposed,9,checkout,SaaS,Standard,us-east-1,0,19.438052454892976
+Proposed,9,recommendation,SaaS,Standard,us-east-1,0,161.83467736946955
+Proposed,9,productcatalog,SaaS,Standard,us-east-1,0,1742.6747345355539
+Proposed,9,cart,SaaS,Standard,us-east-1,0,170.46396545943247
+Proposed,9,payment,SaaS,Standard,us-east-1,0,20.476556089441345
+Proposed,9,shipping,SaaS,Standard,us-east-1,0,104.12228166760679
+Proposed,9,email,SaaS,Standard,us-east-1,0,18.95406847306389
+Proposed,9,currency,SaaS,Standard,us-east-1,0,225.09594279398135
+Proposed,9,ad,SaaS,Standard,us-east-1,0,182.5789230345358
+Proposed,10,frontend,SaaS,Standard,us-east-1,0,276.4749580378924
+Proposed,10,checkout,SaaS,Standard,us-east-1,0,28.380053433804928
+Proposed,10,recommendation,SaaS,Standard,us-east-1,0,227.02118264006768
+Proposed,10,productcatalog,SaaS,Standard,us-east-1,0,2414.423119466539
+Proposed,10,cart,SaaS,Standard,us-east-1,0,258.2524708322169
+Proposed,10,payment,SaaS,Standard,us-east-1,0,24.467523330449485
+Proposed,10,shipping,SaaS,Standard,us-east-1,0,133.80047455134567
+Proposed,10,email,SaaS,Standard,us-east-1,0,27.77334174025802
+Proposed,10,currency,SaaS,Standard,us-east-1,0,286.884198033397
+Proposed,10,ad,SaaS,Standard,us-east-1,0,302.226722263913
+Proposed,11,frontend,SaaS,Standard,us-east-1,0,366.91675933372665
+Proposed,11,checkout,SaaS,Standard,us-east-1,0,38.41640534965161
+Proposed,11,recommendation,SaaS,Standard,us-east-1,0,299.30810134862844
+Proposed,11,productcatalog,SaaS,Standard,us-east-1,0,3122.6888001610187
+Proposed,11,cart,SaaS,Standard,us-east-1,0,356.71290347970483
+Proposed,11,payment,SaaS,Standard,us-east-1,0,41.7750038563436
+Proposed,11,shipping,SaaS,Standard,us-east-1,0,182.24326900108832
+Proposed,11,email,SaaS,Standard,us-east-1,0,37.13532637415761
+Proposed,11,currency,SaaS,Standard,us-east-1,0,408.6813640491649
+Proposed,11,ad,SaaS,Standard,us-east-1,0,346.11593340346224
+Proposed,12,frontend,SaaS,Standard,us-east-1,0,311.38315294080854
+Proposed,12,checkout,SaaS,Standard,us-east-1,0,32.30011887353892
+Proposed,12,recommendation,SaaS,Standard,us-east-1,0,241.25335661927795
+Proposed,12,productcatalog,SaaS,Standard,us-east-1,0,2582.2339410098466
+Proposed,12,cart,SaaS,Standard,us-east-1,0,290.18581144073516
+Proposed,12,payment,SaaS,Standard,us-east-1,0,31.166358758560477
+Proposed,12,shipping,SaaS,Standard,us-east-1,0,152.21511547170599
+Proposed,12,email,SaaS,Standard,us-east-1,0,33.37965705516784
+Proposed,12,currency,SaaS,Standard,us-east-1,0,338.50006526295
+Proposed,12,ad,SaaS,Standard,us-east-1,0,320.88777972331025
+Proposed,13,frontend,SaaS,Standard,us-east-1,0,360.68018169673485
+Proposed,13,checkout,SaaS,Standard,us-east-1,0,35.813258530762695
+Proposed,13,recommendation,SaaS,Standard,us-east-1,0,268.370730348441
+Proposed,13,productcatalog,SaaS,Standard,us-east-1,0,2956.6504244345647
+Proposed,13,cart,SaaS,Standard,us-east-1,0,324.2615534433542
+Proposed,13,payment,SaaS,Standard,us-east-1,0,36.155143379065976
+Proposed,13,shipping,SaaS,Standard,us-east-1,0,176.88982974916223
+Proposed,13,email,SaaS,Standard,us-east-1,0,35.29518684234283
+Proposed,13,currency,SaaS,Standard,us-east-1,0,367.65781869447125
+Proposed,13,ad,SaaS,Standard,us-east-1,0,367.64185585241296
+Proposed,14,frontend,SaaS,Standard,us-east-1,0,285.9829465547501
+Proposed,14,checkout,SaaS,Standard,us-east-1,0,28.720593557507847
+Proposed,14,recommendation,SaaS,Standard,us-east-1,0,226.2775922517926
+Proposed,14,productcatalog,SaaS,Standard,us-east-1,0,2454.0114765732155
+Proposed,14,cart,SaaS,Standard,us-east-1,0,260.86208682926235
+Proposed,14,payment,SaaS,Standard,us-east-1,0,28.595880009776117
+Proposed,14,shipping,SaaS,Standard,us-east-1,0,150.00325231461508
+Proposed,14,email,SaaS,Standard,us-east-1,0,28.486996032975497
+Proposed,14,currency,SaaS,Standard,us-east-1,0,321.39160248395564
+Proposed,14,ad,SaaS,Standard,us-east-1,0,315.78263455380187
+Proposed,15,frontend,SaaS,Standard,us-east-1,0,211.47920175451952
+Proposed,15,checkout,SaaS,Standard,us-east-1,0,19.155988353157017
+Proposed,15,recommendation,SaaS,Standard,us-east-1,0,168.7969763846299
+Proposed,15,productcatalog,SaaS,Standard,us-east-1,0,1794.8581606246996
+Proposed,15,cart,SaaS,Standard,us-east-1,0,183.45879618536034
+Proposed,15,payment,SaaS,Standard,us-east-1,0,18.820122421772375
+Proposed,15,shipping,SaaS,Standard,us-east-1,0,107.5282274211958
+Proposed,15,email,SaaS,Standard,us-east-1,0,18.548263344199654
+Proposed,15,currency,SaaS,Standard,us-east-1,0,241.88812308207554
+Proposed,15,ad,SaaS,Standard,us-east-1,0,207.49790831015062
+Proposed,16,frontend,SaaS,Standard,us-east-1,0,332.8322542936575
+Proposed,16,checkout,SaaS,Standard,us-east-1,0,31.09628091763055
+Proposed,16,recommendation,SaaS,Standard,us-east-1,0,266.43116768241515
+Proposed,16,productcatalog,SaaS,Standard,us-east-1,0,2825.857702517612
+Proposed,16,cart,SaaS,Standard,us-east-1,0,312.474806877378
+Proposed,16,payment,SaaS,Standard,us-east-1,0,33.50273218256577
+Proposed,16,shipping,SaaS,Standard,us-east-1,0,174.18343848078854
+Proposed,16,email,SaaS,Standard,us-east-1,0,33.93170824745479
+Proposed,16,currency,SaaS,Standard,us-east-1,0,370.42148901332547
+Proposed,16,ad,SaaS,Standard,us-east-1,0,336.66542251783846
+Proposed,17,frontend,SaaS,Standard,us-east-1,0,385.848850148536
+Proposed,17,checkout,SaaS,Standard,us-east-1,0,43.60331250955795
+Proposed,17,recommendation,SaaS,Standard,us-east-1,0,310.12413012883235
+Proposed,17,productcatalog,SaaS,Standard,us-east-1,0,3247.241828585652
+Proposed,17,cart,SaaS,Standard,us-east-1,0,370.7624634250682
+Proposed,17,payment,SaaS,Standard,us-east-1,0,45.93810062862203
+Proposed,17,shipping,SaaS,Standard,us-east-1,0,203.30992817093266
+Proposed,17,email,SaaS,Standard,us-east-1,0,39.43582029497703
+Proposed,17,currency,SaaS,Standard,us-east-1,0,446.3838280215408
+Proposed,17,ad,SaaS,Standard,us-east-1,0,398.99104126129083
+Proposed,18,frontend,SaaS,Standard,us-east-1,0,914.5553621839183
+Proposed,18,checkout,SaaS,Standard,us-east-1,0,88.65447281257626
+Proposed,18,recommendation,SaaS,Standard,us-east-1,0,777.0359629005616
+Proposed,18,productcatalog,SaaS,Standard,us-east-1,0,7837.346473895005
+Proposed,18,cart,SaaS,Standard,us-east-1,0,799.3272896311895
+Proposed,18,payment,SaaS,Standard,us-east-1,0,88.38445430277241
+Proposed,18,shipping,SaaS,Standard,us-east-1,0,450.3897116864162
+Proposed,18,email,SaaS,Standard,us-east-1,0,87.15599645562723
+Proposed,18,currency,SaaS,Standard,us-east-1,0,1070.2875890184657
+Proposed,18,ad,SaaS,Standard,us-east-1,0,961.8893215671942
+Proposed,19,frontend,SaaS,Standard,us-east-1,0,2785.8666192011515
+Proposed,19,checkout,SaaS,Standard,us-east-1,0,254.69837652969446
+Proposed,19,recommendation,SaaS,Standard,us-east-1,0,2106.37224131746
+Proposed,19,productcatalog,IaaS,OD,us-east-1,0,19924.35442545158
+Proposed,19,cart,SaaS,Standard,us-east-1,0,2325.8757614968936
+Proposed,19,payment,SaaS,Standard,us-east-1,0,260.703522289267
+Proposed,19,shipping,SaaS,Standard,us-east-1,0,1315.6095021793199
+Proposed,19,email,SaaS,Standard,us-east-1,0,259.661436655669
+Proposed,19,currency,SaaS,Standard,us-east-1,0,2988.2450392959854
+Proposed,19,ad,SaaS,Standard,us-east-1,0,2781.5261719396585
+Proposed,20,frontend,SaaS,Standard,us-east-1,0,3933.1943787882847
+Proposed,20,checkout,SaaS,Standard,us-east-1,0,419.86940048640963
+Proposed,20,recommendation,SaaS,Standard,us-east-1,0,2846.372720216581
+Proposed,20,productcatalog,IaaS,RI,us-east-1,1,2533.890217556114
+Proposed,20,cart,SaaS,Standard,us-east-1,0,3642.053369459819
+Proposed,20,payment,SaaS,Standard,us-east-1,0,439.82355684754776
+Proposed,20,shipping,SaaS,Standard,us-east-1,0,1990.0985337224265
+Proposed,20,email,SaaS,Standard,us-east-1,0,426.62502367027247
+Proposed,20,currency,PaaS,Standard,us-east-1,0,4684.473820906284
+Proposed,20,ad,SaaS,Standard,us-east-1,0,4314.7009218295825
+Proposed,21,frontend,SaaS,Standard,us-east-1,0,4768.383964027778
+Proposed,21,checkout,SaaS,Standard,us-east-1,0,519.7297687967566
+Proposed,21,recommendation,SaaS,Standard,us-east-1,0,3742.207993468123
+Proposed,21,productcatalog,IaaS,RI,us-east-1,2,3146.606006594372
+Proposed,21,cart,SaaS,Standard,us-east-1,0,4542.676300687633
+Proposed,21,payment,SaaS,Standard,us-east-1,0,511.7665966255183
+Proposed,21,shipping,SaaS,Standard,us-east-1,0,2366.8229342245677
+Proposed,21,email,SaaS,Standard,us-east-1,0,520.8058576246128
+Proposed,21,currency,PaaS,Standard,us-east-1,0,1808.6073881523816
+Proposed,21,ad,SaaS,Standard,us-east-1,0,4528.728105173013
+Proposed,22,frontend,SaaS,Standard,us-east-1,0,10084.362812178237
+Proposed,22,checkout,SaaS,Standard,us-east-1,0,942.2398178906262
+Proposed,22,recommendation,SaaS,Standard,us-east-1,0,7395.444440811949
+Proposed,22,productcatalog,IaaS,RI,us-east-1,3,6200.171299776735
+Proposed,22,cart,SaaS,Standard,us-east-1,0,8784.51381929759
+Proposed,22,payment,SaaS,Standard,us-east-1,0,982.8387721971005
+Proposed,22,shipping,SaaS,Standard,us-east-1,0,4831.732386967185
+Proposed,22,email,SaaS,Standard,us-east-1,0,977.9600463533806
+Proposed,22,currency,PaaS,Standard,us-east-1,0,3905.938714724744
+Proposed,22,ad,PaaS,Standard,us-east-1,0,6471.041590817626
+Proposed,23,frontend,SaaS,Standard,us-east-1,0,5474.1717027076065
+Proposed,23,checkout,SaaS,Standard,us-east-1,0,548.3365678480725
+Proposed,23,recommendation,SaaS,Standard,us-east-1,0,3780.026227527966
+Proposed,23,productcatalog,IaaS,RI,us-east-1,4,3382.273318547629
+Proposed,23,cart,SaaS,Standard,us-east-1,0,4974.969786438187
+Proposed,23,payment,SaaS,Standard,us-east-1,0,577.4920792621122
+Proposed,23,shipping,SaaS,Standard,us-east-1,0,2697.668183601444
+Proposed,23,email,SaaS,Standard,us-east-1,0,555.2991602547829
+Proposed,23,currency,PaaS,Standard,us-east-1,0,2134.2434573793676
+Proposed,23,ad,PaaS,Standard,us-east-1,0,1975.0964472372555
+Proposed,24,frontend,SaaS,Standard,us-east-1,0,3698.3344607597733
+Proposed,24,checkout,SaaS,Standard,us-east-1,0,365.7614331069133
+Proposed,24,recommendation,SaaS,Standard,us-east-1,0,3183.9053255090494
+Proposed,24,productcatalog,IaaS,RI,us-east-1,5,2513.8113504040366
+Proposed,24,cart,SaaS,Standard,us-east-1,0,3352.9202963760195
+Proposed,24,payment,SaaS,Standard,us-east-1,0,354.7878508055159
+Proposed,24,shipping,SaaS,Standard,us-east-1,0,2020.2016908150874
+Proposed,24,email,SaaS,Standard,us-east-1,0,362.1056720972938
+Proposed,24,currency,PaaS,Standard,us-east-1,0,1427.1740920345326
+Proposed,24,ad,PaaS,Standard,us-east-1,0,1273.5593911000446
+Proposed,25,frontend,SaaS,Standard,us-east-1,0,3763.8246931483473
+Proposed,25,checkout,SaaS,Standard,us-east-1,0,370.57730204833473
+Proposed,25,recommendation,SaaS,Standard,us-east-1,0,3037.859555065083
+Proposed,25,productcatalog,IaaS,RI,us-east-1,6,2535.5366906349254
+Proposed,25,cart,SaaS,Standard,us-east-1,0,3530.079312045419
+Proposed,25,payment,SaaS,Standard,us-east-1,0,349.06430663207203
+Proposed,25,shipping,SaaS,Standard,us-east-1,0,1975.2215800289014
+Proposed,25,email,SaaS,Standard,us-east-1,0,351.3110576933979
+Proposed,25,currency,PaaS,Standard,us-east-1,0,1370.550829007273
+Proposed,25,ad,PaaS,Standard,us-east-1,0,1252.3807408242517
+Proposed,26,frontend,IaaS,RI,us-east-1,8,27460.690659231426
+Proposed,26,checkout,IaaS,OD,us-east-1,0,36167.55569700455
+Proposed,26,recommendation,IaaS,OD,us-east-1,0,45396.82638138813
+Proposed,26,productcatalog,IaaS,OD,us-east-1,0,3679.9897967860575
+Proposed,26,cart,IaaS,OD,us-east-1,0,18598.209719806982
+Proposed,26,payment,IaaS,OD,us-east-1,0,45321.696267101586
+Proposed,26,shipping,IaaS,OD,us-east-1,0,18307.338047281904
+Proposed,26,email,IaaS,RI,us-east-1,5,9155.98587752723
+Proposed,26,currency,IaaS,OD,us-east-1,0,6522.227695041207
+Proposed,26,ad,IaaS,OD,us-east-1,0,6497.8324908229515
+Proposed,27,frontend,IaaS,RI,us-east-1,9,510.74319279395513
+Proposed,27,checkout,IaaS,RI,us-east-1,1,160.25334829413552
+Proposed,27,recommendation,IaaS,RI,us-east-1,1,427.150435202405
+Proposed,27,productcatalog,IaaS,RI,us-east-1,1,3521.848749819368
+Proposed,27,cart,IaaS,RI,us-east-1,1,558.4308148551908
+Proposed,27,payment,IaaS,RI,us-east-1,1,255.6769081867306
+Proposed,27,shipping,IaaS,RI,us-east-1,1,302.1244514779693
+Proposed,27,email,IaaS,RI,us-east-1,6,158.21923296062133
+Proposed,27,currency,IaaS,RI,us-east-1,1,582.8390930675532
+Proposed,27,ad,IaaS,RI,us-east-1,1,529.3783282622165
+Proposed,28,frontend,IaaS,RI,us-east-1,10,571.3608940663074
+Proposed,28,checkout,IaaS,RI,us-east-1,2,166.81901652924995
+Proposed,28,recommendation,IaaS,RI,us-east-1,2,512.9700166570948
+Proposed,28,productcatalog,IaaS,RI,us-east-1,2,4462.885935255899
+Proposed,28,cart,IaaS,RI,us-east-1,2,638.3697095502272
+Proposed,28,payment,IaaS,RI,us-east-1,2,264.8550407580716
+Proposed,28,shipping,IaaS,RI,us-east-1,2,344.67266846399787
+Proposed,28,email,IaaS,RI,us-east-1,7,162.38468778029264
+Proposed,28,currency,IaaS,RI,us-east-1,2,625.6035503926258
+Proposed,28,ad,IaaS,RI,us-east-1,2,523.3698072670222
+Proposed,29,frontend,IaaS,RI,us-east-1,11,788.2064766787607
+Proposed,29,checkout,IaaS,RI,us-east-1,3,191.44898307034612
+Proposed,29,recommendation,IaaS,RI,us-east-1,3,685.24847436891
+Proposed,29,productcatalog,IaaS,RI,us-east-1,3,5902.931660636796
+Proposed,29,cart,IaaS,RI,us-east-1,3,817.4231353202435
+Proposed,29,payment,IaaS,RI,us-east-1,3,287.5806182341747
+Proposed,29,shipping,IaaS,RI,us-east-1,3,455.74263424003425
+Proposed,29,email,IaaS,RI,us-east-1,8,194.75568367783956
+Proposed,29,currency,IaaS,RI,us-east-1,3,862.1485729641502
+Proposed,29,ad,IaaS,RI,us-east-1,3,821.2148282889981
+Proposed,30,frontend,IaaS,RI,us-east-1,12,858.651365386473
+Proposed,30,checkout,IaaS,RI,us-east-1,4,195.9544828637729
+Proposed,30,recommendation,IaaS,RI,us-east-1,4,737.9561044084769
+Proposed,30,productcatalog,IaaS,RI,us-east-1,4,6599.362789671072
+Proposed,30,cart,IaaS,RI,us-east-1,4,884.3791783313943
+Proposed,30,payment,IaaS,RI,us-east-1,4,296.74014695044093
+Proposed,30,shipping,IaaS,RI,us-east-1,4,495.4971174997843
+Proposed,30,email,IaaS,RI,us-east-1,9,194.98730618564667
+Proposed,30,currency,IaaS,RI,us-east-1,4,913.0650787731837
+Proposed,30,ad,IaaS,RI,us-east-1,4,902.4990768173342
+Proposed,31,frontend,IaaS,RI,us-east-1,1,1143.1679707782303
+Proposed,31,checkout,IaaS,RI,us-east-1,5,226.28808253571503
+Proposed,31,recommendation,IaaS,RI,us-east-1,5,952.6545935046303
+Proposed,31,productcatalog,IaaS,RI,us-east-1,5,8642.324975505673
+Proposed,31,cart,IaaS,RI,us-east-1,5,1172.165579671936
+Proposed,31,payment,IaaS,RI,us-east-1,5,328.1088216650568
+Proposed,31,shipping,IaaS,RI,us-east-1,5,653.1882864582777
+Proposed,31,email,IaaS,RI,us-east-1,10,223.76233025372628
+Proposed,31,currency,IaaS,RI,us-east-1,5,1266.2658053228315
+Proposed,31,ad,IaaS,RI,us-east-1,5,1089.7786568346164
+Proposed,32,frontend,IaaS,RI,us-east-1,2,1373.191994639497
+Proposed,32,checkout,IaaS,RI,us-east-1,6,249.08059527315538
+Proposed,32,recommendation,IaaS,RI,us-east-1,6,1070.0172392386917
+Proposed,32,productcatalog,IaaS,RI,us-east-1,6,10945.05101001588
+Proposed,32,cart,IaaS,RI,us-east-1,6,1248.167723356109
+Proposed,32,payment,IaaS,RI,us-east-1,6,359.5166844128696
+Proposed,32,shipping,IaaS,RI,us-east-1,6,752.7518190528862
+Proposed,32,email,IaaS,RI,us-east-1,11,247.84011301840525
+Proposed,32,currency,IaaS,RI,us-east-1,6,1561.5996039003408
+Proposed,32,ad,IaaS,RI,us-east-1,6,1488.6707270681418
+Proposed,33,frontend,IaaS,RI,us-east-1,3,1223.7103580381875
+Proposed,33,checkout,IaaS,RI,us-east-1,7,232.08407378022082
+Proposed,33,recommendation,IaaS,RI,us-east-1,7,998.0684700822303
+Proposed,33,productcatalog,IaaS,RI,us-east-1,7,9501.519456034137
+Proposed,33,cart,IaaS,RI,us-east-1,7,1244.55875028336
+Proposed,33,payment,IaaS,RI,us-east-1,7,336.0580276995419
+Proposed,33,shipping,IaaS,RI,us-east-1,7,680.5397687401446
+Proposed,33,email,IaaS,RI,us-east-1,12,231.32850130517377
+Proposed,33,currency,IaaS,RI,us-east-1,7,1319.7971875499766
+Proposed,33,ad,IaaS,RI,us-east-1,7,1142.9523014707788
+Proposed,34,frontend,IaaS,RI,us-east-1,4,997.4507903889239
+Proposed,34,checkout,IaaS,RI,us-east-1,8,207.68417319948844
+Proposed,34,recommendation,IaaS,RI,us-east-1,8,789.5096033413912
+Proposed,34,productcatalog,IaaS,RI,us-east-1,8,7871.628701830941
+Proposed,34,cart,IaaS,RI,us-east-1,8,965.1855229326211
+Proposed,34,payment,IaaS,RI,us-east-1,8,307.04510945836665
+Proposed,34,shipping,IaaS,RI,us-east-1,8,567.1949605535052
+Proposed,34,email,IaaS,RI,us-east-1,1,206.32522560998484
+Proposed,34,currency,IaaS,RI,us-east-1,8,1051.329126006977
+Proposed,34,ad,IaaS,RI,us-east-1,8,975.8501570343584
+Proposed,35,frontend,IaaS,RI,us-east-1,5,767.0418696642515
+Proposed,35,checkout,IaaS,RI,us-east-1,9,184.73265421728712
+Proposed,35,recommendation,IaaS,RI,us-east-1,9,690.5298348115427
+Proposed,35,productcatalog,IaaS,RI,us-east-1,9,6051.4218338515375
+Proposed,35,cart,IaaS,RI,us-east-1,9,785.6209562236368
+Proposed,35,payment,IaaS,RI,us-east-1,9,279.9350662441599
+Proposed,35,shipping,IaaS,RI,us-east-1,9,443.26542146953295
+Proposed,35,email,IaaS,RI,us-east-1,2,184.16159848075165
+Proposed,35,currency,IaaS,RI,us-east-1,9,746.8868078858138
+Proposed,35,ad,IaaS,RI,us-east-1,9,761.8087236145085
+Proposed,36,frontend,IaaS,RI,us-east-1,6,962.7612008105136
+Proposed,36,checkout,IaaS,RI,us-east-1,10,205.49807302534347
+Proposed,36,recommendation,IaaS,RI,us-east-1,10,759.6854990963465
+Proposed,36,productcatalog,IaaS,RI,us-east-1,10,7244.35610845558
+Proposed,36,cart,IaaS,RI,us-east-1,10,1020.07777267963
+Proposed,36,payment,IaaS,RI,us-east-1,10,298.38680091104663
+Proposed,36,shipping,IaaS,RI,us-east-1,10,551.7648022159486
+Proposed,36,email,IaaS,RI,us-east-1,3,206.4994666519433
+Proposed,36,currency,IaaS,RI,us-east-1,10,1045.6445837176107
+Proposed,36,ad,IaaS,RI,us-east-1,10,983.156938203293
+Reactive,1,frontend,SaaS,Standard,us-east-1,0,4603.346559651682
+Reactive,1,checkout,SaaS,Standard,us-east-1,0,6010.982093034651
+Reactive,1,recommendation,SaaS,Standard,us-east-1,0,7581.092911347589
+Reactive,1,productcatalog,SaaS,Standard,us-east-1,0,3818.7551547668295
+Reactive,1,cart,SaaS,Standard,us-east-1,0,3096.7021997030724
+Reactive,1,payment,SaaS,Standard,us-east-1,0,7510.506147806967
+Reactive,1,shipping,SaaS,Standard,us-east-1,0,3049.8136611851087
+Reactive,1,email,SaaS,Standard,us-east-1,0,1511.316929276817
+Reactive,1,currency,SaaS,Standard,us-east-1,0,1614.9284272791976
+Reactive,1,ad,SaaS,Standard,us-east-1,0,1614.4813579761083
+Reactive,2,frontend,SaaS,Standard,us-east-1,0,142.71226102281784
+Reactive,2,checkout,SaaS,Standard,us-east-1,0,13.523166009612707
+Reactive,2,recommendation,SaaS,Standard,us-east-1,0,111.83321816535138
+Reactive,2,productcatalog,SaaS,Standard,us-east-1,0,1186.5371839984887
+Reactive,2,cart,SaaS,Standard,us-east-1,0,122.80526480071967
+Reactive,2,payment,SaaS,Standard,us-east-1,0,13.084503785338702
+Reactive,2,shipping,SaaS,Standard,us-east-1,0,73.29185251887253
+Reactive,2,email,SaaS,Standard,us-east-1,0,13.157318972119256
+Reactive,2,currency,SaaS,Standard,us-east-1,0,160.41113603399444
+Reactive,2,ad,SaaS,Standard,us-east-1,0,138.35768996663475
+Reactive,3,frontend,SaaS,Standard,us-east-1,0,220.41399705207482
+Reactive,3,checkout,SaaS,Standard,us-east-1,0,20.629295068187275
+Reactive,3,recommendation,SaaS,Standard,us-east-1,0,179.3600314517945
+Reactive,3,productcatalog,SaaS,Standard,us-east-1,0,1997.0919171657342
+Reactive,3,cart,SaaS,Standard,us-east-1,0,197.54774403203268
+Reactive,3,payment,SaaS,Standard,us-east-1,0,19.279814719641692
+Reactive,3,shipping,SaaS,Standard,us-east-1,0,116.1216149124333
+Reactive,3,email,SaaS,Standard,us-east-1,0,19.91462845905735
+Reactive,3,currency,SaaS,Standard,us-east-1,0,219.0219657755878
+Reactive,3,ad,SaaS,Standard,us-east-1,0,212.08978318875262
+Reactive,4,frontend,SaaS,Standard,us-east-1,0,289.607699256648
+Reactive,4,checkout,SaaS,Standard,us-east-1,0,30.80952621491038
+Reactive,4,recommendation,SaaS,Standard,us-east-1,0,233.9598731139751
+Reactive,4,productcatalog,SaaS,Standard,us-east-1,0,2358.0731134116922
+Reactive,4,cart,SaaS,Standard,us-east-1,0,269.3508940519832
+Reactive,4,payment,SaaS,Standard,us-east-1,0,29.747844271518943
+Reactive,4,shipping,SaaS,Standard,us-east-1,0,150.09492323763627
+Reactive,4,email,SaaS,Standard,us-east-1,0,30.76214605986368
+Reactive,4,currency,SaaS,Standard,us-east-1,0,317.3984113346055
+Reactive,4,ad,SaaS,Standard,us-east-1,0,284.5914259674512
+Reactive,5,frontend,SaaS,Standard,us-east-1,0,403.61594186468255
+Reactive,5,checkout,SaaS,Standard,us-east-1,0,41.66352275359117
+Reactive,5,recommendation,SaaS,Standard,us-east-1,0,307.0261911059971
+Reactive,5,productcatalog,SaaS,Standard,us-east-1,0,3531.2281433461585
+Reactive,5,cart,SaaS,Standard,us-east-1,0,366.7419836792442
+Reactive,5,payment,SaaS,Standard,us-east-1,0,44.97873996644389
+Reactive,5,shipping,SaaS,Standard,us-east-1,0,195.7987762735816
+Reactive,5,email,SaaS,Standard,us-east-1,0,44.06188497281968
+Reactive,5,currency,SaaS,Standard,us-east-1,0,440.08580605251973
+Reactive,5,ad,SaaS,Standard,us-east-1,0,406.58305930404805
+Reactive,6,frontend,SaaS,Standard,us-east-1,0,381.5439055496986
+Reactive,6,checkout,SaaS,Standard,us-east-1,0,37.586582470396706
+Reactive,6,recommendation,SaaS,Standard,us-east-1,0,339.2925765611337
+Reactive,6,productcatalog,SaaS,Standard,us-east-1,0,3320.9743824376
+Reactive,6,cart,SaaS,Standard,us-east-1,0,338.8780534887477
+Reactive,6,payment,SaaS,Standard,us-east-1,0,34.50828275267115
+Reactive,6,shipping,SaaS,Standard,us-east-1,0,195.28142001640973
+Reactive,6,email,SaaS,Standard,us-east-1,0,36.959842104588056
+Reactive,6,currency,SaaS,Standard,us-east-1,0,430.384671706505
+Reactive,6,ad,SaaS,Standard,us-east-1,0,372.39738168350436
+Reactive,7,frontend,SaaS,Standard,us-east-1,0,291.9213740548995
+Reactive,7,checkout,SaaS,Standard,us-east-1,0,30.295223906575078
+Reactive,7,recommendation,SaaS,Standard,us-east-1,0,222.1942891399648
+Reactive,7,productcatalog,SaaS,Standard,us-east-1,0,2349.03970383739
+Reactive,7,cart,SaaS,Standard,us-east-1,0,262.6492360267814
+Reactive,7,payment,SaaS,Standard,us-east-1,0,32.95169327078694
+Reactive,7,shipping,SaaS,Standard,us-east-1,0,141.84382591237087
+Reactive,7,email,SaaS,Standard,us-east-1,0,33.50859338955271
+Reactive,7,currency,SaaS,Standard,us-east-1,0,361.6798249834084
+Reactive,7,ad,SaaS,Standard,us-east-1,0,300.0772107003346
+Reactive,8,frontend,SaaS,Standard,us-east-1,0,399.5584253013057
+Reactive,8,checkout,SaaS,Standard,us-east-1,0,43.46820430870383
+Reactive,8,recommendation,SaaS,Standard,us-east-1,0,295.3163032063201
+Reactive,8,productcatalog,SaaS,Standard,us-east-1,0,3177.8830515948093
+Reactive,8,cart,SaaS,Standard,us-east-1,0,328.994847021811
+Reactive,8,payment,SaaS,Standard,us-east-1,0,40.06433089965147
+Reactive,8,shipping,SaaS,Standard,us-east-1,0,194.71314527761837
+Reactive,8,email,SaaS,Standard,us-east-1,0,44.06020868054519
+Reactive,8,currency,SaaS,Standard,us-east-1,0,470.4625718969678
+Reactive,8,ad,SaaS,Standard,us-east-1,0,420.0320043535562
+Reactive,9,frontend,SaaS,Standard,us-east-1,0,191.44145898153664
+Reactive,9,checkout,SaaS,Standard,us-east-1,0,19.438052454892976
+Reactive,9,recommendation,SaaS,Standard,us-east-1,0,161.83467736946955
+Reactive,9,productcatalog,SaaS,Standard,us-east-1,0,1742.6747345355539
+Reactive,9,cart,SaaS,Standard,us-east-1,0,170.46396545943247
+Reactive,9,payment,SaaS,Standard,us-east-1,0,20.476556089441345
+Reactive,9,shipping,SaaS,Standard,us-east-1,0,104.12228166760679
+Reactive,9,email,SaaS,Standard,us-east-1,0,18.95406847306389
+Reactive,9,currency,SaaS,Standard,us-east-1,0,225.09594279398135
+Reactive,9,ad,SaaS,Standard,us-east-1,0,182.5789230345358
+Reactive,10,frontend,SaaS,Standard,us-east-1,0,276.4749580378924
+Reactive,10,checkout,SaaS,Standard,us-east-1,0,28.380053433804928
+Reactive,10,recommendation,SaaS,Standard,us-east-1,0,227.02118264006768
+Reactive,10,productcatalog,SaaS,Standard,us-east-1,0,2414.423119466539
+Reactive,10,cart,SaaS,Standard,us-east-1,0,258.2524708322169
+Reactive,10,payment,SaaS,Standard,us-east-1,0,24.467523330449485
+Reactive,10,shipping,SaaS,Standard,us-east-1,0,133.80047455134567
+Reactive,10,email,SaaS,Standard,us-east-1,0,27.77334174025802
+Reactive,10,currency,SaaS,Standard,us-east-1,0,286.884198033397
+Reactive,10,ad,SaaS,Standard,us-east-1,0,302.226722263913
+Reactive,11,frontend,SaaS,Standard,us-east-1,0,366.91675933372665
+Reactive,11,checkout,SaaS,Standard,us-east-1,0,38.41640534965161
+Reactive,11,recommendation,SaaS,Standard,us-east-1,0,299.30810134862844
+Reactive,11,productcatalog,SaaS,Standard,us-east-1,0,3122.6888001610187
+Reactive,11,cart,SaaS,Standard,us-east-1,0,356.71290347970483
+Reactive,11,payment,SaaS,Standard,us-east-1,0,41.7750038563436
+Reactive,11,shipping,SaaS,Standard,us-east-1,0,182.24326900108832
+Reactive,11,email,SaaS,Standard,us-east-1,0,37.13532637415761
+Reactive,11,currency,SaaS,Standard,us-east-1,0,408.6813640491649
+Reactive,11,ad,SaaS,Standard,us-east-1,0,346.11593340346224
+Reactive,12,frontend,SaaS,Standard,us-east-1,0,311.38315294080854
+Reactive,12,checkout,SaaS,Standard,us-east-1,0,32.30011887353892
+Reactive,12,recommendation,SaaS,Standard,us-east-1,0,241.25335661927795
+Reactive,12,productcatalog,SaaS,Standard,us-east-1,0,2582.2339410098466
+Reactive,12,cart,SaaS,Standard,us-east-1,0,290.18581144073516
+Reactive,12,payment,SaaS,Standard,us-east-1,0,31.166358758560477
+Reactive,12,shipping,SaaS,Standard,us-east-1,0,152.21511547170599
+Reactive,12,email,SaaS,Standard,us-east-1,0,33.37965705516784
+Reactive,12,currency,SaaS,Standard,us-east-1,0,338.50006526295
+Reactive,12,ad,SaaS,Standard,us-east-1,0,320.88777972331025
+Reactive,13,frontend,SaaS,Standard,us-east-1,0,360.68018169673485
+Reactive,13,checkout,SaaS,Standard,us-east-1,0,35.813258530762695
+Reactive,13,recommendation,SaaS,Standard,us-east-1,0,268.370730348441
+Reactive,13,productcatalog,SaaS,Standard,us-east-1,0,2956.6504244345647
+Reactive,13,cart,SaaS,Standard,us-east-1,0,324.2615534433542
+Reactive,13,payment,SaaS,Standard,us-east-1,0,36.155143379065976
+Reactive,13,shipping,SaaS,Standard,us-east-1,0,176.88982974916223
+Reactive,13,email,SaaS,Standard,us-east-1,0,35.29518684234283
+Reactive,13,currency,SaaS,Standard,us-east-1,0,367.65781869447125
+Reactive,13,ad,SaaS,Standard,us-east-1,0,367.64185585241296
+Reactive,14,frontend,SaaS,Standard,us-east-1,0,285.9829465547501
+Reactive,14,checkout,SaaS,Standard,us-east-1,0,28.720593557507847
+Reactive,14,recommendation,SaaS,Standard,us-east-1,0,226.2775922517926
+Reactive,14,productcatalog,SaaS,Standard,us-east-1,0,2454.0114765732155
+Reactive,14,cart,SaaS,Standard,us-east-1,0,260.86208682926235
+Reactive,14,payment,SaaS,Standard,us-east-1,0,28.595880009776117
+Reactive,14,shipping,SaaS,Standard,us-east-1,0,150.00325231461508
+Reactive,14,email,SaaS,Standard,us-east-1,0,28.486996032975497
+Reactive,14,currency,SaaS,Standard,us-east-1,0,321.39160248395564
+Reactive,14,ad,SaaS,Standard,us-east-1,0,315.78263455380187
+Reactive,15,frontend,SaaS,Standard,us-east-1,0,211.47920175451952
+Reactive,15,checkout,SaaS,Standard,us-east-1,0,19.155988353157017
+Reactive,15,recommendation,SaaS,Standard,us-east-1,0,168.7969763846299
+Reactive,15,productcatalog,SaaS,Standard,us-east-1,0,1794.8581606246996
+Reactive,15,cart,SaaS,Standard,us-east-1,0,183.45879618536034
+Reactive,15,payment,SaaS,Standard,us-east-1,0,18.820122421772375
+Reactive,15,shipping,SaaS,Standard,us-east-1,0,107.5282274211958
+Reactive,15,email,SaaS,Standard,us-east-1,0,18.548263344199654
+Reactive,15,currency,SaaS,Standard,us-east-1,0,241.88812308207554
+Reactive,15,ad,SaaS,Standard,us-east-1,0,207.49790831015062
+Reactive,16,frontend,SaaS,Standard,us-east-1,0,332.8322542936575
+Reactive,16,checkout,SaaS,Standard,us-east-1,0,31.09628091763055
+Reactive,16,recommendation,SaaS,Standard,us-east-1,0,266.43116768241515
+Reactive,16,productcatalog,SaaS,Standard,us-east-1,0,2825.857702517612
+Reactive,16,cart,SaaS,Standard,us-east-1,0,312.474806877378
+Reactive,16,payment,SaaS,Standard,us-east-1,0,33.50273218256577
+Reactive,16,shipping,SaaS,Standard,us-east-1,0,174.18343848078854
+Reactive,16,email,SaaS,Standard,us-east-1,0,33.93170824745479
+Reactive,16,currency,SaaS,Standard,us-east-1,0,370.42148901332547
+Reactive,16,ad,SaaS,Standard,us-east-1,0,336.66542251783846
+Reactive,17,frontend,SaaS,Standard,us-east-1,0,385.848850148536
+Reactive,17,checkout,SaaS,Standard,us-east-1,0,43.60331250955795
+Reactive,17,recommendation,SaaS,Standard,us-east-1,0,310.12413012883235
+Reactive,17,productcatalog,SaaS,Standard,us-east-1,0,3247.241828585652
+Reactive,17,cart,SaaS,Standard,us-east-1,0,370.7624634250682
+Reactive,17,payment,SaaS,Standard,us-east-1,0,45.93810062862203
+Reactive,17,shipping,SaaS,Standard,us-east-1,0,203.30992817093266
+Reactive,17,email,SaaS,Standard,us-east-1,0,39.43582029497703
+Reactive,17,currency,SaaS,Standard,us-east-1,0,446.3838280215408
+Reactive,17,ad,SaaS,Standard,us-east-1,0,398.99104126129083
+Reactive,18,frontend,SaaS,Standard,us-east-1,0,914.5553621839183
+Reactive,18,checkout,SaaS,Standard,us-east-1,0,88.65447281257626
+Reactive,18,recommendation,SaaS,Standard,us-east-1,0,777.0359629005616
+Reactive,18,productcatalog,SaaS,Standard,us-east-1,0,7837.346473895005
+Reactive,18,cart,SaaS,Standard,us-east-1,0,799.3272896311895
+Reactive,18,payment,SaaS,Standard,us-east-1,0,88.38445430277241
+Reactive,18,shipping,SaaS,Standard,us-east-1,0,450.3897116864162
+Reactive,18,email,SaaS,Standard,us-east-1,0,87.15599645562723
+Reactive,18,currency,SaaS,Standard,us-east-1,0,1070.2875890184657
+Reactive,18,ad,SaaS,Standard,us-east-1,0,961.8893215671942
+Reactive,19,frontend,SaaS,Standard,us-east-1,0,2785.8666192011515
+Reactive,19,checkout,SaaS,Standard,us-east-1,0,254.69837652969446
+Reactive,19,recommendation,SaaS,Standard,us-east-1,0,2106.37224131746
+Reactive,19,productcatalog,PaaS,Standard,us-east-1,0,14186.990217787268
+Reactive,19,cart,SaaS,Standard,us-east-1,0,2325.8757614968936
+Reactive,19,payment,SaaS,Standard,us-east-1,0,260.703522289267
+Reactive,19,shipping,SaaS,Standard,us-east-1,0,1315.6095021793199
+Reactive,19,email,SaaS,Standard,us-east-1,0,259.661436655669
+Reactive,19,currency,SaaS,Standard,us-east-1,0,2988.2450392959854
+Reactive,19,ad,SaaS,Standard,us-east-1,0,2781.5261719396585
+Reactive,20,frontend,SaaS,Standard,us-east-1,0,3933.1943787882847
+Reactive,20,checkout,SaaS,Standard,us-east-1,0,419.86940048640963
+Reactive,20,recommendation,SaaS,Standard,us-east-1,0,2846.372720216581
+Reactive,20,productcatalog,PaaS,Standard,us-east-1,0,11581.61206339239
+Reactive,20,cart,SaaS,Standard,us-east-1,0,3642.053369459819
+Reactive,20,payment,SaaS,Standard,us-east-1,0,439.82355684754776
+Reactive,20,shipping,SaaS,Standard,us-east-1,0,1990.0985337224265
+Reactive,20,email,SaaS,Standard,us-east-1,0,426.62502367027247
+Reactive,20,currency,PaaS,Standard,us-east-1,0,4684.473820906284
+Reactive,20,ad,SaaS,Standard,us-east-1,0,4314.7009218295825
+Reactive,21,frontend,SaaS,Standard,us-east-1,0,4768.383964027778
+Reactive,21,checkout,SaaS,Standard,us-east-1,0,519.7297687967566
+Reactive,21,recommendation,SaaS,Standard,us-east-1,0,3742.207993468123
+Reactive,21,productcatalog,PaaS,Standard,us-east-1,0,14566.4449917092
+Reactive,21,cart,SaaS,Standard,us-east-1,0,4542.676300687633
+Reactive,21,payment,SaaS,Standard,us-east-1,0,511.7665966255183
+Reactive,21,shipping,SaaS,Standard,us-east-1,0,2366.8229342245677
+Reactive,21,email,SaaS,Standard,us-east-1,0,520.8058576246128
+Reactive,21,currency,PaaS,Standard,us-east-1,0,1808.6073881523816
+Reactive,21,ad,SaaS,Standard,us-east-1,0,4528.728105173013
+Reactive,22,frontend,SaaS,Standard,us-east-1,0,10084.362812178237
+Reactive,22,checkout,SaaS,Standard,us-east-1,0,942.2398178906262
+Reactive,22,recommendation,SaaS,Standard,us-east-1,0,7395.444440811949
+Reactive,22,productcatalog,IaaS,RI,us-east-1,1,18200.171299776735
+Reactive,22,cart,SaaS,Standard,us-east-1,0,8784.51381929759
+Reactive,22,payment,SaaS,Standard,us-east-1,0,982.8387721971005
+Reactive,22,shipping,SaaS,Standard,us-east-1,0,4831.732386967185
+Reactive,22,email,SaaS,Standard,us-east-1,0,977.9600463533806
+Reactive,22,currency,PaaS,Standard,us-east-1,0,3905.938714724744
+Reactive,22,ad,PaaS,Standard,us-east-1,0,6471.041590817626
+Reactive,23,frontend,SaaS,Standard,us-east-1,0,5474.1717027076065
+Reactive,23,checkout,SaaS,Standard,us-east-1,0,548.3365678480725
+Reactive,23,recommendation,SaaS,Standard,us-east-1,0,3780.026227527966
+Reactive,23,productcatalog,IaaS,RI,us-east-1,2,3382.273318547629
+Reactive,23,cart,SaaS,Standard,us-east-1,0,4974.969786438187
+Reactive,23,payment,SaaS,Standard,us-east-1,0,577.4920792621122
+Reactive,23,shipping,SaaS,Standard,us-east-1,0,2697.668183601444
+Reactive,23,email,SaaS,Standard,us-east-1,0,555.2991602547829
+Reactive,23,currency,PaaS,Standard,us-east-1,0,2134.2434573793676
+Reactive,23,ad,PaaS,Standard,us-east-1,0,1975.0964472372555
+Reactive,24,frontend,SaaS,Standard,us-east-1,0,3698.3344607597733
+Reactive,24,checkout,SaaS,Standard,us-east-1,0,365.7614331069133
+Reactive,24,recommendation,SaaS,Standard,us-east-1,0,3183.9053255090494
+Reactive,24,productcatalog,IaaS,RI,us-east-1,3,2513.8113504040366
+Reactive,24,cart,SaaS,Standard,us-east-1,0,3352.9202963760195
+Reactive,24,payment,SaaS,Standard,us-east-1,0,354.7878508055159
+Reactive,24,shipping,SaaS,Standard,us-east-1,0,2020.2016908150874
+Reactive,24,email,SaaS,Standard,us-east-1,0,362.1056720972938
+Reactive,24,currency,PaaS,Standard,us-east-1,0,1427.1740920345326
+Reactive,24,ad,PaaS,Standard,us-east-1,0,1273.5593911000446
+Reactive,25,frontend,SaaS,Standard,us-east-1,0,3763.8246931483473
+Reactive,25,checkout,SaaS,Standard,us-east-1,0,370.57730204833473
+Reactive,25,recommendation,SaaS,Standard,us-east-1,0,3037.859555065083
+Reactive,25,productcatalog,IaaS,RI,us-east-1,4,2535.5366906349254
+Reactive,25,cart,SaaS,Standard,us-east-1,0,3530.079312045419
+Reactive,25,payment,SaaS,Standard,us-east-1,0,349.06430663207203
+Reactive,25,shipping,SaaS,Standard,us-east-1,0,1975.2215800289014
+Reactive,25,email,SaaS,Standard,us-east-1,0,351.3110576933979
+Reactive,25,currency,PaaS,Standard,us-east-1,0,1370.550829007273
+Reactive,25,ad,PaaS,Standard,us-east-1,0,1252.3807408242517
+Reactive,26,frontend,SaaS,Standard,us-east-1,0,4726.269229240537
+Reactive,26,checkout,SaaS,Standard,us-east-1,0,452.72775806378417
+Reactive,26,recommendation,SaaS,Standard,us-east-1,0,3662.5173394342128
+Reactive,26,productcatalog,IaaS,RI,us-east-1,5,2919.329796786057
+Reactive,26,cart,SaaS,Standard,us-east-1,0,4331.596077298205
+Reactive,26,payment,SaaS,Standard,us-east-1,0,460.40773942225974
+Reactive,26,shipping,SaaS,Standard,us-east-1,0,2409.6806619469057
+Reactive,26,email,SaaS,Standard,us-east-1,0,460.4022853812618
+Reactive,26,currency,PaaS,Standard,us-east-1,0,1936.7577683483082
+Reactive,26,ad,PaaS,Standard,us-east-1,0,1814.674001751404
+Reactive,27,frontend,SaaS,Standard,us-east-1,0,5427.0046991159725
+Reactive,27,checkout,SaaS,Standard,us-east-1,0,520.1468761179549
+Reactive,27,recommendation,SaaS,Standard,us-east-1,0,4256.706092834141
+Reactive,27,productcatalog,IaaS,RI,us-east-1,6,3521.848749819368
+Reactive,27,cart,SaaS,Standard,us-east-1,0,4735.371407973195
+Reactive,27,payment,SaaS,Standard,us-east-1,0,496.81671461428357
+Reactive,27,shipping,SaaS,Standard,us-east-1,0,2506.3423206918474
+Reactive,27,email,SaaS,Standard,us-east-1,0,491.66926144875305
+Reactive,27,currency,PaaS,Standard,us-east-1,0,2300.725980048597
+Reactive,27,ad,PaaS,Standard,us-east-1,0,2033.186037599473
+Reactive,28,frontend,SaaS,Standard,us-east-1,0,6275.652516928999
+Reactive,28,checkout,SaaS,Standard,us-east-1,0,612.0662314095673
+Reactive,28,recommendation,SaaS,Standard,us-east-1,0,5458.180233199931
+Reactive,28,productcatalog,IaaS,RI,us-east-1,7,4462.885935255899
+Reactive,28,cart,SaaS,Standard,us-east-1,0,5854.5159337038285
+Reactive,28,payment,SaaS,Standard,us-east-1,0,625.3105706130721
+Reactive,28,shipping,SaaS,Standard,us-east-1,0,3102.0173584963136
+Reactive,28,email,SaaS,Standard,us-east-1,0,549.9856289241578
+Reactive,28,currency,PaaS,Standard,us-east-1,0,2514.737143062783
+Reactive,28,ad,PaaS,Standard,us-east-1,0,2003.1168949840987
+Reactive,29,frontend,SaaS,Standard,us-east-1,0,9311.49067350368
+Reactive,29,checkout,SaaS,Standard,us-east-1,0,956.8857629849517
+Reactive,29,recommendation,SaaS,Standard,us-east-1,0,7870.078641165612
+Reactive,29,productcatalog,IaaS,RI,us-east-1,8,5902.931660636796
+Reactive,29,cart,SaaS,Standard,us-east-1,0,8361.263894484337
+Reactive,29,payment,SaaS,Standard,us-east-1,0,943.4686552785502
+Reactive,29,shipping,SaaS,Standard,us-east-1,0,4656.996879360996
+Reactive,29,email,SaaS,Standard,us-east-1,0,1003.1795714898648
+Reactive,29,currency,PaaS,Standard,us-east-1,0,3698.506996633883
+Reactive,29,ad,PaaS,Standard,us-east-1,0,3493.6574825183634
+Reactive,30,frontend,SaaS,Standard,us-east-1,0,10297.719115411763
+Reactive,30,checkout,SaaS,Standard,us-east-1,0,1019.9627600929339
+Reactive,30,recommendation,SaaS,Standard,us-east-1,0,8607.985461719629
+Reactive,30,productcatalog,IaaS,RI,us-east-1,9,6599.362789671072
+Reactive,30,cart,SaaS,Standard,us-east-1,0,9298.648496640551
+Reactive,30,payment,SaaS,Standard,us-east-1,0,1071.7020573062919
+Reactive,30,shipping,SaaS,Standard,us-east-1,0,5213.559644997557
+Reactive,30,email,SaaS,Standard,us-east-1,0,1006.4222865991651
+Reactive,30,currency,PaaS,Standard,us-east-1,0,3953.314406955471
+Reactive,30,ad,PaaS,Standard,us-east-1,0,3900.4377306587808
+Reactive,31,frontend,PaaS,Standard,us-east-1,0,14121.421292622836
+Reactive,31,checkout,SaaS,Standard,us-east-1,0,1444.6331555001707
+Reactive,31,recommendation,SaaS,Standard,us-east-1,0,11613.76430906611
+Reactive,31,productcatalog,IaaS,RI,us-east-1,10,8642.324975505673
+Reactive,31,cart,PaaS,Standard,us-east-1,0,10765.27242981774
+Reactive,31,payment,SaaS,Standard,us-east-1,0,1510.8635033109624
+Reactive,31,shipping,SaaS,Standard,us-east-1,0,7421.23601041671
+Reactive,31,email,SaaS,Standard,us-east-1,0,1409.272623552324
+Reactive,31,currency,PaaS,Standard,us-east-1,0,5720.87800987364
+Reactive,31,ad,PaaS,Standard,us-east-1,0,4837.662782379668
+Reactive,32,frontend,PaaS,Standard,us-east-1,0,6276.295249423104
+Reactive,32,checkout,SaaS,Standard,us-east-1,0,1763.728333824371
+Reactive,32,recommendation,SaaS,Standard,us-east-1,0,13256.841349343153
+Reactive,32,productcatalog,IaaS,RI,us-east-1,11,10945.05101001588
+Reactive,32,cart,PaaS,Standard,us-east-1,0,5145.7138273061555
+Reactive,32,payment,SaaS,Standard,us-east-1,0,1950.5735817803911
+Reactive,32,shipping,SaaS,Standard,us-east-1,0,8815.125466741381
+Reactive,32,email,SaaS,Standard,us-east-1,0,1746.3615822578672
+Reactive,32,currency,PaaS,Standard,us-east-1,0,7025.3232460054505
+Reactive,32,ad,PaaS,Standard,us-east-1,0,6660.3567592443405
+Reactive,33,frontend,PaaS,Standard,us-east-1,0,5525.797774277408
+Reactive,33,checkout,SaaS,Standard,us-east-1,0,1525.77703292326
+Reactive,33,recommendation,SaaS,Standard,us-east-1,0,12249.558581152582
+Reactive,33,productcatalog,IaaS,RI,us-east-1,12,9501.519456034137
+Reactive,33,cart,PaaS,Standard,us-east-1,0,5127.648511082969
+Reactive,33,payment,SaaS,Standard,us-east-1,0,1622.1523877937666
+Reactive,33,shipping,SaaS,Standard,us-east-1,0,7804.156762362889
+Reactive,33,email,SaaS,Standard,us-east-1,0,1515.1990182726008
+Reactive,33,currency,PaaS,Standard,us-east-1,0,5988.771351325478
+Reactive,33,ad,PaaS,Standard,us-east-1,0,5103.765855868602
+Reactive,34,frontend,PaaS,Standard,us-east-1,0,4389.823897424352
+Reactive,34,checkout,SaaS,Standard,us-east-1,0,1184.178424792969
+Reactive,34,recommendation,SaaS,Standard,us-east-1,0,9329.73444678051
+Reactive,34,productcatalog,IaaS,RI,us-east-1,1,7871.628701830941
+Reactive,34,cart,PaaS,Standard,us-east-1,0,3729.199258443043
+Reactive,34,payment,SaaS,Standard,us-east-1,0,1215.9715324172678
+Reactive,34,shipping,SaaS,Standard,us-east-1,0,6217.329447749761
+Reactive,34,email,SaaS,Standard,us-east-1,0,1165.1531585399168
+Reactive,34,currency,PaaS,Standard,us-east-1,0,4645.245309448274
+Reactive,34,ad,PaaS,Standard,us-east-1,0,4267.517099075986
+Reactive,35,frontend,PaaS,Standard,us-east-1,0,3233.017501759049
+Reactive,35,checkout,SaaS,Standard,us-east-1,0,862.8571590421154
+Reactive,35,recommendation,SaaS,Standard,us-east-1,0,7944.017687362479
+Reactive,35,productcatalog,IaaS,RI,us-east-1,2,6051.4218338515375
+Reactive,35,cart,PaaS,Standard,us-east-1,0,2830.358891754888
+Reactive,35,payment,SaaS,Standard,us-east-1,0,836.4309274183306
+Reactive,35,shipping,SaaS,Standard,us-east-1,0,4482.315900573958
+Reactive,35,email,SaaS,Standard,us-east-1,0,854.862378730618
+Reactive,35,currency,PaaS,Standard,us-east-1,0,3121.689098350387
+Reactive,35,ad,PaaS,Standard,us-east-1,0,3196.3645821340974
+Reactive,36,frontend,PaaS,Standard,us-east-1,0,4215.65903019136
+Reactive,36,checkout,SaaS,Standard,us-east-1,0,1153.5730223549365
+Reactive,36,recommendation,SaaS,Standard,us-east-1,0,8912.196987349836
+Reactive,36,productcatalog,IaaS,RI,us-east-1,3,7244.35610845558
+Reactive,36,cart,PaaS,Standard,us-east-1,0,4003.971563442961
+Reactive,36,payment,SaaS,Standard,us-east-1,0,1094.7552127547738
+Reactive,36,shipping,SaaS,Standard,us-east-1,0,6001.307231023946
+Reactive,36,email,SaaS,Standard,us-east-1,0,1167.5925331273352
+Reactive,36,currency,PaaS,Standard,us-east-1,0,4616.79749126826
+Reactive,36,ad,PaaS,Standard,us-east-1,0,4304.083276543578
+Optimal,1,frontend,IaaS,RI,us-east-1,2,27130.481897117974
+Optimal,1,checkout,SaaS,Standard,us-east-1,0,6010.982093034651
+Optimal,1,recommendation,IaaS,RI,us-east-1,2,45128.892350810536
+Optimal,1,productcatalog,IaaS,RI,us-east-1,7,18278.672511054767
+Optimal,1,cart,IaaS,RI,us-east-1,2,18227.09729997879
+Optimal,1,payment,SaaS,Standard,us-east-1,0,7510.506147806967
+Optimal,1,shipping,IaaS,RI,us-east-1,2,18126.658118656076
+Optimal,1,email,PaaS,Standard,us-east-1,0,4504.046677934595
+Optimal,1,currency,IaaS,RI,us-east-1,2,9131.309173377085
+Optimal,1,ad,IaaS,RI,us-east-1,2,9131.277239855435
+Optimal,2,frontend,IaaS,RI,us-east-1,3,133.29373293020015
+Optimal,2,checkout,SaaS,Standard,us-east-1,0,13.523166009612707
+Optimal,2,recommendation,IaaS,RI,us-east-1,3,131.08808701180993
+Optimal,2,productcatalog,IaaS,RI,us-east-1,8,304.9426559998827
+Optimal,2,cart,IaaS,RI,us-east-1,3,228.96180462862185
+Optimal,2,payment,SaaS,Standard,us-east-1,0,13.084503785338702
+Optimal,2,shipping,IaaS,RI,us-east-1,3,128.33513232277602
+Optimal,2,email,PaaS,Standard,us-east-1,0,4.704759662320825
+Optimal,2,currency,IaaS,RI,us-east-1,3,134.55793828814117
+Optimal,2,ad,IaaS,RI,us-east-1,3,132.9826921404728
+Optimal,3,frontend,IaaS,RI,us-east-1,4,138.8438569322893
+Optimal,3,checkout,SaaS,Standard,us-east-1,0,20.629295068187275
+Optimal,3,recommendation,IaaS,RI,us-east-1,4,135.9114308179839
+Optimal,3,productcatalog,IaaS,RI,us-east-1,9,362.8394226546795
+Optimal,3,cart,IaaS,RI,us-east-1,4,234.30055314514362
+Optimal,3,payment,SaaS,Standard,us-east-1,0,19.279814719641692
+Optimal,3,shipping,IaaS,RI,us-east-1,4,131.39440106517287
+Optimal,3,email,PaaS,Standard,us-east-1,0,7.121020692955663
+Optimal,3,currency,IaaS,RI,us-east-1,4,138.74442612682597
+Optimal,3,ad,IaaS,RI,us-east-1,4,138.24927022776637
+Optimal,4,frontend,IaaS,RI,us-east-1,5,143.78626423261542
+Optimal,4,checkout,SaaS,Standard,us-east-1,0,30.80952621491038
+Optimal,4,recommendation,IaaS,RI,us-east-1,5,139.8114195081392
+Optimal,4,productcatalog,IaaS,RI,us-east-1,10,388.6237938151022
+Optimal,4,cart,IaaS,RI,us-east-1,5,239.42934957513953
+Optimal,4,payment,SaaS,Standard,us-east-1,0,29.747844271518943
+Optimal,4,shipping,IaaS,RI,us-east-1,5,133.82106594554426
+Optimal,4,email,PaaS,Standard,us-east-1,0,10.999847629714843
+Optimal,4,currency,IaaS,RI,us-east-1,5,145.77131509532646
+Optimal,4,ad,IaaS,RI,us-east-1,5,143.42795899767282
+Optimal,5,frontend,IaaS,RI,us-east-1,6,151.92971013318842
+Optimal,5,checkout,SaaS,Standard,us-east-1,0,41.66352275359117
+Optimal,5,recommendation,IaaS,RI,us-east-1,6,145.0304422218545
+Optimal,5,productcatalog,IaaS,RI,us-east-1,11,472.4205816675548
+Optimal,5,cart,IaaS,RI,us-east-1,6,246.38585597708595
+Optimal,5,payment,SaaS,Standard,us-east-1,0,44.97873996644389
+Optimal,5,shipping,IaaS,RI,us-east-1,6,137.08562687668285
+Optimal,5,email,PaaS,Standard,us-east-1,0,15.755533441517846
+Optimal,5,currency,IaaS,RI,us-east-1,6,154.53470043231934
+Optimal,5,ad,IaaS,RI,us-east-1,6,152.14164709314306
+Optimal,6,frontend,IaaS,RI,us-east-1,7,150.35313611068972
+Optimal,6,checkout,SaaS,Standard,us-east-1,0,37.586582470396706
+Optimal,6,recommendation,IaaS,RI,us-east-1,7,147.33518404007827
+Optimal,6,productcatalog,IaaS,RI,us-east-1,12,457.40245588837377
+Optimal,6,cart,IaaS,RI,us-east-1,7,244.3955752491936
+Optimal,6,payment,SaaS,Standard,us-east-1,0,34.50828275267115
+Optimal,6,shipping,IaaS,RI,us-east-1,7,137.04867285831344
+Optimal,6,email,PaaS,Standard,us-east-1,0,13.216003551170623
+Optimal,6,currency,IaaS,RI,us-east-1,7,153.84176226474693
+Optimal,6,ad,IaaS,RI,us-east-1,7,149.69981297739022
+Optimal,7,frontend,IaaS,RI,us-east-1,8,143.9515267182048
+Optimal,7,checkout,SaaS,Standard,us-east-1,0,30.295223906575078
+Optimal,7,recommendation,IaaS,RI,us-east-1,8,138.97102065285287
+Optimal,7,productcatalog,IaaS,RI,us-east-1,1,387.9785502740807
+Optimal,7,cart,IaaS,RI,us-east-1,8,238.95065971619658
+Optimal,7,payment,SaaS,Standard,us-east-1,0,32.95169327078694
+Optimal,7,shipping,IaaS,RI,us-east-1,8,133.2317018508825
+Optimal,7,email,PaaS,Standard,us-east-1,0,11.981915073605993
+Optimal,7,currency,IaaS,RI,us-east-1,8,148.93427321309773
+Optimal,7,ad,IaaS,RI,us-east-1,8,144.53408647859294
+Optimal,8,frontend,IaaS,RI,us-east-1,9,151.63988752151866
+Optimal,8,checkout,SaaS,Standard,us-east-1,0,43.46820430870383
+Optimal,8,recommendation,IaaS,RI,us-east-1,9,144.19402165759195
+Optimal,8,productcatalog,IaaS,RI,us-east-1,2,447.1816465424612
+Optimal,8,cart,IaaS,RI,us-east-1,9,243.68963193012675
+Optimal,8,payment,SaaS,Standard,us-east-1,0,40.06433089965147
+Optimal,8,shipping,IaaS,RI,us-east-1,9,137.00808180554262
+Optimal,8,email,PaaS,Standard,us-east-1,0,15.754934037316124
+Optimal,8,currency,IaaS,RI,us-east-1,9,156.70446942120827
+Optimal,8,ad,IaaS,RI,us-east-1,9,153.1022860252507
+Optimal,9,frontend,IaaS,RI,us-east-1,10,136.7743899272511
+Optimal,9,checkout,SaaS,Standard,us-east-1,0,19.438052454892976
+Optimal,9,recommendation,IaaS,RI,us-east-1,10,134.65961981210367
+Optimal,9,productcatalog,IaaS,RI,us-east-1,3,344.66676675252575
+Optimal,9,cart,IaaS,RI,us-east-1,10,232.36599753281524
+Optimal,9,payment,SaaS,Standard,us-east-1,0,20.476556089441345
+Optimal,9,shipping,IaaS,RI,us-east-1,10,130.53730583339964
+Optimal,9,email,PaaS,Standard,us-east-1,0,6.7775461686306215
+Optimal,9,currency,IaaS,RI,us-east-1,10,139.17828162813973
+Optimal,9,ad,IaaS,RI,us-east-1,10,136.14135164532254
+Optimal,10,frontend,IaaS,RI,us-east-1,11,142.8482112884187
+Optimal,10,checkout,SaaS,Standard,us-east-1,0,28.380053433804928
+Optimal,10,recommendation,IaaS,RI,us-east-1,11,139.31579876000302
+Optimal,10,productcatalog,IaaS,RI,us-east-1,4,392.64879424759084
+Optimal,10,cart,IaaS,RI,us-east-1,11,238.63660505944202
+Optimal,10,payment,SaaS,Standard,us-east-1,0,24.467523330449485
+Optimal,10,shipping,IaaS,RI,us-east-1,11,132.65717675366648
+Optimal,10,email,PaaS,Standard,us-east-1,0,9.931118808041681
+Optimal,10,currency,IaaS,RI,us-east-1,11,143.59172843095465
+Optimal,10,ad,IaaS,RI,us-east-1,11,144.68762301884854
+Optimal,11,frontend,IaaS,RI,us-east-1,12,149.30833995240613
+Optimal,11,checkout,SaaS,Standard,us-east-1,0,38.41640534965161
+Optimal,11,recommendation,IaaS,RI,us-east-1,12,144.47915009632823
+Optimal,11,productcatalog,IaaS,RI,us-east-1,5,443.2392000114766
+Optimal,11,cart,IaaS,RI,us-east-1,12,245.66949310569038
+Optimal,11,payment,SaaS,Standard,us-east-1,0,41.7750038563436
+Optimal,11,shipping,IaaS,RI,us-east-1,12,136.11737635721914
+Optimal,11,email,PaaS,Standard,us-east-1,0,13.278752756733866
+Optimal,11,currency,IaaS,RI,us-east-1,12,152.29152600350855
+Optimal,11,ad,IaaS,RI,us-east-1,12,147.82256667167314
+Optimal,12,frontend,IaaS,RI,us-east-1,1,145.34165378148384
+Optimal,12,checkout,SaaS,Standard,us-east-1,0,32.30011887353892
+Optimal,12,recommendation,IaaS,RI,us-east-1,1,140.3323826156608
+Optimal,12,productcatalog,IaaS,RI,us-east-1,6,404.63528150068294
+Optimal,12,cart,IaaS,RI,us-east-1,1,240.9175579600502
+Optimal,12,payment,SaaS,Standard,us-east-1,0,31.166358758560477
+Optimal,12,shipping,IaaS,RI,us-east-1,1,133.9725082479778
+Optimal,12,email,PaaS,Standard,us-east-1,0,11.935810356808682
+Optimal,12,currency,IaaS,RI,us-east-1,1,147.27857609020802
+Optimal,12,ad,IaaS,RI,us-east-1,1,146.0205556945196
+Optimal,13,frontend,IaaS,RI,us-east-1,2,148.8628701211925
+Optimal,13,checkout,SaaS,Standard,us-east-1,0,35.813258530762695
+Optimal,13,recommendation,IaaS,RI,us-east-1,2,142.26933788202936
+Optimal,13,productcatalog,IaaS,RI,us-east-1,7,431.37931603101697
+Optimal,13,cart,IaaS,RI,us-east-1,2,243.3515395316656
+Optimal,13,payment,SaaS,Standard,us-east-1,0,36.155143379065976
+Optimal,13,shipping,IaaS,RI,us-east-1,2,135.73498783922446
+Optimal,13,email,PaaS,Standard,us-east-1,0,12.62076048181301
+Optimal,13,currency,IaaS,RI,us-east-1,2,149.36127276388788
+Optimal,13,ad,IaaS,RI,us-east-1,2,149.36013256088373
+Optimal,14,frontend,IaaS,RI,us-east-1,3,143.52735332533703
+Optimal,14,checkout,SaaS,Standard,us-east-1,0,28.720593557507847
+Optimal,14,recommendation,IaaS,RI,us-east-1,3,139.26268516084053
+Optimal,14,productcatalog,IaaS,RI,us-east-1,8,395.47653404092455
+Optimal,14,cart,IaaS,RI,us-east-1,3,238.8230062020881
+Optimal,14,payment,SaaS,Standard,us-east-1,0,28.595880009776117
+Optimal,14,shipping,IaaS,RI,us-east-1,3,133.8145180224713
+Optimal,14,email,PaaS,Standard,us-east-1,0,10.18630544114939
+Optimal,14,currency,IaaS,RI,us-east-1,3,146.05654303456572
+Optimal,14,ad,IaaS,RI,us-east-1,3,145.65590246812621
+Optimal,15,frontend,IaaS,RI,us-east-1,4,138.2056572681783
+Optimal,15,checkout,SaaS,Standard,us-east-1,0,19.155988353157017
+Optimal,15,recommendation,IaaS,RI,us-east-1,4,135.15692688461507
+Optimal,15,productcatalog,IaaS,RI,us-east-1,9,348.3941543303215
+Optimal,15,cart,IaaS,RI,us-east-1,4,233.29419972752427
+Optimal,15,payment,SaaS,Standard,us-east-1,0,18.820122421772375
+Optimal,15,shipping,IaaS,RI,us-east-1,4,130.7805876729417
+Optimal,15,email,PaaS,Standard,us-east-1,0,6.632439433353546
+Optimal,15,currency,IaaS,RI,us-east-1,4,140.3777230772892
+Optimal,15,ad,IaaS,RI,us-east-1,4,137.9212791650091
+Optimal,16,frontend,IaaS,RI,us-east-1,5,146.87373244954432
+Optimal,16,checkout,SaaS,Standard,us-east-1,0,31.09628091763055
+Optimal,16,recommendation,IaaS,RI,us-east-1,5,142.13079769159896
+Optimal,16,productcatalog,IaaS,RI,us-east-1,10,422.03697875123567
+Optimal,16,cart,IaaS,RI,us-east-1,5,242.5096290626674
+Optimal,16,payment,SaaS,Standard,us-east-1,0,33.50273218256577
+Optimal,16,shipping,IaaS,RI,us-east-1,5,135.5416741771978
+Optimal,16,email,PaaS,Standard,us-east-1,0,12.133211376462569
+Optimal,16,currency,IaaS,RI,us-east-1,5,149.55867778666317
+Optimal,16,ad,IaaS,RI,us-east-1,5,147.14753017984293
+Optimal,17,frontend,IaaS,RI,us-east-1,6,150.6606321534638
+Optimal,17,checkout,SaaS,Standard,us-east-1,0,43.60331250955795
+Optimal,17,recommendation,IaaS,RI,us-east-1,6,145.25172358062844
+Optimal,17,productcatalog,IaaS,RI,us-east-1,11,452.1358448989495
+Optimal,17,cart,IaaS,RI,us-east-1,6,246.67303310178764
+Optimal,17,payment,SaaS,Standard,us-east-1,0,45.93810062862203
+Optimal,17,shipping,IaaS,RI,us-east-1,6,137.62213772649358
+Optimal,17,email,PaaS,Standard,us-east-1,0,14.101357348521928
+Optimal,17,currency,IaaS,RI,us-east-1,6,154.98455914439222
+Optimal,17,ad,IaaS,RI,us-east-1,6,151.59936009008905
+Optimal,18,frontend,IaaS,RI,us-east-1,7,188.42538301312976
+Optimal,18,checkout,SaaS,Standard,us-east-1,0,88.65447281257626
+Optimal,18,recommendation,IaaS,RI,us-east-1,7,178.6025687786054
+Optimal,18,productcatalog,IaaS,RI,us-east-1,12,780.0004624210098
+Optimal,18,cart,IaaS,RI,us-east-1,7,277.2848064022215
+Optimal,18,payment,SaaS,Standard,us-east-1,0,88.38445430277241
+Optimal,18,shipping,IaaS,RI,us-east-1,7,155.2706936918833
+Optimal,18,email,PaaS,Standard,us-east-1,0,31.165012972834024
+Optimal,18,currency,IaaS,RI,us-east-1,7,199.5491135013105
+Optimal,18,ad,IaaS,RI,us-east-1,7,191.80638011193483
+Optimal,19,frontend,IaaS,RI,us-east-1,8,322.0904728000602
+Optimal,19,checkout,SaaS,Standard,us-east-1,0,254.69837652969446
+Optimal,19,recommendation,IaaS,RI,us-east-1,8,273.5551600940876
+Optimal,19,productcatalog,IaaS,RI,us-east-1,1,1855.7344254515788
+Optimal,19,cart,IaaS,RI,us-east-1,8,386.3239829640454
+Optimal,19,payment,SaaS,Standard,us-east-1,0,260.703522289267
+Optimal,19,shipping,IaaS,RI,us-east-1,8,217.07210729851244
+Optimal,19,email,PaaS,Standard,us-east-1,0,92.84905653093661
+Optimal,19,currency,IaaS,RI,us-east-1,8,336.54607423540386
+Optimal,19,ad,IaaS,RI,us-east-1,8,321.7804408528107
+Optimal,20,frontend,IaaS,RI,us-east-1,9,404.0424556277035
+Optimal,20,checkout,SaaS,Standard,us-east-1,0,419.86940048640963
+Optimal,20,recommendation,IaaS,RI,us-east-1,9,326.4123371583047
+Optimal,20,productcatalog,IaaS,RI,us-east-1,2,2533.890217556114
+Optimal,20,cart,IaaS,RI,us-east-1,9,480.3366692471011
+Optimal,20,payment,SaaS,Standard,us-east-1,0,439.82355684754776
+Optimal,20,shipping,IaaS,RI,us-east-1,9,265.2498952658718
+Optimal,20,email,PaaS,Standard,us-east-1,0,152.5514587397184
+Optimal,20,currency,IaaS,RI,us-east-1,9,459.69743638967964
+Optimal,20,ad,IaaS,RI,us-east-1,9,431.2929229877932
+Optimal,21,frontend,IaaS,RI,us-east-1,10,463.698854573375
+Optimal,21,checkout,SaaS,Standard,us-east-1,0,519.7297687967566
+Optimal,21,recommendation,IaaS,RI,us-east-1,10,390.40057096197916
+Optimal,21,productcatalog,IaaS,RI,us-east-1,3,3146.606006594372
+Optimal,21,cart,IaaS,RI,us-east-1,10,544.6668786205092
+Optimal,21,payment,SaaS,Standard,us-east-1,0,511.7665966255183
+Optimal,21,shipping,IaaS,RI,us-east-1,10,292.15878101602186
+Optimal,21,email,PaaS,Standard,us-east-1,0,186.22839470904879
+Optimal,21,currency,IaaS,RI,us-east-1,10,484.50223892585814
+Optimal,21,ad,IaaS,RI,us-east-1,10,446.5805789408937
+Optimal,22,frontend,IaaS,RI,us-east-1,11,843.4116294412229
+Optimal,22,checkout,SaaS,Standard,us-east-1,0,942.2398178906262
+Optimal,22,recommendation,IaaS,RI,us-east-1,11,651.3460314865092
+Optimal,22,productcatalog,IaaS,RI,us-east-1,4,6200.171299776735
+Optimal,22,cart,IaaS,RI,us-east-1,11,847.6552728069014
+Optimal,22,payment,SaaS,Standard,us-east-1,0,982.8387721971005
+Optimal,22,shipping,IaaS,RI,us-east-1,11,468.2237419261893
+Optimal,22,email,PaaS,Standard,us-east-1,0,349.69639234213173
+Optimal,22,currency,IaaS,RI,us-east-1,11,903.598302647527
+Optimal,22,ad,IaaS,RI,us-east-1,11,816.695641897583
+Optimal,23,frontend,IaaS,RI,us-east-1,12,514.1122644790714
+Optimal,23,checkout,SaaS,Standard,us-east-1,0,548.3365678480725
+Optimal,23,recommendation,IaaS,RI,us-east-1,12,393.1018733948248
+Optimal,23,productcatalog,IaaS,RI,us-east-1,5,3382.273318547629
+Optimal,23,cart,IaaS,RI,us-east-1,12,575.5449847455454
+Optimal,23,payment,SaaS,Standard,us-east-1,0,577.4920792621122
+Optimal,23,shipping,IaaS,RI,us-east-1,12,315.790584542939
+Optimal,23,email,PaaS,Standard,us-east-1,0,198.5624195342074
+Optimal,23,currency,IaaS,RI,us-east-1,12,549.5719744939918
+Optimal,23,ad,IaaS,RI,us-east-1,12,517.7706636288005
+Optimal,24,frontend,IaaS,RI,us-east-1,1,387.2667471970974
+Optimal,24,checkout,SaaS,Standard,us-east-1,0,365.7614331069133
+Optimal,24,recommendation,IaaS,RI,us-east-1,1,350.5218089649069
+Optimal,24,productcatalog,IaaS,RI,us-east-1,6,2513.8113504040366
+Optimal,24,cart,IaaS,RI,us-east-1,1,459.68430688397484
+Optimal,24,payment,SaaS,Standard,us-east-1,0,354.7878508055159
+Optimal,24,shipping,IaaS,RI,us-east-1,1,267.40012077249025
+Optimal,24,email,PaaS,Standard,us-east-1,0,129.4807979643072
+Optimal,24,currency,IaaS,RI,us-east-1,1,408.28290679170993
+Optimal,24,ad,IaaS,RI,us-east-1,1,377.5870812558185
+Optimal,25,frontend,IaaS,RI,us-east-1,2,391.94462093913785
+Optimal,25,checkout,SaaS,Standard,us-east-1,0,370.57730204833473
+Optimal,25,recommendation,IaaS,RI,us-east-1,2,340.0899682189105
+Optimal,25,productcatalog,IaaS,RI,us-east-1,7,2535.5366906349254
+Optimal,25,cart,IaaS,RI,us-east-1,2,472.33852228893056
+Optimal,25,payment,SaaS,Standard,us-east-1,0,349.06430663207203
+Optimal,25,shipping,IaaS,RI,us-east-1,2,264.18725571633445
+Optimal,25,email,PaaS,Standard,us-east-1,0,125.620888014159
+Optimal,25,currency,IaaS,RI,us-east-1,2,396.9682488027008
+Optimal,25,ad,IaaS,RI,us-east-1,2,373.35508946078414
+Optimal,26,frontend,IaaS,RI,us-east-1,3,460.69065923142955
+Optimal,26,checkout,SaaS,Standard,us-east-1,0,452.72775806378417
+Optimal,26,recommendation,IaaS,RI,us-east-1,3,384.70838138812906
+Optimal,26,productcatalog,IaaS,RI,us-east-1,8,2919.329796786057
+Optimal,26,cart,IaaS,RI,us-east-1,3,529.5897198069804
+Optimal,26,payment,SaaS,Standard,us-east-1,0,460.40773942225974
+Optimal,26,shipping,IaaS,RI,us-east-1,3,295.2200472819028
+Optimal,26,email,PaaS,Standard,us-east-1,0,164.62944352812855
+Optimal,26,currency,IaaS,RI,us-east-1,3,510.1096950412069
+Optimal,26,ad,IaaS,RI,us-east-1,3,485.71449082295135
+Optimal,27,frontend,IaaS,RI,us-east-1,4,510.74319279395513
+Optimal,27,checkout,SaaS,Standard,us-east-1,0,520.1468761179549
+Optimal,27,recommendation,IaaS,RI,us-east-1,4,427.150435202405
+Optimal,27,productcatalog,IaaS,RI,us-east-1,9,3521.848749819368
+Optimal,27,cart,IaaS,RI,us-east-1,4,558.4308148551908
+Optimal,27,payment,SaaS,Standard,us-east-1,0,496.81671461428357
+Optimal,27,shipping,IaaS,RI,us-east-1,4,302.1244514779693
+Optimal,27,email,PaaS,Standard,us-east-1,0,175.80980694994724
+Optimal,27,currency,IaaS,RI,us-east-1,4,582.8390930675532
+Optimal,27,ad,IaaS,RI,us-east-1,4,529.3783282622165
+Optimal,28,frontend,IaaS,RI,us-east-1,5,571.3608940663074
+Optimal,28,checkout,SaaS,Standard,us-east-1,0,612.0662314095673
+Optimal,28,recommendation,IaaS,RI,us-east-1,5,512.9700166570948
+Optimal,28,productcatalog,IaaS,RI,us-east-1,10,4462.885935255899
+Optimal,28,cart,IaaS,RI,us-east-1,5,638.3697095502272
+Optimal,28,payment,SaaS,Standard,us-east-1,0,625.3105706130721
+Optimal,28,shipping,IaaS,RI,us-east-1,5,344.67266846399787
+Optimal,28,email,PaaS,Standard,us-east-1,0,196.66242091581282
+Optimal,28,currency,IaaS,RI,us-east-1,5,625.6035503926258
+Optimal,28,ad,IaaS,RI,us-east-1,5,523.3698072670222
+Optimal,29,frontend,IaaS,RI,us-east-1,6,788.2064766787607
+Optimal,29,checkout,SaaS,Standard,us-east-1,0,956.8857629849517
+Optimal,29,recommendation,IaaS,RI,us-east-1,6,685.24847436891
+Optimal,29,productcatalog,IaaS,RI,us-east-1,11,5902.931660636796
+Optimal,29,cart,IaaS,RI,us-east-1,6,817.4231353202435
+Optimal,29,payment,SaaS,Standard,us-east-1,0,943.4686552785502
+Optimal,29,shipping,IaaS,RI,us-east-1,6,455.74263424003425
+Optimal,29,email,PaaS,Standard,us-east-1,0,358.7143240968033
+Optimal,29,currency,IaaS,RI,us-east-1,6,862.1485729641502
+Optimal,29,ad,IaaS,RI,us-east-1,6,821.2148282889981
+Optimal,30,frontend,IaaS,RI,us-east-1,7,858.651365386473
+Optimal,30,checkout,SaaS,Standard,us-east-1,0,1019.9627600929339
+Optimal,30,recommendation,IaaS,RI,us-east-1,7,737.9561044084769
+Optimal,30,productcatalog,IaaS,RI,us-east-1,12,6599.362789671072
+Optimal,30,cart,IaaS,RI,us-east-1,7,884.3791783313943
+Optimal,30,payment,SaaS,Standard,us-east-1,0,1071.7020573062919
+Optimal,30,shipping,IaaS,RI,us-east-1,7,495.4971174997843
+Optimal,30,email,PaaS,Standard,us-east-1,0,359.8738456737266
+Optimal,30,currency,IaaS,RI,us-east-1,7,913.0650787731837
+Optimal,30,ad,IaaS,RI,us-east-1,7,902.4990768173342
+Optimal,31,frontend,IaaS,RI,us-east-1,8,1143.1679707782303
+Optimal,31,checkout,SaaS,Standard,us-east-1,0,1444.6331555001707
+Optimal,31,recommendation,IaaS,RI,us-east-1,8,952.6545935046303
+Optimal,31,productcatalog,IaaS,OD,us-east-1,0,8639.704975505672
+Optimal,31,cart,IaaS,RI,us-east-1,8,1172.165579671936
+Optimal,31,payment,SaaS,Standard,us-east-1,0,1510.8635033109624
+Optimal,31,shipping,IaaS,RI,us-east-1,8,653.1882864582777
+Optimal,31,email,PaaS,Standard,us-east-1,0,503.9240141971013
+Optimal,31,currency,IaaS,RI,us-east-1,8,1266.2658053228315
+Optimal,31,ad,IaaS,RI,us-east-1,8,1089.7786568346164
+Optimal,32,frontend,IaaS,RI,us-east-1,9,1373.191994639497
+Optimal,32,checkout,SaaS,Standard,us-east-1,0,1763.728333824371
+Optimal,32,recommendation,IaaS,RI,us-east-1,9,1070.0172392386917
+Optimal,32,productcatalog,IaaS,OD,us-east-1,0,10930.12101001588
+Optimal,32,cart,IaaS,RI,us-east-1,9,1248.167723356109
+Optimal,32,payment,SaaS,Standard,us-east-1,0,1950.5735817803911
+Optimal,32,shipping,IaaS,RI,us-east-1,9,752.7518190528862
+Optimal,32,email,PaaS,Standard,us-east-1,0,624.4594012993056
+Optimal,32,currency,IaaS,RI,us-east-1,9,1561.5996039003408
+Optimal,32,ad,IaaS,RI,us-east-1,9,1488.6707270681418
+Optimal,33,frontend,IaaS,RI,us-east-1,10,1223.7103580381875
+Optimal,33,checkout,SaaS,Standard,us-east-1,0,1525.77703292326
+Optimal,33,recommendation,IaaS,RI,us-east-1,10,998.0684700822303
+Optimal,33,productcatalog,IaaS,OD,us-east-1,0,9498.899456034136
+Optimal,33,cart,IaaS,RI,us-east-1,10,1244.55875028336
+Optimal,33,payment,SaaS,Standard,us-east-1,0,1622.1523877937666
+Optimal,33,shipping,IaaS,RI,us-east-1,10,680.5397687401446
+Optimal,33,email,PaaS,Standard,us-east-1,0,541.8008970264276
+Optimal,33,currency,IaaS,RI,us-east-1,10,1319.7971875499766
+Optimal,33,ad,IaaS,RI,us-east-1,10,1142.9523014707788
+Optimal,34,frontend,IaaS,RI,us-east-1,11,997.4507903889239
+Optimal,34,checkout,SaaS,Standard,us-east-1,0,1184.178424792969
+Optimal,34,recommendation,IaaS,RI,us-east-1,11,789.5096033413912
+Optimal,34,productcatalog,IaaS,RI,us-east-1,1,7871.628701830941
+Optimal,34,cart,IaaS,RI,us-east-1,11,965.1855229326211
+Optimal,34,payment,SaaS,Standard,us-east-1,0,1215.9715324172678
+Optimal,34,shipping,IaaS,RI,us-east-1,11,567.1949605535052
+Optimal,34,email,PaaS,Standard,us-east-1,0,416.63241518582345
+Optimal,34,currency,IaaS,RI,us-east-1,11,1051.329126006977
+Optimal,34,ad,IaaS,RI,us-east-1,11,975.8501570343584
+Optimal,35,frontend,IaaS,RI,us-east-1,12,767.0418696642515
+Optimal,35,checkout,SaaS,Standard,us-east-1,0,862.8571590421154
+Optimal,35,recommendation,IaaS,RI,us-east-1,12,690.5298348115427
+Optimal,35,productcatalog,IaaS,RI,us-east-1,2,6051.4218338515375
+Optimal,35,cart,IaaS,RI,us-east-1,12,785.6209562236368
+Optimal,35,payment,SaaS,Standard,us-east-1,0,836.4309274183306
+Optimal,35,shipping,IaaS,RI,us-east-1,12,443.26542146953295
+Optimal,35,email,PaaS,Standard,us-east-1,0,305.6794507156063
+Optimal,35,currency,IaaS,RI,us-east-1,12,746.8868078858138
+Optimal,35,ad,IaaS,RI,us-east-1,12,761.8087236145085
+Optimal,36,frontend,IaaS,RI,us-east-1,1,962.7612008105136
+Optimal,36,checkout,SaaS,Standard,us-east-1,0,1153.5730223549365
+Optimal,36,recommendation,IaaS,RI,us-east-1,1,759.6854990963465
+Optimal,36,productcatalog,IaaS,RI,us-east-1,3,7244.35610845558
+Optimal,36,cart,IaaS,RI,us-east-1,1,1020.07777267963
+Optimal,36,payment,SaaS,Standard,us-east-1,0,1094.7552127547738
+Optimal,36,shipping,IaaS,RI,us-east-1,1,551.7648022159486
+Optimal,36,email,PaaS,Standard,us-east-1,0,417.50468036268023
+Optimal,36,currency,IaaS,RI,us-east-1,1,1045.6445837176107
+Optimal,36,ad,IaaS,RI,us-east-1,1,983.156938203293
+Iterative DP,1,frontend,PaaS,Standard,us-east-1,0,13537.06204504305
+Iterative DP,1,checkout,SaaS,Standard,us-east-1,0,6010.982093034651
+Iterative DP,1,recommendation,IaaS,RI,us-east-1,1,45128.892350810536
+Iterative DP,1,productcatalog,IaaS,RI,us-east-1,1,18278.672511054767
+Iterative DP,1,cart,IaaS,RI,us-east-1,1,18227.09729997879
+Iterative DP,1,payment,SaaS,Standard,us-east-1,0,7510.506147806967
+Iterative DP,1,shipping,IaaS,RI,us-east-1,1,18126.658118656076
+Iterative DP,1,email,PaaS,Standard,us-east-1,0,4504.046677934595
+Iterative DP,1,currency,IaaS,RI,us-east-1,1,9131.309173377085
+Iterative DP,1,ad,IaaS,RI,us-east-1,1,9131.277239855435
+Iterative DP,2,frontend,PaaS,Standard,us-east-1,0,51.17933547134931
+Iterative DP,2,checkout,SaaS,Standard,us-east-1,0,13.523166009612707
+Iterative DP,2,recommendation,IaaS,RI,us-east-1,2,131.08808701180993
+Iterative DP,2,productcatalog,IaaS,RI,us-east-1,2,304.9426559998827
+Iterative DP,2,cart,IaaS,RI,us-east-1,2,228.96180462862185
+Iterative DP,2,payment,SaaS,Standard,us-east-1,0,13.084503785338702
+Iterative DP,2,shipping,IaaS,RI,us-east-1,2,128.33513232277602
+Iterative DP,2,email,PaaS,Standard,us-east-1,0,4.704759662320825
+Iterative DP,2,currency,IaaS,RI,us-east-1,2,134.55793828814117
+Iterative DP,2,ad,IaaS,RI,us-east-1,2,132.9826921404728
+Iterative DP,3,frontend,PaaS,Standard,us-east-1,0,79.04465822950914
+Iterative DP,3,checkout,SaaS,Standard,us-east-1,0,20.629295068187275
+Iterative DP,3,recommendation,IaaS,RI,us-east-1,3,135.9114308179839
+Iterative DP,3,productcatalog,IaaS,RI,us-east-1,3,362.8394226546795
+Iterative DP,3,cart,IaaS,RI,us-east-1,3,234.30055314514362
+Iterative DP,3,payment,SaaS,Standard,us-east-1,0,19.279814719641692
+Iterative DP,3,shipping,IaaS,RI,us-east-1,3,131.39440106517287
+Iterative DP,3,email,PaaS,Standard,us-east-1,0,7.121020692955663
+Iterative DP,3,currency,IaaS,RI,us-east-1,3,138.74442612682597
+Iterative DP,3,ad,IaaS,RI,us-east-1,3,138.24927022776637
+Iterative DP,4,frontend,PaaS,Standard,us-east-1,0,103.85883798009336
+Iterative DP,4,checkout,SaaS,Standard,us-east-1,0,30.80952621491038
+Iterative DP,4,recommendation,IaaS,RI,us-east-1,4,139.8114195081392
+Iterative DP,4,productcatalog,IaaS,RI,us-east-1,4,388.6237938151022
+Iterative DP,4,cart,IaaS,RI,us-east-1,4,239.42934957513953
+Iterative DP,4,payment,SaaS,Standard,us-east-1,0,29.747844271518943
+Iterative DP,4,shipping,IaaS,RI,us-east-1,4,133.82106594554426
+Iterative DP,4,email,PaaS,Standard,us-east-1,0,10.999847629714843
+Iterative DP,4,currency,IaaS,RI,us-east-1,4,145.77131509532646
+Iterative DP,4,ad,IaaS,RI,us-east-1,4,143.42795899767282
+Iterative DP,5,frontend,PaaS,Standard,us-east-1,0,144.74436563635172
+Iterative DP,5,checkout,SaaS,Standard,us-east-1,0,41.66352275359117
+Iterative DP,5,recommendation,IaaS,RI,us-east-1,5,145.0304422218545
+Iterative DP,5,productcatalog,IaaS,RI,us-east-1,5,472.4205816675548
+Iterative DP,5,cart,IaaS,RI,us-east-1,5,246.38585597708595
+Iterative DP,5,payment,SaaS,Standard,us-east-1,0,44.97873996644389
+Iterative DP,5,shipping,IaaS,RI,us-east-1,5,137.08562687668285
+Iterative DP,5,email,PaaS,Standard,us-east-1,0,15.755533441517846
+Iterative DP,5,currency,IaaS,RI,us-east-1,5,154.53470043231934
+Iterative DP,5,ad,IaaS,RI,us-east-1,5,152.14164709314306
+Iterative DP,6,frontend,PaaS,Standard,us-east-1,0,136.82891294150753
+Iterative DP,6,checkout,SaaS,Standard,us-east-1,0,37.586582470396706
+Iterative DP,6,recommendation,IaaS,RI,us-east-1,6,147.33518404007827
+Iterative DP,6,productcatalog,IaaS,RI,us-east-1,6,457.40245588837377
+Iterative DP,6,cart,IaaS,RI,us-east-1,6,244.3955752491936
+Iterative DP,6,payment,SaaS,Standard,us-east-1,0,34.50828275267115
+Iterative DP,6,shipping,IaaS,RI,us-east-1,6,137.04867285831344
+Iterative DP,6,email,PaaS,Standard,us-east-1,0,13.216003551170623
+Iterative DP,6,currency,IaaS,RI,us-east-1,6,153.84176226474693
+Iterative DP,6,ad,IaaS,RI,us-east-1,6,149.69981297739022
+Iterative DP,7,frontend,PaaS,Standard,us-east-1,0,104.68856583825118
+Iterative DP,7,checkout,SaaS,Standard,us-east-1,0,30.295223906575078
+Iterative DP,7,recommendation,IaaS,RI,us-east-1,7,138.97102065285287
+Iterative DP,7,productcatalog,IaaS,RI,us-east-1,7,387.9785502740807
+Iterative DP,7,cart,IaaS,RI,us-east-1,7,238.95065971619658
+Iterative DP,7,payment,SaaS,Standard,us-east-1,0,32.95169327078694
+Iterative DP,7,shipping,IaaS,RI,us-east-1,7,133.2317018508825
+Iterative DP,7,email,PaaS,Standard,us-east-1,0,11.981915073605993
+Iterative DP,7,currency,IaaS,RI,us-east-1,7,148.93427321309773
+Iterative DP,7,ad,IaaS,RI,us-east-1,7,144.53408647859294
+Iterative DP,8,frontend,PaaS,Standard,us-east-1,0,143.28926290103442
+Iterative DP,8,checkout,SaaS,Standard,us-east-1,0,43.46820430870383
+Iterative DP,8,recommendation,IaaS,RI,us-east-1,8,144.19402165759195
+Iterative DP,8,productcatalog,IaaS,RI,us-east-1,8,447.1816465424612
+Iterative DP,8,cart,IaaS,RI,us-east-1,8,243.68963193012675
+Iterative DP,8,payment,SaaS,Standard,us-east-1,0,40.06433089965147
+Iterative DP,8,shipping,IaaS,RI,us-east-1,8,137.00808180554262
+Iterative DP,8,email,PaaS,Standard,us-east-1,0,15.754934037316124
+Iterative DP,8,currency,IaaS,RI,us-east-1,8,156.70446942120827
+Iterative DP,8,ad,IaaS,RI,us-east-1,8,153.1022860252507
+Iterative DP,9,frontend,PaaS,Standard,us-east-1,0,68.65455415056508
+Iterative DP,9,checkout,SaaS,Standard,us-east-1,0,19.438052454892976
+Iterative DP,9,recommendation,IaaS,RI,us-east-1,9,134.65961981210367
+Iterative DP,9,productcatalog,IaaS,RI,us-east-1,9,344.66676675252575
+Iterative DP,9,cart,IaaS,RI,us-east-1,9,232.36599753281524
+Iterative DP,9,payment,SaaS,Standard,us-east-1,0,20.476556089441345
+Iterative DP,9,shipping,IaaS,RI,us-east-1,9,130.53730583339964
+Iterative DP,9,email,PaaS,Standard,us-east-1,0,6.7775461686306215
+Iterative DP,9,currency,IaaS,RI,us-east-1,9,139.17828162813973
+Iterative DP,9,ad,IaaS,RI,us-east-1,9,136.14135164532254
+Iterative DP,10,frontend,PaaS,Standard,us-east-1,0,99.14918680032791
+Iterative DP,10,checkout,SaaS,Standard,us-east-1,0,28.380053433804928
+Iterative DP,10,recommendation,IaaS,RI,us-east-1,10,139.31579876000302
+Iterative DP,10,productcatalog,IaaS,RI,us-east-1,10,392.64879424759084
+Iterative DP,10,cart,IaaS,RI,us-east-1,10,238.63660505944202
+Iterative DP,10,payment,SaaS,Standard,us-east-1,0,24.467523330449485
+Iterative DP,10,shipping,IaaS,RI,us-east-1,10,132.65717675366648
+Iterative DP,10,email,PaaS,Standard,us-east-1,0,9.931118808041681
+Iterative DP,10,currency,IaaS,RI,us-east-1,10,143.59172843095465
+Iterative DP,10,ad,IaaS,RI,us-east-1,10,144.68762301884854
+Iterative DP,11,frontend,PaaS,Standard,us-east-1,0,131.58333966132514
+Iterative DP,11,checkout,SaaS,Standard,us-east-1,0,38.41640534965161
+Iterative DP,11,recommendation,IaaS,RI,us-east-1,11,144.47915009632823
+Iterative DP,11,productcatalog,IaaS,RI,us-east-1,11,443.2392000114766
+Iterative DP,11,cart,IaaS,RI,us-east-1,11,245.66949310569038
+Iterative DP,11,payment,SaaS,Standard,us-east-1,0,41.7750038563436
+Iterative DP,11,shipping,IaaS,RI,us-east-1,11,136.11737635721914
+Iterative DP,11,email,PaaS,Standard,us-east-1,0,13.278752756733866
+Iterative DP,11,currency,IaaS,RI,us-east-1,11,152.29152600350855
+Iterative DP,11,ad,IaaS,RI,us-east-1,11,147.82256667167314
+Iterative DP,12,frontend,PaaS,Standard,us-east-1,0,111.66793049362515
+Iterative DP,12,checkout,SaaS,Standard,us-east-1,0,32.30011887353892
+Iterative DP,12,recommendation,IaaS,RI,us-east-1,12,140.3323826156608
+Iterative DP,12,productcatalog,IaaS,RI,us-east-1,12,404.63528150068294
+Iterative DP,12,cart,IaaS,RI,us-east-1,12,240.9175579600502
+Iterative DP,12,payment,SaaS,Standard,us-east-1,0,31.166358758560477
+Iterative DP,12,shipping,IaaS,RI,us-east-1,12,133.9725082479778
+Iterative DP,12,email,PaaS,Standard,us-east-1,0,11.935810356808682
+Iterative DP,12,currency,IaaS,RI,us-east-1,12,147.27857609020802
+Iterative DP,12,ad,IaaS,RI,us-east-1,12,146.0205556945196
+Iterative DP,13,frontend,PaaS,Standard,us-east-1,0,129.34678411389618
+Iterative DP,13,checkout,SaaS,Standard,us-east-1,0,35.813258530762695
+Iterative DP,13,recommendation,IaaS,RI,us-east-1,1,142.26933788202936
+Iterative DP,13,productcatalog,IaaS,RI,us-east-1,1,431.37931603101697
+Iterative DP,13,cart,IaaS,RI,us-east-1,1,243.3515395316656
+Iterative DP,13,payment,SaaS,Standard,us-east-1,0,36.155143379065976
+Iterative DP,13,shipping,IaaS,RI,us-east-1,1,135.73498783922446
+Iterative DP,13,email,PaaS,Standard,us-east-1,0,12.62076048181301
+Iterative DP,13,currency,IaaS,RI,us-east-1,1,149.36127276388788
+Iterative DP,13,ad,IaaS,RI,us-east-1,1,149.36013256088373
+Iterative DP,14,frontend,PaaS,Standard,us-east-1,0,102.55893260965394
+Iterative DP,14,checkout,SaaS,Standard,us-east-1,0,28.720593557507847
+Iterative DP,14,recommendation,IaaS,RI,us-east-1,2,139.26268516084053
+Iterative DP,14,productcatalog,IaaS,RI,us-east-1,2,395.47653404092455
+Iterative DP,14,cart,IaaS,RI,us-east-1,2,238.8230062020881
+Iterative DP,14,payment,SaaS,Standard,us-east-1,0,28.595880009776117
+Iterative DP,14,shipping,IaaS,RI,us-east-1,2,133.8145180224713
+Iterative DP,14,email,PaaS,Standard,us-east-1,0,10.18630544114939
+Iterative DP,14,currency,IaaS,RI,us-east-1,2,146.05654303456572
+Iterative DP,14,ad,IaaS,RI,us-east-1,2,145.65590246812621
+Iterative DP,15,frontend,PaaS,Standard,us-east-1,0,75.84047042795575
+Iterative DP,15,checkout,SaaS,Standard,us-east-1,0,19.155988353157017
+Iterative DP,15,recommendation,IaaS,RI,us-east-1,3,135.15692688461507
+Iterative DP,15,productcatalog,IaaS,RI,us-east-1,3,348.3941543303215
+Iterative DP,15,cart,IaaS,RI,us-east-1,3,233.29419972752427
+Iterative DP,15,payment,SaaS,Standard,us-east-1,0,18.820122421772375
+Iterative DP,15,shipping,IaaS,RI,us-east-1,3,130.7805876729417
+Iterative DP,15,email,PaaS,Standard,us-east-1,0,6.632439433353546
+Iterative DP,15,currency,IaaS,RI,us-east-1,3,140.3777230772892
+Iterative DP,15,ad,IaaS,RI,us-east-1,3,137.9212791650091
+Iterative DP,16,frontend,PaaS,Standard,us-east-1,0,119.35998684413671
+Iterative DP,16,checkout,SaaS,Standard,us-east-1,0,31.09628091763055
+Iterative DP,16,recommendation,IaaS,RI,us-east-1,4,142.13079769159896
+Iterative DP,16,productcatalog,IaaS,RI,us-east-1,4,422.03697875123567
+Iterative DP,16,cart,IaaS,RI,us-east-1,4,242.5096290626674
+Iterative DP,16,payment,SaaS,Standard,us-east-1,0,33.50273218256577
+Iterative DP,16,shipping,IaaS,RI,us-east-1,4,135.5416741771978
+Iterative DP,16,email,PaaS,Standard,us-east-1,0,12.133211376462569
+Iterative DP,16,currency,IaaS,RI,us-east-1,4,149.55867778666317
+Iterative DP,16,ad,IaaS,RI,us-east-1,4,147.14753017984293
+Iterative DP,17,frontend,PaaS,Standard,us-east-1,0,138.37274808384507
+Iterative DP,17,checkout,SaaS,Standard,us-east-1,0,43.60331250955795
+Iterative DP,17,recommendation,IaaS,RI,us-east-1,5,145.25172358062844
+Iterative DP,17,productcatalog,IaaS,RI,us-east-1,5,452.1358448989495
+Iterative DP,17,cart,IaaS,RI,us-east-1,5,246.67303310178764
+Iterative DP,17,payment,SaaS,Standard,us-east-1,0,45.93810062862203
+Iterative DP,17,shipping,IaaS,RI,us-east-1,5,137.62213772649358
+Iterative DP,17,email,PaaS,Standard,us-east-1,0,14.101357348521928
+Iterative DP,17,currency,IaaS,RI,us-east-1,5,154.98455914439222
+Iterative DP,17,ad,IaaS,RI,us-east-1,5,151.59936009008905
+Iterative DP,18,frontend,PaaS,Standard,us-east-1,0,327.9769751587665
+Iterative DP,18,checkout,SaaS,Standard,us-east-1,0,88.65447281257626
+Iterative DP,18,recommendation,IaaS,RI,us-east-1,6,178.6025687786054
+Iterative DP,18,productcatalog,IaaS,RI,us-east-1,6,780.0004624210098
+Iterative DP,18,cart,IaaS,RI,us-east-1,6,277.2848064022215
+Iterative DP,18,payment,SaaS,Standard,us-east-1,0,88.38445430277241
+Iterative DP,18,shipping,IaaS,RI,us-east-1,6,155.2706936918833
+Iterative DP,18,email,PaaS,Standard,us-east-1,0,31.165012972834024
+Iterative DP,18,currency,IaaS,RI,us-east-1,6,199.5491135013105
+Iterative DP,18,ad,IaaS,RI,us-east-1,6,191.80638011193483
+Iterative DP,19,frontend,IaaS,RI,us-east-1,1,18322.09047280006
+Iterative DP,19,checkout,SaaS,Standard,us-east-1,0,254.69837652969446
+Iterative DP,19,recommendation,IaaS,RI,us-east-1,7,273.5551600940876
+Iterative DP,19,productcatalog,IaaS,RI,us-east-1,7,1855.7344254515788
+Iterative DP,19,cart,IaaS,RI,us-east-1,7,386.3239829640454
+Iterative DP,19,payment,SaaS,Standard,us-east-1,0,260.703522289267
+Iterative DP,19,shipping,IaaS,RI,us-east-1,7,217.07210729851244
+Iterative DP,19,email,PaaS,Standard,us-east-1,0,92.84905653093661
+Iterative DP,19,currency,IaaS,RI,us-east-1,7,336.54607423540386
+Iterative DP,19,ad,IaaS,RI,us-east-1,7,321.7804408528107
+Iterative DP,20,frontend,IaaS,RI,us-east-1,2,404.0424556277035
+Iterative DP,20,checkout,SaaS,Standard,us-east-1,0,419.86940048640963
+Iterative DP,20,recommendation,IaaS,RI,us-east-1,8,326.4123371583047
+Iterative DP,20,productcatalog,IaaS,RI,us-east-1,8,2533.890217556114
+Iterative DP,20,cart,IaaS,RI,us-east-1,8,480.3366692471011
+Iterative DP,20,payment,SaaS,Standard,us-east-1,0,439.82355684754776
+Iterative DP,20,shipping,IaaS,RI,us-east-1,8,265.2498952658718
+Iterative DP,20,email,PaaS,Standard,us-east-1,0,152.5514587397184
+Iterative DP,20,currency,IaaS,RI,us-east-1,8,459.69743638967964
+Iterative DP,20,ad,IaaS,RI,us-east-1,8,431.2929229877932
+Iterative DP,21,frontend,IaaS,RI,us-east-1,3,463.698854573375
+Iterative DP,21,checkout,SaaS,Standard,us-east-1,0,519.7297687967566
+Iterative DP,21,recommendation,IaaS,RI,us-east-1,9,390.40057096197916
+Iterative DP,21,productcatalog,IaaS,RI,us-east-1,9,3146.606006594372
+Iterative DP,21,cart,IaaS,RI,us-east-1,9,544.6668786205092
+Iterative DP,21,payment,SaaS,Standard,us-east-1,0,511.7665966255183
+Iterative DP,21,shipping,IaaS,RI,us-east-1,9,292.15878101602186
+Iterative DP,21,email,PaaS,Standard,us-east-1,0,186.22839470904879
+Iterative DP,21,currency,IaaS,RI,us-east-1,9,484.50223892585814
+Iterative DP,21,ad,IaaS,RI,us-east-1,9,446.5805789408937
+Iterative DP,22,frontend,IaaS,RI,us-east-1,4,843.4116294412229
+Iterative DP,22,checkout,SaaS,Standard,us-east-1,0,942.2398178906262
+Iterative DP,22,recommendation,IaaS,RI,us-east-1,10,651.3460314865092
+Iterative DP,22,productcatalog,IaaS,RI,us-east-1,10,6200.171299776735
+Iterative DP,22,cart,IaaS,RI,us-east-1,10,847.6552728069014
+Iterative DP,22,payment,SaaS,Standard,us-east-1,0,982.8387721971005
+Iterative DP,22,shipping,IaaS,RI,us-east-1,10,468.2237419261893
+Iterative DP,22,email,PaaS,Standard,us-east-1,0,349.69639234213173
+Iterative DP,22,currency,IaaS,RI,us-east-1,10,903.598302647527
+Iterative DP,22,ad,IaaS,RI,us-east-1,10,816.695641897583
+Iterative DP,23,frontend,IaaS,RI,us-east-1,5,514.1122644790714
+Iterative DP,23,checkout,SaaS,Standard,us-east-1,0,548.3365678480725
+Iterative DP,23,recommendation,IaaS,RI,us-east-1,11,393.1018733948248
+Iterative DP,23,productcatalog,IaaS,RI,us-east-1,11,3382.273318547629
+Iterative DP,23,cart,IaaS,RI,us-east-1,11,575.5449847455454
+Iterative DP,23,payment,SaaS,Standard,us-east-1,0,577.4920792621122
+Iterative DP,23,shipping,IaaS,RI,us-east-1,11,315.790584542939
+Iterative DP,23,email,PaaS,Standard,us-east-1,0,198.5624195342074
+Iterative DP,23,currency,IaaS,RI,us-east-1,11,549.5719744939918
+Iterative DP,23,ad,IaaS,RI,us-east-1,11,517.7706636288005
+Iterative DP,24,frontend,IaaS,RI,us-east-1,6,387.2667471970974
+Iterative DP,24,checkout,SaaS,Standard,us-east-1,0,365.7614331069133
+Iterative DP,24,recommendation,IaaS,RI,us-east-1,12,350.5218089649069
+Iterative DP,24,productcatalog,IaaS,RI,us-east-1,12,2513.8113504040366
+Iterative DP,24,cart,IaaS,RI,us-east-1,12,459.68430688397484
+Iterative DP,24,payment,SaaS,Standard,us-east-1,0,354.7878508055159
+Iterative DP,24,shipping,IaaS,RI,us-east-1,12,267.40012077249025
+Iterative DP,24,email,PaaS,Standard,us-east-1,0,129.4807979643072
+Iterative DP,24,currency,IaaS,RI,us-east-1,12,408.28290679170993
+Iterative DP,24,ad,IaaS,RI,us-east-1,12,377.5870812558185
+Iterative DP,25,frontend,IaaS,RI,us-east-1,7,391.94462093913785
+Iterative DP,25,checkout,SaaS,Standard,us-east-1,0,370.57730204833473
+Iterative DP,25,recommendation,IaaS,RI,us-east-1,1,340.0899682189105
+Iterative DP,25,productcatalog,IaaS,RI,us-east-1,1,2535.5366906349254
+Iterative DP,25,cart,IaaS,RI,us-east-1,1,472.33852228893056
+Iterative DP,25,payment,SaaS,Standard,us-east-1,0,349.06430663207203
+Iterative DP,25,shipping,IaaS,RI,us-east-1,1,264.18725571633445
+Iterative DP,25,email,PaaS,Standard,us-east-1,0,125.620888014159
+Iterative DP,25,currency,IaaS,RI,us-east-1,1,396.9682488027008
+Iterative DP,25,ad,IaaS,RI,us-east-1,1,373.35508946078414
+Iterative DP,26,frontend,IaaS,RI,us-east-1,8,460.69065923142955
+Iterative DP,26,checkout,SaaS,Standard,us-east-1,0,452.72775806378417
+Iterative DP,26,recommendation,IaaS,RI,us-east-1,2,384.70838138812906
+Iterative DP,26,productcatalog,IaaS,RI,us-east-1,2,2919.329796786057
+Iterative DP,26,cart,IaaS,RI,us-east-1,2,529.5897198069804
+Iterative DP,26,payment,SaaS,Standard,us-east-1,0,460.40773942225974
+Iterative DP,26,shipping,IaaS,RI,us-east-1,2,295.2200472819028
+Iterative DP,26,email,PaaS,Standard,us-east-1,0,164.62944352812855
+Iterative DP,26,currency,IaaS,RI,us-east-1,2,510.1096950412069
+Iterative DP,26,ad,IaaS,RI,us-east-1,2,485.71449082295135
+Iterative DP,27,frontend,IaaS,RI,us-east-1,9,510.74319279395513
+Iterative DP,27,checkout,SaaS,Standard,us-east-1,0,520.1468761179549
+Iterative DP,27,recommendation,IaaS,RI,us-east-1,3,427.150435202405
+Iterative DP,27,productcatalog,IaaS,RI,us-east-1,3,3521.848749819368
+Iterative DP,27,cart,IaaS,RI,us-east-1,3,558.4308148551908
+Iterative DP,27,payment,SaaS,Standard,us-east-1,0,496.81671461428357
+Iterative DP,27,shipping,IaaS,RI,us-east-1,3,302.1244514779693
+Iterative DP,27,email,PaaS,Standard,us-east-1,0,175.80980694994724
+Iterative DP,27,currency,IaaS,RI,us-east-1,3,582.8390930675532
+Iterative DP,27,ad,IaaS,RI,us-east-1,3,529.3783282622165
+Iterative DP,28,frontend,IaaS,RI,us-east-1,10,571.3608940663074
+Iterative DP,28,checkout,SaaS,Standard,us-east-1,0,612.0662314095673
+Iterative DP,28,recommendation,IaaS,RI,us-east-1,4,512.9700166570948
+Iterative DP,28,productcatalog,IaaS,RI,us-east-1,4,4462.885935255899
+Iterative DP,28,cart,IaaS,RI,us-east-1,4,638.3697095502272
+Iterative DP,28,payment,SaaS,Standard,us-east-1,0,625.3105706130721
+Iterative DP,28,shipping,IaaS,RI,us-east-1,4,344.67266846399787
+Iterative DP,28,email,PaaS,Standard,us-east-1,0,196.66242091581282
+Iterative DP,28,currency,IaaS,RI,us-east-1,4,625.6035503926258
+Iterative DP,28,ad,IaaS,RI,us-east-1,4,523.3698072670222
+Iterative DP,29,frontend,IaaS,RI,us-east-1,11,788.2064766787607
+Iterative DP,29,checkout,SaaS,Standard,us-east-1,0,956.8857629849517
+Iterative DP,29,recommendation,IaaS,RI,us-east-1,5,685.24847436891
+Iterative DP,29,productcatalog,IaaS,RI,us-east-1,5,5902.931660636796
+Iterative DP,29,cart,IaaS,RI,us-east-1,5,817.4231353202435
+Iterative DP,29,payment,SaaS,Standard,us-east-1,0,943.4686552785502
+Iterative DP,29,shipping,IaaS,RI,us-east-1,5,455.74263424003425
+Iterative DP,29,email,PaaS,Standard,us-east-1,0,358.7143240968033
+Iterative DP,29,currency,IaaS,RI,us-east-1,5,862.1485729641502
+Iterative DP,29,ad,IaaS,RI,us-east-1,5,821.2148282889981
+Iterative DP,30,frontend,IaaS,RI,us-east-1,12,858.651365386473
+Iterative DP,30,checkout,SaaS,Standard,us-east-1,0,1019.9627600929339
+Iterative DP,30,recommendation,IaaS,RI,us-east-1,6,737.9561044084769
+Iterative DP,30,productcatalog,IaaS,RI,us-east-1,6,6599.362789671072
+Iterative DP,30,cart,IaaS,RI,us-east-1,6,884.3791783313943
+Iterative DP,30,payment,SaaS,Standard,us-east-1,0,1071.7020573062919
+Iterative DP,30,shipping,IaaS,RI,us-east-1,6,495.4971174997843
+Iterative DP,30,email,PaaS,Standard,us-east-1,0,359.8738456737266
+Iterative DP,30,currency,IaaS,RI,us-east-1,6,913.0650787731837
+Iterative DP,30,ad,IaaS,RI,us-east-1,6,902.4990768173342
+Iterative DP,31,frontend,IaaS,RI,us-east-1,1,1143.1679707782303
+Iterative DP,31,checkout,SaaS,Standard,us-east-1,0,1444.6331555001707
+Iterative DP,31,recommendation,IaaS,RI,us-east-1,7,952.6545935046303
+Iterative DP,31,productcatalog,IaaS,RI,us-east-1,7,8642.324975505673
+Iterative DP,31,cart,IaaS,RI,us-east-1,7,1172.165579671936
+Iterative DP,31,payment,SaaS,Standard,us-east-1,0,1510.8635033109624
+Iterative DP,31,shipping,IaaS,RI,us-east-1,7,653.1882864582777
+Iterative DP,31,email,PaaS,Standard,us-east-1,0,503.9240141971013
+Iterative DP,31,currency,IaaS,RI,us-east-1,7,1266.2658053228315
+Iterative DP,31,ad,IaaS,RI,us-east-1,7,1089.7786568346164
+Iterative DP,32,frontend,IaaS,RI,us-east-1,2,1373.191994639497
+Iterative DP,32,checkout,SaaS,Standard,us-east-1,0,1763.728333824371
+Iterative DP,32,recommendation,IaaS,RI,us-east-1,8,1070.0172392386917
+Iterative DP,32,productcatalog,IaaS,RI,us-east-1,8,10945.05101001588
+Iterative DP,32,cart,IaaS,RI,us-east-1,8,1248.167723356109
+Iterative DP,32,payment,SaaS,Standard,us-east-1,0,1950.5735817803911
+Iterative DP,32,shipping,IaaS,RI,us-east-1,8,752.7518190528862
+Iterative DP,32,email,PaaS,Standard,us-east-1,0,624.4594012993056
+Iterative DP,32,currency,IaaS,RI,us-east-1,8,1561.5996039003408
+Iterative DP,32,ad,IaaS,RI,us-east-1,8,1488.6707270681418
+Iterative DP,33,frontend,IaaS,RI,us-east-1,3,1223.7103580381875
+Iterative DP,33,checkout,SaaS,Standard,us-east-1,0,1525.77703292326
+Iterative DP,33,recommendation,IaaS,RI,us-east-1,9,998.0684700822303
+Iterative DP,33,productcatalog,IaaS,RI,us-east-1,9,9501.519456034137
+Iterative DP,33,cart,IaaS,RI,us-east-1,9,1244.55875028336
+Iterative DP,33,payment,SaaS,Standard,us-east-1,0,1622.1523877937666
+Iterative DP,33,shipping,IaaS,RI,us-east-1,9,680.5397687401446
+Iterative DP,33,email,PaaS,Standard,us-east-1,0,541.8008970264276
+Iterative DP,33,currency,IaaS,RI,us-east-1,9,1319.7971875499766
+Iterative DP,33,ad,IaaS,RI,us-east-1,9,1142.9523014707788
+Iterative DP,34,frontend,IaaS,RI,us-east-1,4,997.4507903889239
+Iterative DP,34,checkout,SaaS,Standard,us-east-1,0,1184.178424792969
+Iterative DP,34,recommendation,IaaS,RI,us-east-1,10,789.5096033413912
+Iterative DP,34,productcatalog,IaaS,RI,us-east-1,10,7871.628701830941
+Iterative DP,34,cart,IaaS,RI,us-east-1,10,965.1855229326211
+Iterative DP,34,payment,SaaS,Standard,us-east-1,0,1215.9715324172678
+Iterative DP,34,shipping,IaaS,RI,us-east-1,10,567.1949605535052
+Iterative DP,34,email,PaaS,Standard,us-east-1,0,416.63241518582345
+Iterative DP,34,currency,IaaS,RI,us-east-1,10,1051.329126006977
+Iterative DP,34,ad,IaaS,RI,us-east-1,10,975.8501570343584
+Iterative DP,35,frontend,IaaS,RI,us-east-1,5,767.0418696642515
+Iterative DP,35,checkout,SaaS,Standard,us-east-1,0,862.8571590421154
+Iterative DP,35,recommendation,IaaS,RI,us-east-1,11,690.5298348115427
+Iterative DP,35,productcatalog,IaaS,RI,us-east-1,11,6051.4218338515375
+Iterative DP,35,cart,IaaS,RI,us-east-1,11,785.6209562236368
+Iterative DP,35,payment,SaaS,Standard,us-east-1,0,836.4309274183306
+Iterative DP,35,shipping,IaaS,RI,us-east-1,11,443.26542146953295
+Iterative DP,35,email,PaaS,Standard,us-east-1,0,305.6794507156063
+Iterative DP,35,currency,IaaS,RI,us-east-1,11,746.8868078858138
+Iterative DP,35,ad,IaaS,RI,us-east-1,11,761.8087236145085
+Iterative DP,36,frontend,IaaS,RI,us-east-1,6,962.7612008105136
+Iterative DP,36,checkout,SaaS,Standard,us-east-1,0,1153.5730223549365
+Iterative DP,36,recommendation,IaaS,RI,us-east-1,12,759.6854990963465
+Iterative DP,36,productcatalog,IaaS,RI,us-east-1,12,7244.35610845558
+Iterative DP,36,cart,IaaS,RI,us-east-1,12,1020.07777267963
+Iterative DP,36,payment,SaaS,Standard,us-east-1,0,1094.7552127547738
+Iterative DP,36,shipping,IaaS,RI,us-east-1,12,551.7648022159486
+Iterative DP,36,email,PaaS,Standard,us-east-1,0,417.50468036268023
+Iterative DP,36,currency,IaaS,RI,us-east-1,12,1045.6445837176107
+Iterative DP,36,ad,IaaS,RI,us-east-1,12,983.156938203293
