@@ -227,13 +227,14 @@ def generate_full_dataset(horizon_months=36):
     scenarios['Unicorn'] = propagate_demand(root_unicorn, SERVICE_TOPOLOGY)
     
     # 2. Zombie (Stagnation)
-    # Drift 2%, Volatility 10%
-    root_zombie = generate_gbm_demand(horizon_months, 0.02, 0.10, 50000, 202)
+    # Drift 2%, Volatility 10%, Higher starting volume to cross SaaS/IaaS threshold
+    root_zombie = generate_gbm_demand(horizon_months, 0.02, 0.10, 500000, 202)
     scenarios['Zombie'] = propagate_demand(root_zombie, SERVICE_TOPOLOGY)
     
     # 3. Pivot (Crash & Recovery)
-    root_pivot = generate_gbm_demand(horizon_months, 0.15, 0.40, 50000, 303)
-    # Inject 70% crash at Month 12
+    # Higher starting volume ensures IaaS is optimal before crash
+    root_pivot = generate_gbm_demand(horizon_months, 0.15, 0.40, 300000, 303)
+    # Inject 70% crash at Month 12 (drops into SaaS-favorable territory)
     root_pivot[12:18] *= 0.30 
     scenarios['Pivot'] = propagate_demand(root_pivot, SERVICE_TOPOLOGY)
     
@@ -264,8 +265,18 @@ if __name__ == "__main__":
     print("Generating Cloud Lifecycle Dataset...")
     data = generate_full_dataset(36)
     
-    # Export specific check for 'Unicorn' scenario
-    print(f"{'Service':<15} | {'Month 1 Req':<12} | {'Month 36 Req':<12} | {'M36 Peak RPS':<12} | {'M36 VMs'}")
+    # Save all three scenarios as separate CSV files
+    scenario_files = {
+        'Unicorn': 'simulation_data_unicorn.csv',   # Scenario A: Hyper-growth
+        'Zombie': 'simulation_data_zombie.csv',     # Scenario B: Stagnation
+        'Pivot': 'simulation_data_pivot.csv'        # Scenario C: Crash & Recovery
+    }
+    
+    for scenario_name, filename in scenario_files.items():
+        save_trace_to_csv(data[scenario_name], filename)
+    
+    # Print summary for Unicorn scenario
+    print(f"\n{'Service':<15} | {'Month 1 Req':<12} | {'Month 36 Req':<12} | {'M36 Peak RPS':<12} | {'M36 VMs'}")
     print("-" * 75)
     
     unicorn_data = data['Unicorn']
@@ -274,10 +285,6 @@ if __name__ == "__main__":
         m36 = trace[-1]
         vms, vtype = calculate_resources(svc, m36)
         peak_rps = (m36 / (30*24*3600)) * 3.0
-        
         print(f"{svc:<15} | {m1:,.0f} | {m36:,.0f} | {peak_rps:,.1f} | {vms}x {vtype}")
         
-    # Optional: Save to CSV for the Solver to load
-    # df = pd.DataFrame(unicorn_data)
-    # df.to_csv('simulation_data.csv')
     print("\nDataset generation complete. Ready for Optimization Solver.")

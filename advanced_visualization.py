@@ -90,12 +90,16 @@ def solve_with_history(algorithm, services, full_trace, horizon, lookahead):
     
     return history
 
-def run_advanced_visualization():
+def run_advanced_visualization(trace_path='simulation_data.csv', scenario_name='default'):
     """
     Create advanced multi-panel visualization combining Graph 1 and Graph 5.
+    
+    Args:
+        trace_path: Path to the CSV file containing demand trace data
+        scenario_name: Name of the scenario for labeling outputs
     """
     print("=" * 60)
-    print("  ADVANCED LOOKAHEAD VISUALIZATION")
+    print(f"  ADVANCED LOOKAHEAD VISUALIZATION - {scenario_name.upper()}")
     print("=" * 60)
     
     horizon = SimConfig.SCENARIO_HORIZON
@@ -103,15 +107,12 @@ def run_advanced_visualization():
     
     # Load trace
     print("\n[1/4] Loading demand trace...")
-    trace_path = 'simulation_data.csv'
     if os.path.exists(trace_path):
         full_trace = load_trace_from_csv(trace_path)
         print(f"      Loaded from {trace_path}")
     else:
-        root_trace = generate_gbm_demand(horizon + 12, SimConfig.GBM_MU, SimConfig.GBM_SIGMA, 
-                                         SimConfig.GBM_START, SimConfig.GBM_SEED)
-        full_trace = propagate_demand(root_trace, SERVICE_TOPOLOGY)
-        print("      Generated new trace")
+        print(f"      ERROR: {trace_path} not found!")
+        return
     
     lookaheads = [1, 3, 6, 9, 12, 15, 18]
     
@@ -222,7 +223,9 @@ def run_advanced_visualization():
     gap_data.append(iter_gaps)
     
     gap_array = np.array(gap_data)
-    im = ax4.imshow(gap_array, cmap='RdYlGn_r', aspect='auto', vmin=0, vmax=150)
+    # Dynamic vmax based on actual data range
+    vmax_val = max(np.max(gap_array), 10)  # At least 10% for visibility
+    im = ax4.imshow(gap_array, cmap='RdYlGn_r', aspect='auto', vmin=0, vmax=vmax_val)
     
     ax4.set_xticks(np.arange(len(lookaheads)))
     ax4.set_yticks(np.arange(len(algorithms)))
@@ -249,19 +252,24 @@ def run_advanced_visualization():
     ax5.axhline(y=histories['Reactive'][-1], color='m', linestyle='--', linewidth=2, label='Reactive')
     ax5.axhline(y=histories['Decoupled DP'][-1], color='k', linestyle=':', linewidth=2, label='Lower Bound')
     
-    # Add annotations for best values
+    # Add annotations for best values with dynamic positioning
     best_dma_idx = np.argmin(dma_finals)
     best_iter_idx = np.argmin(iter_finals)
     
+    # Calculate y-range for relative offsets
+    all_values = dma_finals + iter_finals + [histories['Reactive'][-1], histories['Decoupled DP'][-1]]
+    y_range = max(all_values) - min(all_values)
+    offset = max(y_range * 0.08, 1000)  # 8% of range, minimum 1000
+    
     ax5.annotate(f'Best: ${dma_finals[best_dma_idx]/1000:.0f}K', 
                 xy=(lookaheads[best_dma_idx], dma_finals[best_dma_idx]),
-                xytext=(lookaheads[best_dma_idx] + 0.5, dma_finals[best_dma_idx] + 50000),
+                xytext=(lookaheads[best_dma_idx] + 1, dma_finals[best_dma_idx] + offset),
                 fontsize=10, color='green', fontweight='bold',
                 arrowprops=dict(arrowstyle='->', color='green', lw=1.5))
     
     ax5.annotate(f'Best: ${iter_finals[best_iter_idx]/1000:.0f}K', 
                 xy=(lookaheads[best_iter_idx], iter_finals[best_iter_idx]),
-                xytext=(lookaheads[best_iter_idx] - 2, iter_finals[best_iter_idx] - 80000),
+                xytext=(lookaheads[best_iter_idx] + 1, iter_finals[best_iter_idx] - offset),
                 fontsize=10, color='#17becf', fontweight='bold',
                 arrowprops=dict(arrowstyle='->', color='#17becf', lw=1.5))
     
@@ -276,18 +284,21 @@ def run_advanced_visualization():
     ax5.fill_between(lookaheads, histories['Decoupled DP'][-1], iter_finals, 
                      alpha=0.2, color='cyan', label='_nolegend_')
     
-    plt.suptitle('Graph 5: Lookahead Sensitivity Analysis\n(Combined View)', 
+    plt.suptitle(f'Graph 5: Lookahead Sensitivity Analysis - {scenario_name}\n(Combined View)', 
                  fontsize=16, fontweight='bold', y=1.02)
     
     plt.tight_layout()
     os.makedirs('output', exist_ok=True)
-    plt.savefig('output/graph5_advanced.png', dpi=150, bbox_inches='tight')
-    print("      Saved: output/graph5_advanced.png")
+    output_file = f'output/graph5_advanced_{scenario_name}.png'
+    plt.savefig(output_file, dpi=150, bbox_inches='tight')
+    print(f"      Saved: {output_file}")
     
     try:
         plt.show()
     except:
         pass
+    
+    plt.close(fig)  # Clean up between scenarios
     
     # Summary
     print("\n" + "=" * 60)
@@ -301,4 +312,24 @@ def run_advanced_visualization():
     print("=" * 60)
 
 if __name__ == "__main__":
-    run_advanced_visualization()
+    import sys
+    
+    # Define the three scenarios
+    scenarios = {
+        'Unicorn': 'simulation_data_unicorn.csv',   # Scenario A: Hyper-growth
+        'Zombie': 'simulation_data_zombie.csv',     # Scenario B: Stagnation  
+        'Pivot': 'simulation_data_pivot.csv'        # Scenario C: Crash & Recovery
+    }
+    
+    # Check if a specific scenario was requested via command line
+    if len(sys.argv) > 1:
+        scenario = sys.argv[1]
+        if scenario in scenarios:
+            run_advanced_visualization(scenarios[scenario], scenario)
+        else:
+            print(f"Unknown scenario: {scenario}. Use: Unicorn, Zombie, or Pivot")
+    else:
+        # Run all three
+        for name, path in scenarios.items():
+            run_advanced_visualization(path, name)
+            print("\n" + "#" * 80 + "\n")
